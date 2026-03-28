@@ -15,7 +15,8 @@
               "state": {
                 "file": "test.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "test"
@@ -176,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +197,7 @@
   },
   "active": "1c9289a2fa63b454",
   "lastOpenFiles": [
+    "链接.md",
     "test.md",
     "新建 文本文档.txt"
   ]
