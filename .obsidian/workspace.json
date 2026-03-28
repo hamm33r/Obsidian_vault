@@ -116,7 +116,7 @@
               "state": {
                 "file": "我的数学错题.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "我的数学错题 的出链列表"
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c9289a2fa63b454",
+  "active": "a24ae53d2b7765d7",
   "lastOpenFiles": [
     "计算技巧.md",
     "我的数学错题.md",
