@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可导与连续.md",
+                "file": "数学/我的数学错题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可导与连续"
+              "title": "我的数学错题"
             }
           }
         ],
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可导与连续.md",
+                "file": "数学/我的数学错题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "可导与连续 的出链列表"
+              "title": "我的数学错题 的出链列表"
             }
           },
           {
@@ -240,14 +240,14 @@
   },
   "active": "3ec245136d7f68c4",
   "lastOpenFiles": [
-    "数学/计算技巧.md",
-    "可导与连续.md",
     "数学/曲率.md",
-    "数学/我的数学错题.md",
+    "数学/可导与连续.md",
+    "数学/计算技巧.md",
+    "408/卡特兰数.md",
     "408/408错题.md",
+    "数学/我的数学错题.md",
     "408/assets/408错题",
     "408/assets",
-    "408/卡特兰数.md",
     "数学/assets/我的数学错题/file-20260329135933143.png",
     "数学/assets/我的数学错题",
     "数学/assets",
