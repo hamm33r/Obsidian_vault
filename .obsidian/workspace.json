@@ -72,7 +72,7 @@
               "state": {
                 "file": "数学/我的数学错题.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "我的数学错题"
