@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "凹凸函数的定义.md",
+                "file": "数学/凹凸函数的定义.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "凹凸函数的定义.md",
+                "file": "数学/凹凸函数的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -252,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc1b7b72f3dea391",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
     "数学/计算技巧.md",
-    "凹凸函数的定义.md",
+    "数学/凹凸函数的定义.md",
     "数学/我的数学错题.md",
     "数学/曲率.md",
     "数学/可导与连续.md",
