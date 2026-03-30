@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/我的数学错题.md",
+                "file": "数学/凹凸函数的定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的数学错题"
+              "title": "凹凸函数的定义"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/我的数学错题.md",
+                "file": "数学/凹凸函数的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "我的数学错题 的反向链接列表"
+              "title": "凹凸函数的定义 的反向链接列表"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/我的数学错题.md",
+                "file": "数学/计算技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "我的数学错题 的出链列表"
+              "title": "计算技巧 的出链列表"
             }
           },
           {
@@ -248,15 +248,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee51d218717384c",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
     "数学/计算技巧.md",
     "数学/可导与连续.md",
+    "数学/曲率.md",
+    "数学/我的数学错题.md",
     "数学/凹凸函数的定义.md",
     "408/408错题.md",
     "408/卡特兰数.md",
     "408/数字电路.md",
-    "数学/我的数学错题.md",
     "408/assets/数字电路/file-20260329221108877.png",
     "408/assets/数字电路/file-20260329220726775.png",
     "408/assets/数字电路/file-20260329220512628.png",
@@ -265,7 +266,6 @@
     "408/assets/数字电路/file-20260329214759111.png",
     "assets/数字电路",
     "assets",
-    "数学/曲率.md",
     "数学/assets/曲率/file-20260329211213796.png",
     "数学/assets/曲率",
     "408/assets/408错题",
