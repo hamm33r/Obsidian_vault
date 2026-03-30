@@ -91,9 +91,23 @@
               "icon": "lucide-file",
               "title": "算术逻辑单元（ALU）"
             }
+          },
+          {
+            "id": "5b8f9de3431a5e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定点数的移位运算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定点数的移位运算"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -195,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算术逻辑单元（ALU）.md",
+                "file": "定点数的移位运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "算术逻辑单元（ALU） 的出链列表"
+              "title": "定点数的移位运算 的出链列表"
             }
           },
           {
@@ -276,11 +290,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11e983ca432c3ac7",
+  "active": "5b8f9de3431a5e20",
   "lastOpenFiles": [
+    "assets/定点数的移位运算/file-20260330164708344.png",
+    "assets/定点数的移位运算",
+    "算术逻辑单元（ALU）.md",
+    "定点数的移位运算.md",
     "assets/算术逻辑单元（ALU）/file-20260330162833413.png",
     "带标志位加法器.md",
-    "算术逻辑单元（ALU）.md",
     "assets/算术逻辑单元（ALU）/file-20260330162408645.png",
     "assets/算术逻辑单元（ALU）",
     "assets/带标志位加法器/file-20260330160940631.png",
@@ -307,8 +324,6 @@
     "408/assets",
     "数学/assets/我的数学错题/file-20260329135933143.png",
     "数学/assets/我的数学错题",
-    "数学/assets",
-    "408/assets/408错题/file-20260328222512568.png",
     "链接.md"
   ]
 }
