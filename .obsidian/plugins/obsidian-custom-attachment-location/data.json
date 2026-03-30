@@ -3,7 +3,7 @@
   "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Skip",
   "collectedAttachmentFileName": "",
-  "convertImagesToJpegMode": "None",
+  "convertImagesToJpegMode": "All images except already JPEG files",
   "customTokensStr": "",
   "defaultImageSize": "",
   "defaultImageSizeDimension": "width",
