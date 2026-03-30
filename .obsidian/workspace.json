@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/凹凸函数的定义.md",
+                "file": "证明题解题思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "凹凸函数的定义"
+              "title": "证明题解题思路"
             }
           },
           {
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -332,16 +332,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a28a1a82e4fd6d6",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
+    "408/带标志位加法器.md",
+    "408/定点数的移位运算.md",
+    "408/算术逻辑单元（ALU）.md",
     "408/原码，反码，补码.md",
     "证明题解题思路.md",
+    "数学/凹凸函数的定义.md",
     "408/卡特兰数.md",
-    "408/算术逻辑单元（ALU）.md",
     "408/数字电路.md",
-    "408/定点数的移位运算.md",
     "408/定点数的加减运算.md",
-    "408/带标志位加法器.md",
     "408/assets/算术逻辑单元（ALU）",
     "408/assets/定点数的移位运算",
     "408/assets/带标志位加法器",
@@ -360,7 +361,6 @@
     "408/assets/带标志位加法器/file-20260330160940631.png",
     "assets/带标志位加法器",
     "assets",
-    "数学/凹凸函数的定义.md",
     "数学/计算技巧.md",
     "数学/可导与连续.md",
     "数学/曲率.md",
