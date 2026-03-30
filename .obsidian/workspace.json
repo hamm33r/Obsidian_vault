@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "定点数的加减运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "定点数的加减运算"
             }
           }
         ],
@@ -237,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "定点数的加减运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "定点数的加减运算 的出链列表"
             }
           },
           {
@@ -320,12 +320,14 @@
   },
   "active": "399e8c69db1547c3",
   "lastOpenFiles": [
+    "定点数的移位运算.md",
+    "定点数的加减运算.md",
+    "assets/定点数的加减运算/file-20260330173906365.png",
+    "assets/定点数的加减运算",
     "原码，反码，补码.md",
-    "未命名.md",
     "408/408错题.md",
     "408/卡特兰数.md",
     "408/数字电路.md",
-    "定点数的移位运算.md",
     "assets/定点数的移位运算/file-20260330164708344.png",
     "assets/定点数的移位运算",
     "算术逻辑单元（ALU）.md",
@@ -348,11 +350,9 @@
     "408/assets/数字电路",
     "408/assets/数字电路/file-20260329214759111.png",
     "assets/数字电路",
-    "数学/assets/曲率/file-20260329211213796.png",
     "数学/assets/曲率",
     "408/assets/408错题",
     "408/assets",
-    "数学/assets/我的数学错题",
     "链接.md"
   ]
 }
