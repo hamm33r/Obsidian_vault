@@ -112,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无符号整数的乘法运算.md",
+                "file": "408/带标志位加法器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无符号整数的乘法运算"
+              "title": "带标志位加法器"
             }
           }
         ],
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "无符号整数的乘法运算.md",
+                "file": "408/带标志位加法器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "无符号整数的乘法运算 的出链列表"
+              "title": "带标志位加法器 的出链列表"
             }
           },
           {
@@ -306,8 +306,9 @@
   },
   "active": "e922604a48369f02",
   "lastOpenFiles": [
-    "定点数的移位运算.md",
+    "408/定点数的加减运算.md",
     "无符号整数的乘法运算.md",
+    "定点数的移位运算.md",
     "带符号整数的乘法运算.md",
     "泰勒公式.md",
     "数学/曲率.md",
@@ -344,7 +345,6 @@
     "408/定点数的移位运算.md",
     "408/卡特兰数.md",
     "408/数字电路.md",
-    "408/定点数的加减运算.md",
     "408/408错题.md",
     "assets/无符号数的加减运算",
     "数学/凹凸函数的定义.md",
