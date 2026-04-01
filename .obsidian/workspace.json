@@ -138,10 +138,14 @@
             "id": "ac043599451ec6dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "无符号整数的除法运算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无符号整数的除法运算"
             }
           }
         ],
@@ -247,11 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "无符号整数的除法运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "无符号整数的除法运算 的出链列表"
             }
           },
           {
@@ -329,6 +334,8 @@
   },
   "active": "ac043599451ec6dc",
   "lastOpenFiles": [
+    "assets/无符号整数的除法运算/file-20260401163642397.png",
+    "assets/无符号整数的除法运算",
     "408/408错题.md",
     "408/带标志位加法器.md",
     "408/定点数的加减运算.md",
@@ -348,7 +355,7 @@
     "assets/计算机实现乘法运算的三种常见方式",
     "无符号整数的乘法运算.md",
     "408/assets/带符号整数的乘法运算/file-20260401161823029.png",
-    "未命名.md",
+    "无符号整数的除法运算.md",
     "408/assets/带符号整数的乘法运算/file-20260401161823030.png",
     "数学/泰勒公式.md",
     "数学/曲率.md",
@@ -370,7 +377,6 @@
     "数学/assets/经典题目/file-20260331222756227.png",
     "数学/我的数学错题.md",
     "数学/拉格朗日中值定理解题思路.md",
-    "数学/assets/经典题目",
     "数学/assets/经典题目/file-20260331221321525.png",
     "数学/凹凸函数的定义.md",
     "链接.md"
