@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定点数的乘除运算.md",
+                "file": "无符号整数的乘法运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定点数的乘除运算"
+              "title": "无符号整数的乘法运算"
             }
           }
         ],
@@ -195,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定点数的乘除运算.md",
+                "file": "无符号整数的乘法运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定点数的乘除运算 的出链列表"
+              "title": "无符号整数的乘法运算 的出链列表"
             }
           },
           {
@@ -278,13 +278,16 @@
   },
   "active": "8f229df43aeeb5f2",
   "lastOpenFiles": [
-    "assets/定点数的乘除运算/file-20260401121621480.png",
-    "assets/定点数的乘除运算/file-20260401121331797.png",
-    "assets/定点数的乘除运算/file-20260401120646643.png",
+    "assets/无符号整数的乘法运算",
+    "assets/无符号整数的乘除运算",
+    "assets/乘除运算",
+    "assets/无符号整数的乘法运算/file-20260401122442025.png",
+    "assets/无符号整数的乘法运算/file-20260401122442025 1.png",
+    "assets/无符号整数的乘法运算/file-20260401122442027.png",
     "assets/定点数的乘除运算",
     "assets",
     "408/无符号数的加减运算.md",
-    "定点数的乘除运算.md",
+    "无符号整数的乘法运算.md",
     "408/原码，反码，补码.md",
     "泰勒公式.md",
     "数学/经典题目.md",
@@ -312,12 +315,9 @@
     "assets/无符号数的加减运算",
     "数学/计算技巧.md",
     "408/assets/408错题/file-20260328222252932.png",
-    "408/assets/408错题/file-20260328222512568.png",
     "408/assets/卡特兰数",
     "数学/凹凸函数的定义.md",
     "408/assets/算术逻辑单元（ALU）",
-    "408/assets/定点数的移位运算",
-    "408/assets/带标志位加法器",
     "数学/可导与连续.md",
     "链接.md"
   ]
