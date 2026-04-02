@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模（MOD）运算规则.md",
+                "file": "408/无符号整数的乘法运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模（MOD）运算规则"
+              "title": "无符号整数的乘法运算"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "乘法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模（MOD）运算规则.md",
+                "file": "408/无符号整数的乘法运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "模（MOD）运算规则 的出链列表"
+              "title": "无符号整数的乘法运算 的出链列表"
             }
           },
           {
@@ -235,8 +236,12 @@
   },
   "active": "61b197a96ee7cbbd",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "408/计算机实现乘法运算的三种常见方式.md",
     "408/带标志位加法器.md",
+    "408/模（MOD）运算规则.md",
+    "数学/assets/证明函数根存在性的问题",
+    "数学/assets/微分不等式",
+    "未命名 1.md",
     "408/无符号数的加减运算.md",
     "408/算术逻辑单元（ALU）.md",
     "408/带符号整数的乘法运算.md",
@@ -245,12 +250,11 @@
     "408/带符号整数（补码）除法.md",
     "408/定点数的移位运算.md",
     "408/无符号整数的除法运算.md",
-    "模（MOD）运算规则.md",
-    "证明函数根存在性的问题.md",
-    "assets/证明函数根存在性的问题/file-20260401223603470.png",
-    "assets/证明函数根存在性的问题/file-20260401223410749.png",
+    "数学/证明函数根存在性的问题.md",
+    "数学/assets/证明函数根存在性的问题/file-20260402172455418.png",
+    "数学/assets/证明函数根存在性的问题/file-20260402172455411.png",
     "assets/证明函数根存在性的问题",
-    "微分不等式.md",
+    "数学/微分不等式.md",
     "数学/罗尔定理的推论.md",
     "数学/证明题解题思路.md",
     "数学/泰勒公式.md",
@@ -261,7 +265,7 @@
     "408/assets/带符号整数（补码）除法",
     "408/assets/无符号整数的除法运算",
     "408/assets/无符号整数的乘法运算",
-    "assets/微分不等式/file-20260401215442067.png",
+    "数学/assets/微分不等式/file-20260402172454300.png",
     "assets/微分不等式",
     "数学/计算技巧.md",
     "数学/构造辅助函数.md",
@@ -276,10 +280,6 @@
     "408/assets/无符号整数的除法运算/file-20260401215526901.png",
     "assets/无符号整数的除法运算",
     "408/408错题.md",
-    "408/计算机实现乘法运算的三种常见方式.md",
-    "408/卡特兰数.md",
-    "408/数字电路.md",
-    "408/assets/计算机实现乘法运算的三种常见方式",
-    "408/assets/带符号整数的乘法运算"
+    "408/卡特兰数.md"
   ]
 }
