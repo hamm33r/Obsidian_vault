@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机实现乘法运算的三种常见方式.md",
+                "file": "408/算术逻辑单元（ALU）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机实现乘法运算的三种常见方式"
+              "title": "算术逻辑单元（ALU）"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "乘法",
+                "query": "ALU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/计算机实现乘法运算的三种常见方式.md",
+                "file": "408/算术逻辑单元（ALU）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "计算机实现乘法运算的三种常见方式 的出链列表"
+              "title": "算术逻辑单元（ALU） 的出链列表"
             }
           },
           {
@@ -236,14 +236,14 @@
   },
   "active": "0e75ecbcad931e3f",
   "lastOpenFiles": [
+    "408/定点数的加减运算溢出判别.md",
+    "408/带符号整数的乘法运算.md",
+    "408/带标志位加法器.md",
+    "408/计算机实现乘法运算的三种常见方式.md",
     "两个不同点使表达式成立（不同中值）.md",
     "整型类型的相互转换.md",
     "408/无符号整数的乘法运算.md",
-    "408/计算机实现乘法运算的三种常见方式.md",
-    "408/定点数的加减运算溢出判别.md",
-    "408/带标志位加法器.md",
     "408/无符号数的加减运算.md",
-    "408/带符号整数的乘法运算.md",
     "408/带符号整数（补码）除法.md",
     "408/定点数的移位运算.md",
     "数学/微分不等式.md",
