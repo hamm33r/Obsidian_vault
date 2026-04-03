@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/定点数的加减运算溢出判别.md",
+                "file": "408/计算机实现乘法运算的三种常见方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定点数的加减运算溢出判别"
+              "title": "计算机实现乘法运算的三种常见方式"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "溢出",
+                "query": "乘法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/定点数的加减运算溢出判别.md",
+                "file": "408/计算机实现乘法运算的三种常见方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定点数的加减运算溢出判别 的出链列表"
+              "title": "计算机实现乘法运算的三种常见方式 的出链列表"
             }
           },
           {
@@ -235,9 +235,12 @@
   },
   "active": "3d44b6de17cd5de7",
   "lastOpenFiles": [
+    "整型类型的相互转换.md",
+    "408/定点数的加减运算溢出判别.md",
+    "408/带标志位加法器.md",
+    "408/无符号数的加减运算.md",
     "408/带符号整数的乘法运算.md",
     "408/带符号整数（补码）除法.md",
-    "408/带标志位加法器.md",
     "408/定点数的移位运算.md",
     "数学/微分不等式.md",
     "数学/assets/微分不等式/file-20260402223048515.png",
@@ -251,7 +254,6 @@
     "数学/构造辅助函数.md",
     "数学/罗尔定理的推论.md",
     "数学/不等式.md",
-    "整型类型的相互转换.md",
     "两个不同点使表达式成立（不同中值）.md",
     "assets/两个不同点使表达式成立（不同中值）/file-20260402211417230.png",
     "assets/两个不同点使表达式成立（不同中值）",
@@ -275,9 +277,7 @@
     "数学/assets/证明函数根存在性的问题",
     "数学/assets/微分不等式",
     "未命名 1.md",
-    "408/无符号数的加减运算.md",
     "408/算术逻辑单元（ALU）.md",
-    "408/定点数的加减运算溢出判别.md",
     "408/assets/定点数的加减运算溢出判别",
     "数学/assets/证明函数根存在性的问题/file-20260402172455418.png",
     "assets/证明函数根存在性的问题"
