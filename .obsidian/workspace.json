@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/泰勒公式.md",
+                "file": "导数定义解题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泰勒公式"
+              "title": "导数定义解题"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/泰勒公式.md",
+                "file": "导数定义解题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "泰勒公式 的出链列表"
+              "title": "导数定义解题 的出链列表"
             }
           },
           {
@@ -247,10 +247,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d93ec2f0cfe724e1",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
-    "数学/实系数奇次方程至少有一个实根.md",
+    "().md",
+    "导数定义解题.md",
+    "数学/我的数学错题.md",
+    "数学/微分不等式.md",
     "数学/泰勒公式.md",
+    "数学/实系数奇次方程至少有一个实根.md",
     "数学/曲率.md",
     "数学/罗尔定理的推论.md",
     "数学/拉格朗日中值定理解题思路.md",
@@ -260,7 +264,6 @@
     "数学/构造辅助函数.md",
     "数学/不等式.md",
     "数学/凹凸函数的定义.md",
-    "导数定义解题.md",
     "assets/导数定义解题/file-20260403223550858.png",
     "assets/导数定义解题",
     "遇到函数与导函数组合在一起时.md",
@@ -269,7 +272,6 @@
     "408/无符号整数的乘法运算.md",
     "两个不同点使表达式成立（不同中值）.md",
     "整型类型的相互转换.md",
-    "().md",
     "数学/assets/不等式/file-20260403213352656.png",
     "数学/assets/不等式",
     "408/定点数的加减运算溢出判别.md",
@@ -277,8 +279,6 @@
     "408/带标志位加法器.md",
     "408/算术逻辑单元（ALU）.md",
     "408/带符号整数的乘法运算.md",
-    "408/计算机实现乘法运算的三种常见方式.md",
-    "408/带符号整数（补码）除法.md",
     "数学/assets/微分不等式/file-20260402223048515.png",
     "assets/两个不同点使表达式成立（不同中值）/file-20260402211417230.png",
     "assets/两个不同点使表达式成立（不同中值）",
