@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/构造辅助函数.md",
+                "file": "数学/遇到函数与导函数组合在一起时.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "构造辅助函数"
+              "title": "遇到函数与导函数组合在一起时"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "构造",
+                "query": "柯西",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/构造辅助函数.md",
+                "file": "数学/遇到函数与导函数组合在一起时.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "构造辅助函数 的出链列表"
+              "title": "遇到函数与导函数组合在一起时 的出链列表"
             }
           },
           {
@@ -250,11 +250,12 @@
   },
   "active": "d93ec2f0cfe724e1",
   "lastOpenFiles": [
+    "数学/微分不等式.md",
+    "数学/凹凸函数的定义.md",
+    "数学/构造辅助函数.md",
     "数学/assets/构造辅助函数/file-20260404115528794.png",
     "数学/assets/构造辅助函数",
     "数学/连续不等式题目的思考方向.md",
-    "数学/凹凸函数的定义.md",
-    "数学/构造辅助函数.md",
     "数学/泰勒公式.md",
     "数学/导数定义解题.md",
     "数学/计算技巧.md",
@@ -262,7 +263,6 @@
     "数学/assets/导数定义解题",
     "().md",
     "数学/我的数学错题.md",
-    "数学/微分不等式.md",
     "数学/实系数奇次方程至少有一个实根.md",
     "数学/曲率.md",
     "数学/罗尔定理的推论.md",
@@ -293,7 +293,6 @@
     "assets/存在两个不同点时表达式成立（不同中值)/file-20260402210657940.png",
     "assets/存在两个不同点时表达式成立（不同中值)/file-20260402210629204.png",
     "assets/存在两个不同点时表达式成立（不同中值)/file-20260402210624174.png",
-    "assets/存在两个不同点时表达式成立（不同中值)/file-20260402210609190.png",
     "assets/整型类型的相互转换",
     "assets/存在两个不同点时表达式成立（不同中值)"
   ]
