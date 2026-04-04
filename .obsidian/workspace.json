@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "加减运算部件",
+                "query": "OF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67978be4834424ad",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "408/assets/带标志位加法器（加减运算部件）/file-20260404163632473.png",
     "408/assets/带标志位加法器（加减运算部件）/file-20260404163109074.png",
