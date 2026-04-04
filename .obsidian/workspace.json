@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/构造辅助函数.md",
+                "file": "数学/凹凸函数的定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "构造辅助函数"
+              "title": "凹凸函数的定义"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "导数",
+                "query": "凹函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/构造辅助函数.md",
+                "file": "数学/凹凸函数的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "构造辅助函数 的出链列表"
+              "title": "凹凸函数的定义 的出链列表"
             }
           },
           {
@@ -249,10 +250,10 @@
   },
   "active": "d93ec2f0cfe724e1",
   "lastOpenFiles": [
+    "数学/构造辅助函数.md",
     "数学/泰勒公式.md",
     "数学/凹凸函数的定义.md",
     "数学/导数定义解题.md",
-    "数学/构造辅助函数.md",
     "数学/计算技巧.md",
     "数学/assets/两个不同点使表达式成立（不同中值）",
     "数学/assets/导数定义解题",
