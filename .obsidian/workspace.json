@@ -53,32 +53,14 @@
             "id": "748e5235c66f9ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/无符号数和有符号数的加减运算.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无符号数和有符号数的加减运算"
-            }
-          },
-          {
-            "id": "f33ff5526ca69c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/408错题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "408错题"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,12 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/408错题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "408错题 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -243,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -261,12 +242,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f33ff5526ca69c87",
+  "active": "65465b6d29a5aa5a",
   "lastOpenFiles": [
-    "408/原码，反码，补码，补数.md",
     "408/无符号数和有符号数的加减运算.md",
-    "408/带标志位加法器（加减运算部件）.md",
+    "2026-04-04.md",
     "408/408错题.md",
+    "未命名.base",
+    "408/原码，反码，补码，补数.md",
+    "408/带标志位加法器（加减运算部件）.md",
     "数学/凹凸函数的定义.md",
     "408/assets/无符号数和有符号数的加减运算/file-20260404153159830.png",
     "408/带符号整数的乘法运算.md",
@@ -306,7 +289,6 @@
     "数学/assets/不等式",
     "数学/assets/微分不等式/file-20260402223048515.png",
     "assets/两个不同点使表达式成立（不同中值）",
-    "assets/遇到两个点不同",
-    "assets/未命名"
+    "assets/遇到两个点不同"
   ]
 }
