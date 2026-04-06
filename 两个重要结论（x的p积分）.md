@@ -5,7 +5,7 @@
 >记忆：看下限是0，很小，所以p越小越收敛
 >$$ 只要a>0,这个敛散性只与下限0有关\int_{0}^{a} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & 0 < p < 1, \\ \text{发散}, & p \ge 1. \end{cases} $$
 >对于上面的式子，如果被积函数的瑕点是1，$\int_{\frac 1 2}^{1}$也是可以用这个p的结论
->也就是只要这个被积函数的唯一瑕点不是$+\infty$都是用这个
+>也就是只要是p积分这个形式，这个被积函数只有一个瑕点，在有限区间积分，都是用的p<1收敛
 --- 
 ### ② 无穷区间反常积分：$\displaystyle \int_{1}^{+\infty} \frac{1}{x^p} \, dx$ $$ \int_{1}^{+\infty} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & p > 1, \\ \text{发散}, & p \le 1. \end{cases} $$ - **关键说明**：$p=1$ 是临界值，此时 $$ \int_{1}^{+\infty} \frac{1}{x} \, dx = \lim_{b \to +\infty} \int_{1}^{b} \frac{1}{x} \, dx = \lim_{b \to +\infty} (\ln b - \ln 1) = +\infty $$ 故积分发散。
 >记忆：看上限是正无穷，所以p越大越收敛
