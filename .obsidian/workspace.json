@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "变限积分性质.md",
+                "file": "定积分的精确定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "变限积分性质"
+              "title": "定积分的精确定义"
             }
           }
         ],
@@ -305,6 +305,7 @@
   },
   "active": "c0c2b9d7720e35cc",
   "lastOpenFiles": [
+    "变限积分性质.md",
     "两个重要结论（x的p积分）.md",
     "数列和的极限.md",
     "原函数（不定积分）存在定理.md",
@@ -315,7 +316,6 @@
     "函数与函数绝对值连续，可导的关系.md",
     "绝对值积分收敛则原函数积分收敛.md",
     "敛散性判别法.md",
-    "变限积分性质.md",
     "联系不定积分与定积分.md",
     "assets/两个重要结论（x的p积分）/file-20260406121840306.png",
     "assets/两个重要结论（x的p积分）",
