@@ -3,9 +3,11 @@
 ## 一、两类基本p-积分的敛散性 
 ### ① 瑕积分（无界函数反常积分）：$\displaystyle \int_{0}^{1} \frac{1}{x^p} \, dx$ $$ \int_{0}^{1} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & 0 < p < 1, \\ \text{发散}, & p \ge 1. \end{cases} $$ - **关键说明**：$p=1$ 是临界值，此时 $$ \int_{0}^{1} \frac{1}{x} \, dx = \lim_{\varepsilon \to 0^+} \int_{\varepsilon}^{1} \frac{1}{x} \, dx = \lim_{\varepsilon \to 0^+} (\ln 1 - \ln \varepsilon) = +\infty $$ 故积分发散。 
 >记忆：看下限是0，很小，所以p越小越收敛
+>$$ 只要a>0,这个敛散性只与下限0有关\int_{0}^{a} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & 0 < p < 1, \\ \text{发散}, & p \ge 1. \end{cases} $$
 --- 
 ### ② 无穷区间反常积分：$\displaystyle \int_{1}^{+\infty} \frac{1}{x^p} \, dx$ $$ \int_{1}^{+\infty} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & p > 1, \\ \text{发散}, & p \le 1. \end{cases} $$ - **关键说明**：$p=1$ 是临界值，此时 $$ \int_{1}^{+\infty} \frac{1}{x} \, dx = \lim_{b \to +\infty} \int_{1}^{b} \frac{1}{x} \, dx = \lim_{b \to +\infty} (\ln b - \ln 1) = +\infty $$ 故积分发散。
 >记忆：看上限是正无穷，所以p越大越收敛
+>$$ 只要a>0,这个敛散性只与上限+\infty有关\int_{a}^{+\infty} \frac{1}{x^p} \, dx \begin{cases} \text{收敛}, & 0 < p < 1, \\ \text{发散}, & p \ge 1. \end{cases} $$
 
 --- 
 ## 二、等价无穷小/无穷大的推广应用 
@@ -20,6 +22,6 @@ $$ > \lim_{x \to +\infty} \frac{(ax+b)^p}{(ax)^p} = \lim_{x \to +\infty} \left( 
 ## 补充：$\int \frac{lnx}{x^P}$
 >因为lnx的趋近速度太慢了，所以对原积分都没有影响，可以等价看作$\displaystyle \int_{0}^{1} \frac{1}{x^p} \, dx$ 和$\displaystyle \int_{1}^{+\infty} \frac{1}{x^p} \, dx$
 
->
+
 
 
