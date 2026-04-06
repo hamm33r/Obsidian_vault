@@ -20,4 +20,6 @@ $$ > \lim_{x \to +\infty} \frac{(ax+b)^p}{(ax)^p} = \lim_{x \to +\infty} \left( 
 ## 补充：$\int \frac{lnx}{x^P}$
 >因为lnx的趋近速度太慢了，所以对原积分都没有影响，可以等价看作$\displaystyle \int_{0}^{1} \frac{1}{x^p} \, dx$ 和$\displaystyle \int_{1}^{+\infty} \frac{1}{x^p} \, dx$
 
+>
+
 

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "敛散性判别法.md",
+                "file": "两个重要结论（x的p积分）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "敛散性判别法"
+              "title": "两个重要结论（x的p积分）"
             }
           }
         ],
@@ -305,6 +305,7 @@
   },
   "active": "c0c2b9d7720e35cc",
   "lastOpenFiles": [
+    "敛散性判别法.md",
     "联系不定积分与定积分.md",
     "绝对值积分收敛则原函数积分收敛.md",
     "定积分性质.md",
@@ -318,7 +319,6 @@
     "assets/定积分的精确定义",
     "两个重要结论（x的p积分）.md",
     "原函数（不定积分）存在定理.md",
-    "敛散性判别法.md",
     "assets/两个重要结论（x的p积分）/file-20260406121840306.png",
     "assets/两个重要结论（x的p积分）",
     "assets/绝对值积分收敛则原函数积分收敛/file-20260405223953699.png",
