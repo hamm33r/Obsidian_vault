@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "求导公式"
             }
+          },
+          {
+            "id": "d7433017ad52f666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求导公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求导公式"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -289,10 +303,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ae1a5ff21910fb7",
+  "active": "d7433017ad52f666",
   "lastOpenFiles": [
-    "常用凑微分公式.md",
+    "常用积分换元法.md",
     "求导公式.md",
+    "常用凑微分公式.md",
     "基本积分公式.md",
     "浮点数的表示范围.md",
     "assets/浮点数的表示范围/file-20260407202423898.png",
@@ -335,7 +350,6 @@
     "assets/两个重要结论（x的p积分）",
     "408/无符号数和有符号数的加减运算.md",
     "2026-04-04.md",
-    "408/原码，反码，补码，补数.md",
-    "408/带标志位加法器（加减运算部件）.md"
+    "408/原码，反码，补码，补数.md"
   ]
 }
