@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "浮点型的存储"
             }
+          },
+          {
+            "id": "78e4015b93a41586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真值与浮点数的转换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "真值与浮点数的转换"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,14 +233,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea68952d624b5f58",
+  "active": "78e4015b93a41586",
   "lastOpenFiles": [
+    "assets/真值与浮点数的转换/file-20260406225448831.png",
+    "assets/真值与浮点数的转换",
+    "浮点型的存储.md",
+    "真值与浮点数的转换.md",
     "assets/浮点型的存储/file-20260406224720178.png",
     "assets/浮点型的存储/file-20260406224330937.png",
     "assets/浮点型的存储",
     "assets",
     "408/带符号整数（补码）除法.md",
-    "浮点型的存储.md",
     "408/定点数的移位运算.md",
     "408/408错题.md",
     "数学/assets/两个重要结论（x的p积分）",
@@ -263,9 +280,6 @@
     "408/assets/408错题/file-20260404171925995.png",
     "数学/拉格朗日中值定理解题思路.md",
     "408/assets/带标志位加法器（加减运算部件）/file-20260404163109074.png",
-    "408/assets/带标志位加法器（加减运算部件）/file-20260404163030412.png",
-    "408/定点数的加减运算溢出判别.md",
-    "408/assets/带标志位加法器（加减运算部件）/file-20260404162254839.png",
-    "408/assets/带标志位加法器（加减运算部件）"
+    "408/assets/带标志位加法器（加减运算部件）/file-20260404163030412.png"
   ]
 }
