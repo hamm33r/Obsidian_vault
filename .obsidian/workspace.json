@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浮点数的表示范围.md",
+                "file": "特殊状态的浮点数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的表示范围"
+              "title": "特殊状态的浮点数"
             }
           }
         ],
@@ -249,9 +249,9 @@
   },
   "active": "281d7c02c6d30e25",
   "lastOpenFiles": [
+    "浮点数的表示范围.md",
     "特殊状态的浮点数.md",
     "真值与浮点数的转换.md",
-    "浮点数的表示范围.md",
     "浮点型的存储.md",
     "assets/浮点数的表示范围/file-20260407182632352.png",
     "assets/浮点数的表示范围/file-20260407182259730.png",
