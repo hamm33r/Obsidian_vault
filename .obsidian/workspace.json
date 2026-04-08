@@ -153,16 +153,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/浮点型的存储.md",
+                "file": "408/浮点数的表示范围.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点型的存储"
+              "title": "浮点数的表示范围"
+            }
+          },
+          {
+            "id": "b71662a913e4dc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "浮点数的加减运算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "浮点数的加减运算"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -264,12 +278,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/浮点型的存储.md",
+                "file": "浮点数的加减运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "浮点型的存储 的出链列表"
+              "title": "浮点数的加减运算 的出链列表"
             }
           },
           {
@@ -345,9 +359,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02760cfb262a3830",
+  "active": "b71662a913e4dc5d",
   "lastOpenFiles": [
+    "assets/浮点数的加减运算/file-20260408155010591.png",
+    "assets/浮点数的加减运算/file-20260408154855564.png",
+    "assets/浮点数的加减运算",
+    "assets",
     "408/浮点数的表示范围.md",
+    "浮点数的加减运算.md",
+    "408/真值与浮点数的转换.md",
+    "408/特殊状态的浮点数.md",
+    "408/浮点型的存储.md",
     "数学/求不定积分时的思路.md",
     "数学/assets/分部积分法",
     "数学/分部积分法.md",
@@ -360,13 +382,10 @@
     "408/assets/真值与浮点数的转换",
     "408/assets/浮点型的存储",
     "408/assets/浮点数的表示范围",
-    "408/特殊状态的浮点数.md",
     "数学/基本积分公式.md",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "assets/分部积分法",
     "408/assets/浮点数的表示范围/file-20260408112032438.png",
-    "408/浮点型的存储.md",
-    "408/真值与浮点数的转换.md",
     "408/assets/浮点数的表示范围/file-20260408112032433.png",
     "408/assets/浮点数的表示范围/file-20260408112032437.png",
     "408/assets/浮点数的表示范围/file-20260408112032442.png",
@@ -375,9 +394,6 @@
     "assets/浮点数的表示范围",
     "408/assets/特殊状态的浮点数/file-20260408112039837.png",
     "assets/特殊状态的浮点数",
-    "408/assets/真值与浮点数的转换/file-20260408112036784.png",
-    "assets/真值与浮点数的转换",
-    "assets/浮点型的存储",
     "408/带符号整数（补码）除法.md",
     "408/定点数的移位运算.md",
     "408/408错题.md",
@@ -390,7 +406,6 @@
     "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "数学/定积分的精确定义.md",
     "数学/定积分存在定理.md",
-    "数学/函数与函数绝对值连续，可导的关系.md",
-    "数学/数列和的极限.md"
+    "数学/函数与函数绝对值连续，可导的关系.md"
   ]
 }
