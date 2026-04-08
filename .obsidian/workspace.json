@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浮点数的加减运算.md",
+                "file": "浮点数加减结果舍入处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的加减运算"
+              "title": "浮点数加减结果舍入处理"
             }
           },
           {
@@ -107,16 +107,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浮点数加减结果舍入处理.md",
+                "file": "408/浮点数的表示范围.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数加减结果舍入处理"
+              "title": "浮点数的表示范围"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -299,19 +299,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2653794acb23ed55",
+  "active": "b71662a913e4dc5d",
   "lastOpenFiles": [
+    "assets/浮点数加减结果舍入处理/file-20260408180303343.png",
+    "浮点数的加减运算.md",
+    "408/浮点数的表示范围.md",
+    "浮点数加减结果舍入处理.md",
     "assets/浮点数加减结果舍入处理/file-20260408175206841.png",
     "assets/浮点数加减结果舍入处理/file-20260408174452668.png",
     "assets/浮点数加减结果舍入处理/file-20260408174436688.png",
     "assets/浮点数加减结果舍入处理/file-20260408174410164.png",
     "408/浮点型的存储.md",
-    "408/浮点数的表示范围.md",
     "408/特殊状态的浮点数.md",
-    "浮点数加减结果舍入处理.md",
     "assets/浮点数加减结果舍入处理/file-20260408172921555.png",
     "assets/浮点数加减结果舍入处理",
-    "浮点数的加减运算.md",
     "408/原码，反码，补码，补数.md",
     "408/无符号数和有符号数的加减运算.md",
     "assets/浮点数的加减运算/file-20260408164840534.png",
@@ -334,7 +335,6 @@
     "408/assets/浮点型的存储",
     "408/assets/浮点数的表示范围",
     "数学/基本积分公式.md",
-    "数学/assets/分部积分法/file-20260408152802671.png",
     "assets/分部积分法",
     "assets/浮点数的表示范围",
     "408/带符号整数（补码）除法.md",
