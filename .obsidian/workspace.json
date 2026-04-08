@@ -125,16 +125,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分部积分法.md",
+                "file": "求导公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分部积分法"
+              "title": "求导公式"
+            }
+          },
+          {
+            "id": "54e09b8d236300fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因式分解公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "因式分解公式"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -317,8 +331,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5119fd34fc9f2fa5",
+  "active": "54e09b8d236300fa",
   "lastOpenFiles": [
+    "求导公式.md",
+    "因式分解公式.md",
+    "分部积分法.md",
     "常用积分换元法.md",
     "408/浮点数的表示范围.md",
     "408/assets/特殊状态的浮点数",
@@ -328,8 +345,6 @@
     "408/特殊状态的浮点数.md",
     "基本积分公式.md",
     "常用凑微分公式.md",
-    "求导公式.md",
-    "分部积分法.md",
     "assets/分部积分法/file-20260407225858951.png",
     "assets/分部积分法",
     "408/assets/浮点数的表示范围/file-20260408112032438.png",
