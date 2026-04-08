@@ -63,8 +63,7 @@
               "title": "原码，反码，补码，补数"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/分部积分法.md",
+                "file": "有理函数的积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "分部积分法 的出链列表"
+              "title": "有理函数的积分 的出链列表"
             }
           },
           {
@@ -247,12 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ae1a5ff21910fb7",
+  "active": "08eb5b654c8fe0c3",
   "lastOpenFiles": [
+    "数学/分部积分法.md",
     "有理函数的积分.md",
     "408/带符号整数（补码）除法.md",
     "408/原码，反码，补码，补数.md",
-    "数学/分部积分法.md",
     "数学/求导公式.md",
     "408/浮点数加减结果舍入处理.md",
     "408/assets/浮点数加减结果舍入处理",
