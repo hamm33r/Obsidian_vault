@@ -36,73 +36,13 @@
             }
           },
           {
-            "id": "78e4015b93a41586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "特殊状态的浮点数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "特殊状态的浮点数"
-            }
-          },
-          {
-            "id": "281d7c02c6d30e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "浮点数的表示范围.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "浮点数的表示范围"
-            }
-          },
-          {
-            "id": "732df6393351e489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基本积分公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本积分公式"
-            }
-          },
-          {
-            "id": "e3050092cc5419a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常用凑微分公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常用凑微分公式"
-            }
-          },
-          {
             "id": "0ae1a5ff21910fb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求导公式.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "求导公式"
+              "title": "新标签页"
             }
           },
           {
@@ -134,31 +74,17 @@
             }
           },
           {
-            "id": "54e09b8d236300fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/分部积分法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "分部积分法"
-            }
-          },
-          {
             "id": "02760cfb262a3830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/浮点数的表示范围.md",
+                "file": "408/无符号数和有符号数的加减运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的表示范围"
+              "title": "无符号数和有符号数的加减运算"
             }
           },
           {
@@ -176,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "补数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +165,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浮点数的加减运算.md",
+                "file": "408/无符号数和有符号数的加减运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "浮点数的加减运算 的出链列表"
+              "title": "无符号数和有符号数的加减运算 的出链列表"
             }
           },
           {
@@ -359,15 +286,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71662a913e4dc5d",
+  "active": "02760cfb262a3830",
   "lastOpenFiles": [
+    "408/浮点数的表示范围.md",
+    "浮点数的加减运算.md",
+    "assets/浮点数的加减运算/file-20260408164840534.png",
     "assets/浮点数的加减运算/file-20260408162628054.png",
     "assets/浮点数的加减运算/file-20260408155010591.png",
     "assets/浮点数的加减运算/file-20260408154855564.png",
     "assets/浮点数的加减运算",
     "assets",
-    "408/浮点数的表示范围.md",
-    "浮点数的加减运算.md",
     "408/真值与浮点数的转换.md",
     "408/特殊状态的浮点数.md",
     "408/浮点型的存储.md",
@@ -390,8 +318,6 @@
     "408/assets/浮点数的表示范围/file-20260408112032433.png",
     "408/assets/浮点数的表示范围/file-20260408112032437.png",
     "408/assets/浮点数的表示范围/file-20260408112032442.png",
-    "408/assets/浮点数的表示范围/file-20260408112032451.png",
-    "408/assets/浮点数的表示范围/file-20260408112032453.png",
     "assets/浮点数的表示范围",
     "assets/特殊状态的浮点数",
     "408/带符号整数（补码）除法.md",
