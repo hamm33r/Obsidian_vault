@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/区间再现公式.md",
+                "file": "数学/变限积分性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "区间再现公式"
+              "title": "变限积分性质"
             }
           }
         ],
@@ -222,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/区间再现公式.md",
+                "file": "数学/变限积分性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "区间再现公式 的出链列表"
+              "title": "变限积分性质 的出链列表"
             }
           },
           {
@@ -305,6 +305,7 @@
   },
   "active": "29721317a2939729",
   "lastOpenFiles": [
+    "数学/区间再现公式.md",
     "408/数据的存储和排列.md",
     "408/assets/数据的存储和排列",
     "408/assets/原码的加减运算",
