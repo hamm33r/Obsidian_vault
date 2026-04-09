@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原码的加减运算.md",
+                "file": "浮点数的溢出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原码的加减运算"
+              "title": "浮点数的溢出"
             }
           }
         ],
@@ -208,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "原码的加减运算.md",
+                "file": "浮点数的溢出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "原码的加减运算 的出链列表"
+              "title": "浮点数的溢出 的出链列表"
             }
           },
           {
@@ -291,8 +291,10 @@
   },
   "active": "49b9557ae7a46780",
   "lastOpenFiles": [
-    "浮点数的溢出.md",
     "原码的加减运算.md",
+    "浮点数的溢出.md",
+    "assets/原码的加减运算/file-20260409170416062.png",
+    "assets/原码的加减运算",
     "assets/浮点数的溢出/file-20260409170111538.png",
     "assets/浮点数的溢出/file-20260409161757717.png",
     "408/浮点数加减结果舍入处理.md",
@@ -320,7 +322,6 @@
     "数学/绝对值积分收敛则原函数积分收敛.md",
     "数学/常用凑微分公式.md",
     "数学/基本积分公式.md",
-    "数学/求导公式.md",
     "408/assets/浮点数加减结果舍入处理",
     "408/assets/浮点数的加减运算",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png",
@@ -331,11 +332,9 @@
     "408/assets/浮点数加减结果舍入处理/file-20260408192809245.png",
     "assets/浮点数加减结果舍入处理",
     "408/assets/浮点数的加减运算/file-20260408192808272.png",
-    "408/assets/浮点数的加减运算/file-20260408192808274.png",
     "assets/浮点数的加减运算",
     "数学/assets/分部积分法",
     "408/assets/特殊状态的浮点数",
-    "408/assets/真值与浮点数的转换",
-    "408/assets/浮点型的存储"
+    "408/assets/真值与浮点数的转换"
   ]
 }
