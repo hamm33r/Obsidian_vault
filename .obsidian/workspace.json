@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浮点数的溢出.md",
+                "file": "408/整型类型的相互转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的溢出"
+              "title": "整型类型的相互转换"
+            }
+          },
+          {
+            "id": "29721317a2939729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据的存储和排列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据的存储和排列"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "字长",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +183,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浮点数的溢出.md",
+                "file": "数据的存储和排列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "浮点数的溢出 的出链列表"
+              "title": "数据的存储和排列 的出链列表"
             }
           },
           {
@@ -289,10 +304,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49b9557ae7a46780",
+  "active": "29721317a2939729",
   "lastOpenFiles": [
-    "原码的加减运算.md",
+    "408/整型类型的相互转换.md",
     "浮点数的溢出.md",
+    "数据的存储和排列.md",
+    "assets/数据的存储和排列/file-20260409172037502.png",
+    "assets/数据的存储和排列/file-20260409171751584.png",
+    "assets/数据的存储和排列",
+    "原码的加减运算.md",
     "assets/原码的加减运算/file-20260409170416062.png",
     "assets/原码的加减运算",
     "assets/浮点数的溢出/file-20260409170111538.png",
@@ -321,7 +341,6 @@
     "数学/两个重要结论（x的p积分）.md",
     "数学/绝对值积分收敛则原函数积分收敛.md",
     "数学/常用凑微分公式.md",
-    "数学/基本积分公式.md",
     "408/assets/浮点数加减结果舍入处理",
     "408/assets/浮点数的加减运算",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png",
@@ -329,12 +348,9 @@
     "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809241.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809243.png",
-    "408/assets/浮点数加减结果舍入处理/file-20260408192809245.png",
     "assets/浮点数加减结果舍入处理",
-    "408/assets/浮点数的加减运算/file-20260408192808272.png",
     "assets/浮点数的加减运算",
     "数学/assets/分部积分法",
-    "408/assets/特殊状态的浮点数",
-    "408/assets/真值与浮点数的转换"
+    "408/assets/特殊状态的浮点数"
   ]
 }
