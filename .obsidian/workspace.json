@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/浮点数的表示范围.md",
+                "file": "408/浮点数的加减运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的表示范围"
+              "title": "浮点数的加减运算"
             }
           }
         ],
@@ -208,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/浮点数的表示范围.md",
+                "file": "408/浮点数的加减运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "浮点数的表示范围 的出链列表"
+              "title": "浮点数的加减运算 的出链列表"
             }
           },
           {
@@ -291,6 +291,7 @@
   },
   "active": "49b9557ae7a46780",
   "lastOpenFiles": [
+    "408/浮点数的表示范围.md",
     "408/浮点数的加减运算.md",
     "408/浮点数加减结果舍入处理.md",
     "数学/敛散性判别法.md",
@@ -312,7 +313,6 @@
     "408/assets/浮点数加减结果舍入处理",
     "408/assets/浮点数的加减运算",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png",
-    "408/浮点数的表示范围.md",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809216.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809241.png",
