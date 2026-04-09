@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据的存储和排列.md",
+                "file": "数学/区间再现公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据的存储和排列"
+              "title": "区间再现公式"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "字长",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +183,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据的存储和排列.md",
+                "file": "数学/区间再现公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "数据的存储和排列 的出链列表"
+              "title": "区间再现公式 的出链列表"
             }
           },
           {
@@ -306,17 +305,20 @@
   },
   "active": "29721317a2939729",
   "lastOpenFiles": [
+    "408/数据的存储和排列.md",
+    "408/assets/数据的存储和排列",
+    "408/assets/原码的加减运算",
+    "408/assets/浮点数的溢出",
     "408/整型类型的相互转换.md",
-    "浮点数的溢出.md",
-    "数据的存储和排列.md",
-    "assets/数据的存储和排列/file-20260409172037502.png",
-    "assets/数据的存储和排列/file-20260409171751584.png",
+    "408/浮点数的溢出.md",
+    "408/assets/数据的存储和排列/file-20260409191658800.png",
+    "408/assets/数据的存储和排列/file-20260409191658803.png",
     "assets/数据的存储和排列",
-    "原码的加减运算.md",
-    "assets/原码的加减运算/file-20260409170416062.png",
+    "408/原码的加减运算.md",
+    "408/assets/原码的加减运算/file-20260409191657504.png",
     "assets/原码的加减运算",
-    "assets/浮点数的溢出/file-20260409170111538.png",
-    "assets/浮点数的溢出/file-20260409161757717.png",
+    "408/assets/浮点数的溢出/file-20260409191656051.png",
+    "408/assets/浮点数的溢出/file-20260409191656053.png",
     "408/浮点数加减结果舍入处理.md",
     "408/浮点数的加减运算.md",
     "408/真值与浮点数的转换.md",
@@ -340,7 +342,6 @@
     "数学/敛散性判别法.md",
     "数学/两个重要结论（x的p积分）.md",
     "数学/绝对值积分收敛则原函数积分收敛.md",
-    "数学/常用凑微分公式.md",
     "408/assets/浮点数加减结果舍入处理",
     "408/assets/浮点数的加减运算",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png",
@@ -348,9 +349,6 @@
     "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809241.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809243.png",
-    "assets/浮点数加减结果舍入处理",
-    "assets/浮点数的加减运算",
-    "数学/assets/分部积分法",
-    "408/assets/特殊状态的浮点数"
+    "assets/浮点数加减结果舍入处理"
   ]
 }
