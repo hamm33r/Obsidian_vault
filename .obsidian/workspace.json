@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/原码，反码，补码，补数，移码.md",
+                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原码，反码，补码，补数，移码"
+              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
             }
           },
           {
@@ -235,8 +235,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "181cae7180acd126",
+  "active": "21d2fbb7c6141ab3",
   "lastOpenFiles": [
+    "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "408/原码，反码，补码，补数，移码.md",
     "test.md",
     "408/数据的存储和排列.md",
@@ -246,7 +247,6 @@
     "408/浮点数的表示范围.md",
     "408/浮点数的加减运算.md",
     "408/原码的加减运算.md",
-    "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/变限积分性质.md",
     "408/整型类型的相互转换.md",
     "数学/有理函数的积分.md",

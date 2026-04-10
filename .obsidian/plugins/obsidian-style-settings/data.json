@@ -37,8 +37,6 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-maroon",
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-teal",
-  "anuppuccin-theme-settings@@anp-colorful-frame-color@@dark": "#FFFFFF",
-  "anuppuccin-theme-settings@@anp-colorful-frame-color@@light": "#BD7CDF",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anuppuccin-theme-settings@@anp-table-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
@@ -48,5 +46,6 @@
   "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-rosewater",
   "anuppuccin-theme-settings@@anp-h3-color-custom": "none",
   "anuppuccin-theme-settings@@anp-h4-color-custom": "none",
-  "anuppuccin-theme-settings@@anp-h5-color-custom": "none"
+  "anuppuccin-theme-settings@@anp-h5-color-custom": "none",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar"
 }
