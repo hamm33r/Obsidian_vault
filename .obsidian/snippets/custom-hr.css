@@ -1,0 +1,9 @@
+/* 渐变分割线（从左到右蓝→绿） */
+.markdown-rendered hr,
+.markdown-source-view.mod-cm6 .hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(to right, #2196F3, #4CAF50);
+  border-radius: 2px;
+  margin: 1.5em 0;
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+                "file": "数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
+              "title": "基本积分公式"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+                "file": "数学/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分) 的出链列表"
+              "title": "基本积分公式 的出链列表"
             }
           },
           {
@@ -216,8 +216,15 @@
   },
   "active": "21d2fbb7c6141ab3",
   "lastOpenFiles": [
-    "408/特殊状态的浮点数.md",
+    "数学/两个不同点使表达式成立（不同中值）.md",
+    "数学/证明题解题思路.md",
+    "数学/凹凸函数的定义.md",
+    "数学/曲率.md",
+    "数学/计算技巧.md",
+    "数学/经典题目.md",
+    "数学/可导与连续.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+    "408/特殊状态的浮点数.md",
     "test.md",
     "408/原码，反码，补码，补数，移码.md",
     "408/数据的存储和排列.md",
@@ -235,13 +242,10 @@
     "数学/分部积分法.md",
     "408/卡特兰数.md",
     "数学/基本积分公式.md",
-    "数学/凹凸函数的定义.md",
     "数学/微分不等式.md",
-    "数学/区间再现公式.md",
     "408/assets/数据的存储和排列",
     "408/assets/原码的加减运算",
     "408/assets/浮点数的溢出",
-    "408/浮点数的溢出.md",
     "408/assets/数据的存储和排列/file-20260409191658800.png",
     "408/assets/数据的存储和排列/file-20260409191658803.png",
     "assets/数据的存储和排列",
@@ -249,10 +253,6 @@
     "assets/原码的加减运算",
     "408/assets/浮点数的溢出/file-20260409191656051.png",
     "408/assets/浮点数的溢出/file-20260409191656053.png",
-    "408/浮点数加减结果舍入处理.md",
-    "408/无符号数和有符号数的加减运算.md",
-    "408/无符号整数的除法运算.md",
-    "408/模（MOD）运算规则.md",
     "assets/浮点数的溢出",
     "assets",
     "408/assets/浮点数加减结果舍入处理",
