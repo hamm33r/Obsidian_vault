@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "1d20bccaf2fa6cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d2fbb7c6141ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ]
+      },
+      {
         "id": "c2167f1652c8d405",
         "type": "tabs",
         "children": [
@@ -13,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/真值与浮点数的转换.md",
+                "file": "408/原码，反码，补码，补数，移码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "真值与浮点数的转换"
+              "title": "原码，反码，补码，补数，移码"
             }
           },
           {
@@ -31,7 +51,8 @@
               "title": "Style Settings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "原码",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +115,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分) 的出链列表"
+              "title": "test 的出链列表"
             }
           },
           {
@@ -197,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,8 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dceb5de6b560dd6",
+  "active": "181cae7180acd126",
   "lastOpenFiles": [
+    "408/原码，反码，补码，补数，移码.md",
+    "test.md",
+    "408/数据的存储和排列.md",
+    "408/浮点数的存储.md",
+    "408/assets/浮点数的存储",
+    "408/真值与浮点数的转换.md",
     "408/浮点数的表示范围.md",
     "408/浮点数的加减运算.md",
     "408/原码的加减运算.md",
@@ -226,14 +252,12 @@
     "数学/有理函数的积分.md",
     "408/计算机实现乘法运算的三种常见方式.md",
     "数学/华里士公式（点火公式）.md",
-    "408/真值与浮点数的转换.md",
     "数学/分部积分法.md",
     "408/卡特兰数.md",
     "数学/基本积分公式.md",
     "数学/凹凸函数的定义.md",
     "数学/微分不等式.md",
     "数学/区间再现公式.md",
-    "408/数据的存储和排列.md",
     "408/assets/数据的存储和排列",
     "408/assets/原码的加减运算",
     "408/assets/浮点数的溢出",
@@ -250,9 +274,6 @@
     "408/无符号数和有符号数的加减运算.md",
     "408/无符号整数的除法运算.md",
     "408/模（MOD）运算规则.md",
-    "408/浮点型的存储.md",
-    "408/定点数的加减运算溢出判别.md",
-    "408/无符号整数的乘法运算.md",
     "assets/浮点数的溢出",
     "assets",
     "408/assets/浮点数加减结果舍入处理",
@@ -261,7 +282,6 @@
     "408/assets/浮点数加减结果舍入处理/file-20260408192809216.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809241.png",
-    "408/assets/浮点数加减结果舍入处理/file-20260408192809243.png",
-    "assets/浮点数加减结果舍入处理"
+    "408/assets/浮点数加减结果舍入处理/file-20260408192809243.png"
   ]
 }
