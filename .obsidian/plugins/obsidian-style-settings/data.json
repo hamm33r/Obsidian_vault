@@ -30,7 +30,6 @@
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
-  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-flamingo",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
@@ -49,5 +48,6 @@
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "anuppuccin-theme-settings@@anp-latex-block-font-size": 110,
   "anuppuccin-theme-settings@@anp-list-toggle": false,
-  "anuppuccin-theme-settings@@list-marker-color@@light": "#9741A4"
+  "anuppuccin-theme-settings@@list-marker-color@@light": "#9741A4",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true
 }

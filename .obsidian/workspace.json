@@ -22,37 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c2167f1652c8d405",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4dceb5de6b560dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
-            }
-          },
-          {
-            "id": "181cae7180acd126",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +207,8 @@
   "active": "21d2fbb7c6141ab3",
   "lastOpenFiles": [
     "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
-    "408/原码，反码，补码，补数，移码.md",
     "test.md",
+    "408/原码，反码，补码，补数，移码.md",
     "408/数据的存储和排列.md",
     "408/浮点数的存储.md",
     "408/assets/浮点数的存储",
