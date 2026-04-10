@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/浮点数的存储.md",
+                "file": "数学/变限积分性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浮点数的存储"
+              "title": "变限积分性质"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/浮点数的存储.md",
+                "file": "数学/变限积分性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "浮点数的存储 的出链列表"
+              "title": "变限积分性质 的出链列表"
             }
           },
           {
@@ -216,6 +216,8 @@
   },
   "active": "21d2fbb7c6141ab3",
   "lastOpenFiles": [
+    "数学/定积分性质.md",
+    "408/浮点数的存储.md",
     "408/真值与浮点数的转换.md",
     "408/浮点数的表示范围.md",
     "408/浮点数的加减运算.md",
@@ -239,10 +241,8 @@
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "test.md",
     "408/原码，反码，补码，补数，移码.md",
-    "408/浮点数的存储.md",
     "408/assets/浮点数的存储",
     "数学/变限积分性质.md",
-    "数学/有理函数的积分.md",
     "408/assets/数据的存储和排列",
     "408/assets/原码的加减运算",
     "408/assets/浮点数的溢出",
