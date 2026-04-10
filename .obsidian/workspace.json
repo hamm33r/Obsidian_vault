@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
+            }
+          },
+          {
+            "id": "e96e68a5ec99030e",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "test 的出链列表"
+              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分) 的出链列表"
             }
           },
           {
@@ -204,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21d2fbb7c6141ab3",
+  "active": "e96e68a5ec99030e",
   "lastOpenFiles": [
-    "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "test.md",
+    "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "408/原码，反码，补码，补数，移码.md",
     "408/数据的存储和排列.md",
     "408/浮点数的存储.md",
