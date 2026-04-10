@@ -47,5 +47,7 @@
   "anuppuccin-theme-settings@@anp-h4-color-custom": "none",
   "anuppuccin-theme-settings@@anp-h5-color-custom": "none",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
-  "anuppuccin-theme-settings@@anp-latex-block-font-size": 110
+  "anuppuccin-theme-settings@@anp-latex-block-font-size": 110,
+  "anuppuccin-theme-settings@@anp-list-toggle": false,
+  "anuppuccin-theme-settings@@list-marker-color@@light": "#9741A4"
 }
