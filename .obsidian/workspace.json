@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +31,7 @@
               "title": "Style Settings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -215,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96e68a5ec99030e",
+  "active": "21d2fbb7c6141ab3",
   "lastOpenFiles": [
+    "408/特殊状态的浮点数.md",
+    "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "test.md",
-    "Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "408/原码，反码，补码，补数，移码.md",
     "408/数据的存储和排列.md",
     "408/浮点数的存储.md",
@@ -250,7 +250,6 @@
     "408/assets/浮点数的溢出/file-20260409191656051.png",
     "408/assets/浮点数的溢出/file-20260409191656053.png",
     "408/浮点数加减结果舍入处理.md",
-    "408/特殊状态的浮点数.md",
     "408/无符号数和有符号数的加减运算.md",
     "408/无符号整数的除法运算.md",
     "408/模（MOD）运算规则.md",
