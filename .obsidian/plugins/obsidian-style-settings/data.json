@@ -1,7 +1,7 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-mauve",
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": true,
@@ -36,5 +36,7 @@
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-floating-header": true,
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
-  "anuppuccin-theme-settings@@anp-colorful-frame-color@@light": "#64A473"
+  "anuppuccin-theme-settings@@anp-colorful-frame-color@@light": "#64A473",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-flamingo"
 }
