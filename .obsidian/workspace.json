@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/我的数学错题.md",
+                "file": "408/浮点数的加减运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的数学错题"
+              "title": "浮点数的加减运算"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原码",
+                "query": "导数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/我的数学错题.md",
+                "file": "408/浮点数的加减运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "我的数学错题 的出链列表"
+              "title": "浮点数的加减运算 的出链列表"
             }
           },
           {
@@ -249,6 +249,13 @@
   },
   "active": "01d98931a52f1894",
   "lastOpenFiles": [
+    "408/浮点数加减结果舍入处理.md",
+    "408/浮点数的溢出.md",
+    "408/数据的存储和排列.md",
+    "408/原码的加减运算.md",
+    "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
+    "数学/变限积分性质.md",
+    "数学/我的数学错题.md",
     "数学/求不定积分时的思路.md",
     "数学/基本积分公式.md",
     "数学/数列和的极限.md",
@@ -262,7 +269,6 @@
     "数学/华里士公式（点火公式）.md",
     "数学/分部积分法.md",
     "数学/微分不等式.md",
-    "数学/变限积分性质.md",
     "数学/敛散性判别法.md",
     "数学/联系不定积分与定积分.md",
     "数学/区间再现公式.md",
@@ -270,12 +276,6 @@
     "数学/常见的奇函数.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/拉格朗日中值定理解题思路.md",
-    "数学/定积分性质.md",
-    "408/浮点数的存储.md",
-    "408/真值与浮点数的转换.md",
-    "408/浮点数的表示范围.md",
-    "408/浮点数的加减运算.md",
-    "408/浮点数加减结果舍入处理.md",
     "408/assets/浮点数的存储",
     "408/assets/数据的存储和排列",
     "408/assets/原码的加减运算",
