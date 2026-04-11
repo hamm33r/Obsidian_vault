@@ -1,9 +1,10 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "AnuPpuccin",
+  "theme": "system",
+  "cssTheme": "",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "custom-hr"
-  ]
+  ],
+  "accentColor": ""
 }
