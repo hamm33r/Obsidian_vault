@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "基本积分公式"
             }
+          },
+          {
+            "id": "81938990b64ac6d7",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "机器",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +137,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/数据的存储和排列.md",
+                "file": "数学/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "数据的存储和排列 的出链列表"
+              "title": "基本积分公式 的出链列表"
             }
           },
           {
@@ -248,14 +257,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01d98931a52f1894",
+  "active": "81938990b64ac6d7",
   "lastOpenFiles": [
+    "408/数据的存储和排列.md",
     "408/特殊状态的浮点数.md",
     "408/浮点数的表示范围.md",
     "408/浮点数的加减运算.md",
     "408/浮点数加减结果舍入处理.md",
     "408/浮点数的溢出.md",
-    "408/数据的存储和排列.md",
     "408/原码的加减运算.md",
     "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "数学/变限积分性质.md",
