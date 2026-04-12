@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/求导公式.md",
+                "file": "数学/求不定积分时的思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "求导公式 的出链列表"
+              "title": "求不定积分时的思路 的出链列表"
             }
           },
           {
@@ -261,14 +261,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e3c776b012c6db",
+  "active": "8b672422d5735673",
   "lastOpenFiles": [
+    "数学/华里士公式（点火公式）.md",
     "数学/基本积分公式.md",
     "数学/求导公式.md",
     "数学/联系不定积分与定积分.md",
     "数学/求不定积分时的思路.md",
     "三角函数公式.md",
-    "数学/华里士公式（点火公式）.md",
     "数学/有理函数的积分.md",
     "408/数据的存储和排列.md",
     "408/特殊状态的浮点数.md",
