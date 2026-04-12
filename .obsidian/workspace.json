@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/基本积分公式.md",
+                "file": "数学/三角函数公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本积分公式"
+              "title": "三角函数公式"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/求不定积分时的思路.md",
+                "file": "数学/三角函数公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "求不定积分时的思路 的出链列表"
+              "title": "三角函数公式 的出链列表"
             }
           },
           {
@@ -275,13 +275,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b672422d5735673",
+  "active": "f6236ebded6b047c",
   "lastOpenFiles": [
-    "数学/有理函数的积分.md",
     "数学/基本积分公式.md",
+    "数学/有理函数的积分.md",
+    "数学/求不定积分时的思路.md",
     "数学/三角函数公式.md",
     "数学/求导公式.md",
-    "数学/求不定积分时的思路.md",
     "数学/华里士公式（点火公式）.md",
     "数学/联系不定积分与定积分.md",
     "408/数据的存储和排列.md",
