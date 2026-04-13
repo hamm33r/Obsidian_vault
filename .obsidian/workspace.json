@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/分部积分法.md",
+                "file": "数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分部积分法"
+              "title": "基本积分公式"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "奇函数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +183,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/变限积分性质.md",
+                "file": "数学/三角函数公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "变限积分性质 的出链列表"
+              "title": "三角函数公式 的出链列表"
             }
           },
           {
@@ -304,10 +303,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc34633bd02c05e9",
+  "active": "f6236ebded6b047c",
   "lastOpenFiles": [
-    "函数的奇偶性.md",
+    "数学/求导公式.md",
+    "数学/基本积分公式.md",
+    "数学/分部积分法.md",
     "数学/变限积分性质.md",
+    "函数的奇偶性.md",
     "数学/常见的奇函数.md",
     "数学/定积分存在定理.md",
     "数学/原函数（不定积分）存在定理.md",
@@ -317,17 +319,14 @@
     "数学/有理函数的积分.md",
     "数学/华里士公式（点火公式）.md",
     "数学/因式分解公式.md",
-    "数学/分部积分法.md",
     "数学/定积分性质.md",
     "数学/绝对值积分收敛则原函数积分收敛.md",
     "数学/两个重要结论（x的p积分）.md",
-    "数学/基本积分公式.md",
     "数学/常用凑微分公式.md",
     "数学/我的数学错题.md",
     "数学/经典题目.md",
     "数学/拉格朗日中值定理解题思路.md",
     "数学/求不定积分时的思路.md",
-    "数学/求导公式.md",
     "数学/三角函数公式.md",
     "数学/联系不定积分与定积分.md",
     "408/数据的存储和排列.md",
