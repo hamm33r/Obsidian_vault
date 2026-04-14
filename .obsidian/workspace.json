@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/求不定积分时的思路.md",
+                "file": "数学/分部积分法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求不定积分时的思路"
+              "title": "分部积分法"
             }
           }
         ],
@@ -197,8 +197,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/求不定积分时的思路.md",
+                "file": "数学/分部积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "求不定积分时的思路 的出链列表"
+              "title": "分部积分法 的出链列表"
             }
           },
           {
@@ -318,9 +317,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "0a51664ba3fa393f",
   "lastOpenFiles": [
+    "数学/因式分解公式.md",
+    "数学/求不定积分时的思路.md",
+    "数学/有理函数的积分.md",
+    "数学/区间再现公式.md",
+    "数学/华里士公式（点火公式）.md",
+    "数学/常见的奇函数.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+    "数学/三角函数公式.md",
     "数学/函数的奇偶性.md",
     "数学/两个重要结论（x的p积分）.md",
     "数学/基本积分公式.md",
@@ -341,16 +347,9 @@
     "408/浮点数的存储.md",
     "408/原码，反码，补码，补数，移码.md",
     "数学/分部积分法.md",
-    "数学/因式分解公式.md",
-    "数学/求不定积分时的思路.md",
-    "数学/有理函数的积分.md",
-    "数学/区间再现公式.md",
-    "数学/华里士公式（点火公式）.md",
     "数学/我的数学错题.md",
     "数学/变限积分性质.md",
-    "数学/三角函数公式.md",
     "数学/求导公式.md",
-    "数学/常见的奇函数.md",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "408/assets/浮点数的存储",
     "408/assets/数据的存储和排列",
