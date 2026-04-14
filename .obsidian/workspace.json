@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不同类型之间的转换.md",
+                "file": "408/数据的存储和排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不同类型之间的转换"
+              "title": "数据的存储和排列"
             }
           }
         ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "小端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "不同类型之间的转换.md",
+                "file": "408/数据的存储和排列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "不同类型之间的转换 的出链列表"
+              "title": "数据的存储和排列 的出链列表"
             }
           },
           {
@@ -319,6 +320,7 @@
   },
   "active": "0a51664ba3fa393f",
   "lastOpenFiles": [
+    "不同类型之间的转换.md",
     "assets/不同类型之间的转换/file-20260414110132048.png",
     "assets/不同类型之间的转换",
     "assets",
@@ -326,7 +328,6 @@
     "数学/凹凸函数的定义.md",
     "数学/证明题解题思路.md",
     "408/整型类型的相互转换.md",
-    "不同类型之间的转换.md",
     "408/浮点数的存储.md",
     "408/原码，反码，补码，补数，移码.md",
     "数学/分部积分法.md",
@@ -363,7 +364,6 @@
     "408/assets/浮点数加减结果舍入处理",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809216.png",
-    "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png",
-    "408/assets/浮点数加减结果舍入处理/file-20260408192809241.png"
+    "408/assets/浮点数加减结果舍入处理/file-20260408192809217.png"
   ]
 }
