@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "分部积分法"
             }
+          },
+          {
+            "id": "0c451042f50a0c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定积分求面积，体积.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定积分求面积，体积"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -236,12 +250,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/分部积分法.md",
+                "file": "定积分求面积，体积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "分部积分法 的出链列表"
+              "title": "定积分求面积，体积 的出链列表"
             }
           },
           {
@@ -317,8 +331,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a51664ba3fa393f",
+  "active": "0c451042f50a0c2e",
   "lastOpenFiles": [
+    "数学/分部积分法.md",
+    "定积分求面积，体积.md",
     "数学/因式分解公式.md",
     "数学/求不定积分时的思路.md",
     "数学/有理函数的积分.md",
@@ -346,10 +362,8 @@
     "408/整型类型的相互转换.md",
     "408/浮点数的存储.md",
     "408/原码，反码，补码，补数，移码.md",
-    "数学/分部积分法.md",
     "数学/我的数学错题.md",
     "数学/变限积分性质.md",
-    "数学/求导公式.md",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "408/assets/浮点数的存储",
     "408/assets/数据的存储和排列",
