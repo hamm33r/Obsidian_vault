@@ -55,8 +55,23 @@
               "icon": "lucide-file",
               "title": "三角函数公式"
             }
+          },
+          {
+            "id": "2c0ce07426ce7e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定积分求面积,体积,弧长,平均值.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定积分求面积,体积,弧长,平均值"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +134,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/区间再现公式.md",
+                "file": "定积分求面积,体积,弧长,平均值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "区间再现公式 的出链列表"
+              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
             }
           },
           {
@@ -240,8 +254,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a24ae53d2b7765d7",
+  "active": "2c0ce07426ce7e8d",
   "lastOpenFiles": [
+    "数学/区间再现公式.md",
     "数学/两个不同点使表达式成立（不同中值）.md",
     "408/浮点数的溢出.md",
     "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
@@ -254,7 +269,6 @@
     "数学/基本积分公式.md",
     "数学/因式分解公式.md",
     "数学/有理函数的积分.md",
-    "数学/区间再现公式.md",
     "数学/华里士公式（点火公式）.md",
     "数学/常见的奇函数.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
