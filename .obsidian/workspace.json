@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/基本积分公式.md",
+                "file": "408/数据的存储和排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本积分公式"
+              "title": "数据的存储和排列"
             }
           },
           {
-            "id": "e636776492550d0d",
+            "id": "5029d7869cd3859f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/区间再现公式.md",
+                "file": "408/浮点数的表示范围.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "区间再现公式"
+              "title": "浮点数的表示范围"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "区间",
+                "query": "溢出",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定积分求面积,体积,弧长,平均值.md",
+                "file": "408/浮点数的表示范围.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
+              "title": "浮点数的表示范围 的出链列表"
             }
           },
           {
@@ -254,19 +255,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0ce07426ce7e8d",
+  "active": "5029d7869cd3859f",
   "lastOpenFiles": [
+    "408/定点数的加减运算溢出判别.md",
+    "408/带符号整数（补码）除法.md",
+    "408/数据的存储和排列.md",
+    "数学/基本积分公式.md",
     "数学/区间再现公式.md",
+    "定积分求面积,体积,弧长,平均值.md",
     "数学/两个不同点使表达式成立（不同中值）.md",
     "408/浮点数的溢出.md",
     "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
-    "定积分求面积,体积,弧长,平均值.md",
     "数学/三角函数公式.md",
     "数学/分部积分法.md",
     "数学/构造辅助函数.md",
     "数学/求导公式.md",
     "数学/求不定积分时的思路.md",
-    "数学/基本积分公式.md",
     "数学/因式分解公式.md",
     "数学/有理函数的积分.md",
     "数学/华里士公式（点火公式）.md",
@@ -278,15 +282,12 @@
     "408/assets/不同类型之间的转换",
     "408/浮点数的加减运算.md",
     "408/浮点数的表示范围.md",
-    "408/数据的存储和排列.md",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
     "assets/不同类型之间的转换",
     "assets",
     "数学/凹凸函数的定义.md",
     "数学/证明题解题思路.md",
-    "408/整型类型的相互转换.md",
-    "408/浮点数的存储.md",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "408/assets/浮点数的存储",
     "408/assets/数据的存储和排列",
