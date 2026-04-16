@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定积分求面积,体积,弧长,平均值.md",
+                "file": "408/真值与浮点数的转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定积分求面积,体积,弧长,平均值"
+              "title": "真值与浮点数的转换"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "有理函数",
+                "query": "浮点数转",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定积分求面积,体积,弧长,平均值.md",
+                "file": "408/真值与浮点数的转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
+              "title": "真值与浮点数的转换 的出链列表"
             }
           },
           {
@@ -239,8 +240,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "5029d7869cd3859f",
   "lastOpenFiles": [
+    "408/assets/真值与浮点数的转换/file-20260416163744092.png",
     "定积分求面积,体积,弧长,平均值.md",
     "1.md",
     "数学/有理函数的积分.md",
@@ -271,7 +273,6 @@
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
     "assets/不同类型之间的转换",
     "assets",
-    "数学/凹凸函数的定义.md",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "408/assets/浮点数的存储",
     "408/assets/数据的存储和排列",
