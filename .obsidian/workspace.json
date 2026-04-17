@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/三角函数公式.md",
+                "file": "数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三角函数公式"
+              "title": "基本积分公式"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "定积分求面积,体积,弧长,平均值"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "对齐",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +98,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定积分求面积,体积,弧长,平均值.md",
+                "file": "数学/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
+              "title": "基本积分公式 的出链列表"
             }
           },
           {
@@ -220,12 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0ce07426ce7e8d",
+  "active": "0c451042f50a0c2e",
   "lastOpenFiles": [
+    "数学/三角函数公式.md",
+    "定积分求面积,体积,弧长,平均值.md",
     "408/数据的存储和排列.md",
     "408/真值与浮点数的转换.md",
     "408/assets/真值与浮点数的转换/file-20260416163744092.png",
-    "定积分求面积,体积,弧长,平均值.md",
     "1.md",
     "数学/有理函数的积分.md",
     "408/浮点数的表示范围.md",
@@ -236,7 +235,6 @@
     "数学/两个不同点使表达式成立（不同中值）.md",
     "408/浮点数的溢出.md",
     "数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
-    "数学/三角函数公式.md",
     "数学/分部积分法.md",
     "数学/构造辅助函数.md",
     "数学/求导公式.md",
