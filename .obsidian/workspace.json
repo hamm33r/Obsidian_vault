@@ -63,8 +63,7 @@
               "title": "常用积分换元法（第二类换元法）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/定积分求面积,体积,弧长,平均值.md",
+                "file": "数学/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
+              "title": "基本积分公式 的出链列表"
             }
           },
           {
@@ -248,11 +247,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e4382c80341fa459",
+  "active": "0c451042f50a0c2e",
   "lastOpenFiles": [
+    "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/基本积分公式.md",
     "数学/分部积分法.md",
-    "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/常用积分换元法（第二类换元法）.md",
     "数学/常用凑微分公式.md",
     "Excalidraw/Drawing 2026-04-17 14.49.59.excalidraw.md",
