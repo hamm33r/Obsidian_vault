@@ -25,14 +25,17 @@
             "id": "2c0ce07426ce7e8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "定积分求面积,体积,弧长,平均值.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 101.87639187486262,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "定积分求面积,体积,弧长,平均值"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
@@ -138,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -215,13 +219,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "2c0ce07426ce7e8d",
   "lastOpenFiles": [
-    "数学/基本积分公式.md",
     "同步测试.md",
+    "未命名.canvas",
+    "数学/基本积分公式.md",
     "数学/三角函数公式.md",
     "定积分求面积,体积,弧长,平均值.md",
     "408/数据的存储和排列.md",
@@ -246,7 +252,6 @@
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/函数的奇偶性.md",
     "数学/两个重要结论（x的p积分）.md",
-    "408/不同类型之间的转换.md",
     "408/assets/不同类型之间的转换",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
