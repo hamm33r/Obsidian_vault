@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "2c0ce07426ce7e8d",
+            "id": "e4382c80341fa459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据的存储和排列.md",
+                "file": "数学/定积分求面积,体积,弧长,平均值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据的存储和排列"
+              "title": "定积分求面积,体积,弧长,平均值"
             }
           }
         ],
@@ -99,8 +99,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/数据的存储和排列.md",
+                "file": "数学/定积分求面积,体积,弧长,平均值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "数据的存储和排列 的出链列表"
+              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
             }
           },
           {
@@ -221,19 +220,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c0ce07426ce7e8d",
+  "active": "e4382c80341fa459",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
     "Excalidraw/Drawing 2026-04-17 14.49.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
+    "数学/定积分求面积,体积,弧长,平均值.md",
     "Excalidraw/Drawing 2026-04-17 14.42.37.excalidraw.md",
+    "数学/基本积分公式.md",
+    "408/数据的存储和排列.md",
     "Excalidraw",
-    "定积分求面积,体积,弧长,平均值.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
     "同步测试.md",
-    "数学/基本积分公式.md",
     "数学/三角函数公式.md",
-    "408/数据的存储和排列.md",
     "408/真值与浮点数的转换.md",
     "408/assets/真值与浮点数的转换/file-20260416163744092.png",
     "1.md",
