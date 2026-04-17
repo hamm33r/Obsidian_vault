@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1f51e6c08e1222c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "同步测试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "同步测试"
+            }
+          },
+          {
             "id": "2c0ce07426ce7e8d",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "定积分求面积,体积,弧长,平均值"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/基本积分公式.md",
+                "file": "同步测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "基本积分公式 的出链列表"
+              "title": "同步测试 的出链列表"
             }
           },
           {
@@ -218,8 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c451042f50a0c2e",
+  "active": "1f51e6c08e1222c0",
   "lastOpenFiles": [
+    "数学/基本积分公式.md",
+    "同步测试.md",
     "数学/三角函数公式.md",
     "定积分求面积,体积,弧长,平均值.md",
     "408/数据的存储和排列.md",
@@ -230,7 +247,6 @@
     "408/浮点数的表示范围.md",
     "408/定点数的加减运算溢出判别.md",
     "408/带符号整数（补码）除法.md",
-    "数学/基本积分公式.md",
     "数学/区间再现公式.md",
     "数学/两个不同点使表达式成立（不同中值）.md",
     "408/浮点数的溢出.md",
@@ -247,7 +263,6 @@
     "数学/两个重要结论（x的p积分）.md",
     "408/不同类型之间的转换.md",
     "408/assets/不同类型之间的转换",
-    "408/浮点数的加减运算.md",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
     "assets/不同类型之间的转换",
