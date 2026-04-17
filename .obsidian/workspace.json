@@ -37,9 +37,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "未命名"
             }
+          },
+          {
+            "id": "1d50026c0b3eac50",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-17 14.03.31.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Drawing 2026-04-17 14.03.31.excalidraw 的出链列表"
             }
           },
           {
@@ -223,10 +235,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c0ce07426ce7e8d",
+  "active": "1d50026c0b3eac50",
   "lastOpenFiles": [
-    "同步测试.md",
     "未命名.canvas",
+    "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
+    "Excalidraw",
+    "同步测试.md",
     "数学/基本积分公式.md",
     "数学/三角函数公式.md",
     "定积分求面积,体积,弧长,平均值.md",
@@ -251,7 +265,6 @@
     "数学/常见的奇函数.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/函数的奇偶性.md",
-    "数学/两个重要结论（x的p积分）.md",
     "408/assets/不同类型之间的转换",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
@@ -269,7 +282,6 @@
     "assets/原码的加减运算",
     "408/assets/浮点数的溢出/file-20260409191656051.png",
     "408/assets/浮点数的溢出/file-20260409191656053.png",
-    "assets/浮点数的溢出",
     "408/assets/浮点数加减结果舍入处理/file-20260408192809214.png"
   ]
 }
