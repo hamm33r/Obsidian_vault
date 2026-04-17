@@ -25,33 +25,18 @@
             "id": "2c0ce07426ce7e8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 101.87639187486262,
-                  "zoom": 0
-                }
+                "file": "定积分求面积,体积,弧长,平均值.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "1d50026c0b3eac50",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-17 14.03.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "定积分求面积,体积,弧长,平均值"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
+                "file": "定积分求面积,体积,弧长,平均值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Drawing 2026-04-17 14.03.31.excalidraw 的出链列表"
+              "title": "定积分求面积,体积,弧长,平均值 的出链列表"
             }
           },
           {
@@ -235,7 +220,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1d50026c0b3eac50",
+  "active": "2c0ce07426ce7e8d",
   "lastOpenFiles": [
     "未命名.canvas",
     "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
