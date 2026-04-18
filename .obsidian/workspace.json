@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "积分等式与积分不等式.md",
+                "file": "数学/证明函数根存在性的问题（微分等式）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "积分等式与积分不等式"
+              "title": "证明函数根存在性的问题（微分等式）"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/ln不等式.md",
+                "file": "数学/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ln不等式"
+              "title": "泰勒公式"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "根",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "积分等式与积分不等式.md",
+                "file": "数学/证明函数根存在性的问题（微分等式）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "积分等式与积分不等式 的出链列表"
+              "title": "证明函数根存在性的问题（微分等式） 的出链列表"
             }
           },
           {
@@ -306,10 +307,13 @@
   },
   "active": "fe149f7fe8595935",
   "lastOpenFiles": [
-    "数学/常用积分换元法（第二类换元法）.md",
-    "数学/ln不等式.md",
-    "数学/assets/ln不等式",
+    "数学/assets/证明函数根存在性的问题（微分等式）",
+    "数学/经典题目.md",
     "积分等式与积分不等式.md",
+    "数学/泰勒公式.md",
+    "数学/ln不等式.md",
+    "数学/常用积分换元法（第二类换元法）.md",
+    "数学/assets/ln不等式",
     "lim积分x的n次幂乘连续f(x).md",
     "不等式大合集.md",
     "数学/基本积分公式.md",
@@ -333,9 +337,6 @@
     "数学/有理函数的积分.md",
     "408/浮点数的表示范围.md",
     "408/定点数的加减运算溢出判别.md",
-    "408/带符号整数（补码）除法.md",
-    "数学/区间再现公式.md",
-    "数学/两个不同点使表达式成立（不同中值）.md",
     "408/assets/不同类型之间的转换",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
     "408/assets/不同类型之间的转换/file-20260414220644019.png",
