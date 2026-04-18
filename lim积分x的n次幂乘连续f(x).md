@@ -1,1 +1,1 @@
-## 设f(x)在\[0,1]上连续，则$$\lim_{n\to \infty}\int{}$$
+## 设f(x)在\[0,1]上连续，则$$\lim_{n\to \infty}\int_{0}^{1}x^nf(x)dx=0$$
