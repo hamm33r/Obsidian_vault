@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "存储字长",
+                "query": "lim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28adfbe538d5fff0",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "不等式大合集.md",
     "lim积分x的n次幂乘连续f(x).md",
