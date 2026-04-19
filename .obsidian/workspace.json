@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "724ac3849dc7446e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本的半导体元件及原理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基本的半导体元件及原理"
+            }
+          },
+          {
             "id": "e4382c80341fa459",
             "type": "leaf",
             "state": {
@@ -69,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定积分物理应用.md",
+                "file": "数学/定积分物理应用.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,7 +91,8 @@
               "title": "定积分物理应用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "存储字长",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +155,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/数据的存储和排列.md",
+                "file": "基本的半导体元件及原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "数据的存储和排列 的出链列表"
+              "title": "基本的半导体元件及原理 的出链列表"
             }
           },
           {
@@ -262,24 +276,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c451042f50a0c2e",
+  "active": "724ac3849dc7446e",
   "lastOpenFiles": [
-    "数学/基本积分公式.md",
-    "408/数据的存储和排列.md",
-    "定积分物理应用.md",
-    "assets/定积分物理应用/file-20260419163146477.png",
-    "assets/定积分物理应用/file-20260419162146544.png",
-    "assets/定积分物理应用",
+    "assets/基本的半导体元件及原理/file-20260419202309310.png",
+    "assets/基本的半导体元件及原理",
     "assets",
+    "408/数据的存储和排列.md",
+    "基本的半导体元件及原理.md",
+    "数学/assets/定积分物理应用",
+    "数学/基本积分公式.md",
+    "数学/定积分物理应用.md",
+    "数学/assets/定积分物理应用/file-20260419202224291.png",
+    "数学/assets/定积分物理应用/file-20260419202224293.png",
+    "assets/定积分物理应用",
     "数学/求导公式.md",
     "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/求不定积分时的思路.md",
     "数学/泰勒公式.md",
-    "不等式大合集.md",
-    "lim积分x的n次幂乘连续f(x).md",
-    "积分等式与积分不等式.md",
-    "定积分对称区间的公式.md",
-    "古鲁金第一、二定理.md",
+    "数学/不等式大合集.md",
+    "数学/lim积分x的n次幂乘连续f(x).md",
+    "数学/积分等式与积分不等式.md",
+    "数学/定积分对称区间的公式.md",
+    "数学/古鲁金第一、二定理.md",
     "数学/常用凑微分公式.md",
     "数学/定积分存在定理.md",
     "数学/常用积分换元法（第二类换元法）.md",
@@ -296,7 +314,6 @@
     "Excalidraw/Drawing 2026-04-17 14.42.37.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
-    "Excalidraw/Drawing 2026-04-17 14.03.31.excalidraw.md",
     "408/assets/真值与浮点数的转换/file-20260416163744092.png",
     "408/assets/不同类型之间的转换",
     "408/assets/数据的存储和排列/file-20260414112829165.png",
@@ -304,8 +321,6 @@
     "assets/不同类型之间的转换",
     "数学/assets/分部积分法/file-20260408152802671.png",
     "408/assets/浮点数的存储",
-    "408/assets/数据的存储和排列",
-    "408/assets/原码的加减运算",
     "408/assets/数据的存储和排列/file-20260409191658800.png",
     "408/assets/数据的存储和排列/file-20260409191658803.png",
     "408/assets/原码的加减运算/file-20260409191657504.png",
