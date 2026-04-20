@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地址引脚和数据引脚的确定.md",
+                "file": "408/408错题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "地址引脚和数据引脚的确定 的出链列表"
+              "title": "408错题 的出链列表"
             }
           },
           {
@@ -318,11 +318,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "36ff6e009a639268",
+  "active": "d4c0406a14c193e1",
   "lastOpenFiles": [
     "基本的半导体元件及原理.md",
-    "408/408错题.md",
     "地址引脚和数据引脚的确定.md",
+    "408/408错题.md",
     "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "assets/地址引脚和数据引脚的确定/file-20260420154531276.png",
     "assets/地址引脚和数据引脚的确定",
