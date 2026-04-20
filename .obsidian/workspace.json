@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ff63fd5737894339",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36ff6e009a639268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基本的半导体元件及原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本的半导体元件及原理"
-            }
-          },
-          {
-            "id": "1f9f5363829700f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16进制数和被某个数整除之间的规律.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16进制数和被某个数整除之间的规律"
-            }
-          },
-          {
-            "id": "150fd092cf475d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/408错题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "408错题"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "04bfabbc1dbd6162",
         "type": "tabs",
         "children": [
@@ -62,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
+                "file": "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
                 "mode": "source",
                 "source": false
               },
@@ -76,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多体并行存储器.md",
+                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多体并行存储器"
+              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
             }
           }
         ],
@@ -117,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gamma",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +99,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16进制数和被某个数整除之间的规律.md",
+                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "16进制数和被某个数整除之间的规律 的出链列表"
+              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分) 的出链列表"
             }
           },
           {
@@ -269,43 +221,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f9f5363829700f9",
+  "active": "724ac3849dc7446e",
   "lastOpenFiles": [
-    "assets/16进制数和被某个数整除之间的规律/file-20260420175741858.png",
-    "assets/16进制数和被某个数整除之间的规律",
-    "基本的半导体元件及原理.md",
-    "16进制数和被某个数整除之间的规律.md",
-    "多体并行存储器.md",
-    "地址引脚和数据引脚的确定.md",
+    "408/多体并行存储器.md",
+    "408/assets/16进制数和被某个数整除之间的规律",
+    "408/assets/地址引脚和数据引脚的确定",
+    "408/assets/多体并行存储器",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM",
+    "408/assets/基本的半导体元件及原理",
+    "408/基本的半导体元件及原理.md",
     "408/408错题.md",
+    "408/16进制数和被某个数整除之间的规律.md",
+    "408/assets/16进制数和被某个数整除之间的规律/file-20260420212113537.png",
+    "assets/16进制数和被某个数整除之间的规律",
+    "408/地址引脚和数据引脚的确定.md",
     "408/定点数的移位运算.md",
-    "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
+    "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "数学/定积分物理应用.md",
     "数学/泰勒公式.md",
     "数学/求不定积分时的思路.md",
     "数学/求导公式.md",
     "408/带符号整数的乘法运算.md",
-    "assets/地址引脚和数据引脚的确定/file-20260420154531276.png",
+    "408/assets/地址引脚和数据引脚的确定/file-20260420212111824.png",
     "assets/地址引脚和数据引脚的确定",
     "408/assets/408错题/file-20260420154246003.png",
     "assets/多体并行存储器",
     "assets/多体并行存储器,DRAM刷新",
     "408/数据的存储和排列.md",
     "assets/栅极电容对比双稳态触发器,DRAM对比SRAM",
-    "assets/多体并行存储器/file-20260420151948318.png",
-    "assets/多体并行存储器/file-20260420151948316.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842846.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842847.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842849.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842851.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842868.png",
-    "assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842870.png",
-    "assets/栅极电容对比双稳态触发器",
-    "assets/基本的半导体元件及原理",
-    "assets",
-    "数学/assets/定积分物理应用",
+    "408/assets/多体并行存储器/file-20260420212110181.png",
+    "408/assets/多体并行存储器/file-20260420212110185.png",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108752.png",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108729.png",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108727.png",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108724.png",
+    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108722.png",
     "数学/基本积分公式.md",
-    "assets/定积分物理应用",
     "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/不等式大合集.md",
     "数学/lim积分x的n次幂乘连续f(x).md",
