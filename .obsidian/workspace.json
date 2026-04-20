@@ -133,7 +133,8 @@
               "title": "定积分物理应用"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
+                "file": "地址引脚和数据引脚的确定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "栅极电容对比双稳态触发器,DRAM对比SRAM 的出链列表"
+              "title": "地址引脚和数据引脚的确定 的出链列表"
             }
           },
           {
@@ -317,14 +318,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c451042f50a0c2e",
+  "active": "36ff6e009a639268",
   "lastOpenFiles": [
+    "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "基本的半导体元件及原理.md",
     "408/408错题.md",
     "地址引脚和数据引脚的确定.md",
     "assets/地址引脚和数据引脚的确定/file-20260420154531276.png",
     "assets/地址引脚和数据引脚的确定",
-    "栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "多体并行存储器.md",
     "408/assets/408错题/file-20260420154246003.png",
     "assets/多体并行存储器",

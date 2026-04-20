@@ -24,4 +24,4 @@ tags:
 ### DRAM的地址线复用技术
 ![](assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420111842847.png)
 >解释了[DRAM对比SRAM](栅极电容对比双稳态触发器,DRAM对比SRAM.md#DRAM对比SRAM)里DRAM送行列地址分两次送
->DRAM细节在[[地址引脚和数据引脚的确定.md#]]
+>DRAM细节在[DRAM芯片](地址引脚和数据引脚的确定.md#DRAM芯片)
