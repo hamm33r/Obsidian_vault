@@ -69,20 +69,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/基本的半导体元件及原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本的半导体元件及原理"
-            }
-          },
-          {
-            "id": "021f94a01ee020cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "多元函数微分法则.md",
                 "mode": "source",
                 "source": false
@@ -92,19 +78,31 @@
             }
           },
           {
+            "id": "021f94a01ee020cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/复合结构不变性图.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "复合结构不变性图"
+            }
+          },
+          {
             "id": "b48e43a153ddce0d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/复合结构不变性.md"
+                "file": "Excalidraw/复合结构不变性图.md"
               },
               "icon": "excalidraw-icon",
-              "title": "复合结构不变性"
+              "title": "复合结构不变性图"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,9 +286,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "021f94a01ee020cf",
+  "active": "22151a7efb9e4b35",
   "lastOpenFiles": [
-    "Excalidraw/复合结构不变性.md",
+    "408/基本的半导体元件及原理.md",
+    "Excalidraw/复合结构不变性图.md",
     "多元函数微分法则.md",
     "数学/多元函数的可微.md",
     "Excalidraw/多元函数微分复合结构图.md",
@@ -298,7 +297,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2026-04-17 14.42.37.excalidraw.md",
     "408/assets/译码器",
-    "408/基本的半导体元件及原理.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "408/地址引脚和数据引脚的确定.md",
     "408/多体并行存储器.md",
