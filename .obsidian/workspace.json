@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "多元函数微分法则"
             }
+          },
+          {
+            "id": "b48e43a153ddce0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/复合结构不变性.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "复合结构不变性"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多元函数微分法则.md",
+                "file": "Excalidraw/复合结构不变性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数微分法则 的出链列表"
+              "title": "复合结构不变性 的出链列表"
             }
           },
           {
@@ -276,10 +288,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "021f94a01ee020cf",
+  "active": "b48e43a153ddce0d",
   "lastOpenFiles": [
-    "数学/多元函数的可微.md",
     "多元函数微分法则.md",
+    "Excalidraw/复合结构不变性.md",
+    "数学/多元函数的可微.md",
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
     "Excalidraw",
@@ -323,7 +336,6 @@
     "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/不等式大合集.md",
     "数学/lim积分x的n次幂乘连续f(x).md",
-    "数学/积分等式与积分不等式.md",
     "未命名.canvas"
   ]
 }
