@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多元函数的可微.md",
+                "file": "408/多体并行存储器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数的可微"
+              "title": "多体并行存储器"
             }
           }
         ],
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多元函数的可微.md",
+                "file": "408/多体并行存储器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数的可微 的出链列表"
+              "title": "多体并行存储器 的出链列表"
             }
           },
           {
@@ -250,8 +250,10 @@
   },
   "active": "a5c4146050f0ce64",
   "lastOpenFiles": [
-    "多元函数的极限.md",
-    "多元函数的可微.md",
+    "408/assets/多体并行存储器/file-20260421144540926.png",
+    "未命名.md",
+    "数学/多元函数的可微.md",
+    "数学/多元函数的极限.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "408/多体并行存储器.md",
     "408/assets/16进制数和被某个数整除之间的规律",
@@ -294,8 +296,6 @@
     "数学/定积分对称区间的公式.md",
     "数学/古鲁金第一、二定理.md",
     "数学/常用凑微分公式.md",
-    "数学/定积分存在定理.md",
-    "数学/常用积分换元法（第二类换元法）.md",
     "未命名.canvas"
   ]
 }
