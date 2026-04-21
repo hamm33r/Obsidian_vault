@@ -81,12 +81,14 @@
             "id": "021f94a01ee020cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/多元函数微分复合结构图.md"
+                "file": "多元函数微分法则.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "多元函数微分复合结构图"
+              "icon": "lucide-file",
+              "title": "多元函数微分法则"
             }
           }
         ],
@@ -192,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/多元函数微分复合结构图.md",
+                "file": "多元函数微分法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数微分复合结构图 的出链列表"
+              "title": "多元函数微分法则 的出链列表"
             }
           },
           {
@@ -276,8 +278,8 @@
   },
   "active": "021f94a01ee020cf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
     "Excalidraw/多元函数微分复合结构图.md",
+    "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2026-04-17 14.42.37.excalidraw.md",
     "多元函数微分法则.md",
