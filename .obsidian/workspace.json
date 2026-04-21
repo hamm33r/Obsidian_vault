@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/复合结构不变性.md",
+                "file": "多元函数微分法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "复合结构不变性 的出链列表"
+              "title": "多元函数微分法则 的出链列表"
             }
           },
           {
@@ -288,10 +288,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b48e43a153ddce0d",
+  "active": "021f94a01ee020cf",
   "lastOpenFiles": [
-    "多元函数微分法则.md",
     "Excalidraw/复合结构不变性.md",
+    "多元函数微分法则.md",
     "数学/多元函数的可微.md",
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
