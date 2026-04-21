@@ -69,16 +69,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "译码器.md",
+                "file": "408/基本的半导体元件及原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "译码器"
+              "title": "基本的半导体元件及原理"
+            }
+          },
+          {
+            "id": "021f94a01ee020cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-21 20.51.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-21 20.51.32.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "译码器.md",
+                "file": "Excalidraw/Drawing 2026-04-21 20.51.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "译码器 的出链列表"
+              "title": "Drawing 2026-04-21 20.51.32.excalidraw 的出链列表"
             }
           },
           {
@@ -262,13 +274,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22151a7efb9e4b35",
+  "active": "021f94a01ee020cf",
   "lastOpenFiles": [
-    "assets/译码器/file-20260421154333984.png",
+    "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-21 20.51.32.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-04-17 14.42.37.excalidraw.md",
+    "多元函数微分法则.md",
+    "408/assets/译码器",
+    "408/基本的半导体元件及原理.md",
+    "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
+    "408/地址引脚和数据引脚的确定.md",
+    "408/多体并行存储器.md",
+    "408/译码器.md",
+    "408/assets/译码器/file-20260421205034732.png",
     "assets/译码器",
     "assets",
-    "408/多体并行存储器.md",
-    "译码器.md",
     "408/assets/多体并行存储器/file-20260421144540926.png",
     "数学/多元函数的可微.md",
     "数学/多元函数的极限.md",
@@ -278,38 +299,29 @@
     "408/assets/多体并行存储器",
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM",
     "408/assets/基本的半导体元件及原理",
-    "408/基本的半导体元件及原理.md",
     "408/408错题.md",
     "408/16进制数和被某个数整除之间的规律.md",
     "408/assets/16进制数和被某个数整除之间的规律/file-20260420212113537.png",
     "assets/16进制数和被某个数整除之间的规律",
-    "408/地址引脚和数据引脚的确定.md",
     "408/定点数的移位运算.md",
-    "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "数学/定积分物理应用.md",
     "数学/泰勒公式.md",
     "数学/求不定积分时的思路.md",
     "数学/求导公式.md",
     "408/带符号整数的乘法运算.md",
     "408/assets/地址引脚和数据引脚的确定/file-20260420212111824.png",
-    "assets/地址引脚和数据引脚的确定",
     "408/assets/408错题/file-20260420154246003.png",
-    "assets/多体并行存储器",
     "408/数据的存储和排列.md",
     "408/assets/多体并行存储器/file-20260420212110181.png",
     "408/assets/多体并行存储器/file-20260420212110185.png",
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108752.png",
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108729.png",
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108727.png",
-    "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108724.png",
     "数学/基本积分公式.md",
     "数学/定积分求面积,体积,弧长,平均值.md",
     "数学/不等式大合集.md",
     "数学/lim积分x的n次幂乘连续f(x).md",
     "数学/积分等式与积分不等式.md",
-    "数学/定积分对称区间的公式.md",
-    "数学/古鲁金第一、二定理.md",
-    "数学/常用凑微分公式.md",
     "未命名.canvas"
   ]
 }
