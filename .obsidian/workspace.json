@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "3ac7cbe8c2571e8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/最远最近点的垂线原理图.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "最远最近点的垂线原理图"
+            }
+          },
+          {
             "id": "22151a7efb9e4b35",
             "type": "leaf",
             "state": {
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多元函数极值,最值.md",
+                "file": "Excalidraw/最远最近点的垂线原理图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数极值,最值 的出链列表"
+              "title": "最远最近点的垂线原理图 的出链列表"
             }
           },
           {
@@ -314,10 +326,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c880dbbccda56c1d",
+  "active": "3ac7cbe8c2571e8a",
   "lastOpenFiles": [
-    "函数最值问题时对函数的简化.md",
     "多元函数极值,最值.md",
+    "Excalidraw/最远最近点的垂线原理图.md",
+    "函数最值问题时对函数的简化.md",
     "多元函数微分法则.md",
     "408/多体并行存储器.md",
     "408/基本的半导体元件及原理.md",
@@ -361,7 +374,6 @@
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108729.png",
     "408/assets/栅极电容对比双稳态触发器,DRAM对比SRAM/file-20260420212108727.png",
     "数学/基本积分公式.md",
-    "数学/定积分求面积,体积,弧长,平均值.md",
     "未命名.canvas"
   ]
 }
