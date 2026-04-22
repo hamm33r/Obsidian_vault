@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/例13.21图.md",
+                "file": "多元函数极值,最值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "例13.21图 的出链列表"
+              "title": "多元函数极值,最值 的出链列表"
             }
           },
           {
@@ -338,10 +338,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f4700d9ad62db53d",
+  "active": "c880dbbccda56c1d",
   "lastOpenFiles": [
-    "多元函数极值,最值.md",
     "Excalidraw/例13.21图.md",
+    "多元函数极值,最值.md",
     "Excalidraw/最远最近点的垂线原理图.md",
     "函数最值问题时对函数的简化.md",
     "多元函数微分法则.md",
