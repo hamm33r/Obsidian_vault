@@ -41,10 +41,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-22 20.03.02.excalidraw.md"
+                "file": "Excalidraw/主存层次图.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-22 20.03.02.excalidraw"
+              "title": "主存层次图"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-22 20.03.02.excalidraw.md",
+                "file": "存储系统的分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Drawing 2026-04-22 20.03.02.excalidraw 的出链列表"
+              "title": "存储系统的分类 的出链列表"
             }
           },
           {
@@ -260,10 +260,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "929431850c17e552",
+  "active": "e40dd71464a51d44",
   "lastOpenFiles": [
+    "Excalidraw/主存层次图.md",
     "存储系统的分类.md",
-    "Excalidraw/Drawing 2026-04-22 20.03.02.excalidraw.md",
     "408/译码器.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "408/基本的半导体元件及原理.md",
