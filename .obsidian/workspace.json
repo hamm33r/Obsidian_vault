@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多元函数微分法则.md",
+                "file": "多元函数极值,最值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数微分法则"
+              "title": "多元函数极值,最值"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隐函数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +112,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多元函数微分法则.md",
+                "file": "多元函数极值,最值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数微分法则 的出链列表"
+              "title": "多元函数极值,最值 的出链列表"
             }
           },
           {
@@ -234,11 +233,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "c880dbbccda56c1d",
   "lastOpenFiles": [
+    "多元函数微分法则.md",
     "多元函数极值,最值.md",
     "数学/多元函数的可微.md",
-    "多元函数微分法则.md",
     "函数最值问题时对函数的简化.md",
     "数学/多元函数的极限.md",
     "Excalidraw/复合结构不变性图.md",
