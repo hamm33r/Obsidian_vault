@@ -8,153 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c451042f50a0c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "栅极电容对比双稳态触发器,DRAM对比SRAM"
-            }
-          },
-          {
-            "id": "724ac3849dc7446e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gamma函数的知识(x的alpha次方乘以e-x次方积分)"
-            }
-          },
-          {
-            "id": "98776d0b24223b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "多元函数的极限.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多元函数的极限"
-            }
-          },
-          {
-            "id": "a5c4146050f0ce64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "函数最值问题时对函数的简化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "函数最值问题时对函数的简化"
-            }
-          },
-          {
             "id": "c880dbbccda56c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/多元函数的极限.md",
+                "file": "数学/多元函数的可微.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数的极限"
-            }
-          },
-          {
-            "id": "f4700d9ad62db53d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/例13.21图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "例13.21图"
-            }
-          },
-          {
-            "id": "3ac7cbe8c2571e8a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/最远最近点的垂线原理图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "最远最近点的垂线原理图"
-            }
-          },
-          {
-            "id": "22151a7efb9e4b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "多元函数微分法则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多元函数微分法则"
-            }
-          },
-          {
-            "id": "ce670f4ac33c5d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "函数最值问题时对函数的简化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "函数最值问题时对函数的简化"
-            }
-          },
-          {
-            "id": "021f94a01ee020cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/复合结构不变性图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "复合结构不变性图"
-            }
-          },
-          {
-            "id": "b48e43a153ddce0d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/复合结构不变性图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "复合结构不变性图"
+              "title": "多元函数的可微"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "多元",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,8 +84,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/多元函数的极限.md",
+                "file": "数学/多元函数的可微.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数的极限 的出链列表"
+              "title": "多元函数的可微 的出链列表"
             }
           },
           {
@@ -341,14 +207,15 @@
   },
   "active": "c880dbbccda56c1d",
   "lastOpenFiles": [
-    "多元函数极值,最值.md",
-    "Excalidraw/例13.21图.md",
-    "Excalidraw/最远最近点的垂线原理图.md",
     "函数最值问题时对函数的简化.md",
+    "多元函数极值,最值.md",
     "多元函数微分法则.md",
+    "数学/多元函数的极限.md",
+    "Excalidraw/复合结构不变性图.md",
+    "Excalidraw/最远最近点的垂线原理图.md",
+    "Excalidraw/例13.21图.md",
     "408/多体并行存储器.md",
     "408/基本的半导体元件及原理.md",
-    "Excalidraw/复合结构不变性图.md",
     "数学/多元函数的可微.md",
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/Drawing 2026-04-17 14.50.06.excalidraw.md",
@@ -362,7 +229,6 @@
     "assets/译码器",
     "assets",
     "408/assets/多体并行存储器/file-20260421144540926.png",
-    "数学/多元函数的极限.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "408/assets/16进制数和被某个数整除之间的规律",
     "408/assets/地址引脚和数据引脚的确定",
