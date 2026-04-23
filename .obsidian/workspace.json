@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/基本的半导体元件及原理.md",
+                "file": "数学/多元函数的可微.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本的半导体元件及原理"
+              "title": "多元函数的可微"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8位",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/基本的半导体元件及原理.md",
+                "file": "数学/多元函数的可微.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "基本的半导体元件及原理 的出链列表"
+              "title": "多元函数的可微 的出链列表"
             }
           },
           {
@@ -237,17 +236,17 @@
   },
   "active": "b4785832febcb1ca",
   "lastOpenFiles": [
+    "数学/多元函数微分法则.md",
+    "数学/多元函数极值,最值.md",
+    "408/基本的半导体元件及原理.md",
     "408/408错题.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "408/多体并行存储器.md",
     "408/地址引脚和数据引脚的确定.md",
     "408/译码器.md",
-    "408/基本的半导体元件及原理.md",
     "数学/多元函数的可微.md",
-    "存储系统的分类.md",
+    "408/存储系统的分类.md",
     "Excalidraw/主存层次图.md",
-    "数学/多元函数微分法则.md",
-    "数学/多元函数极值,最值.md",
     "数学/函数最值问题时对函数的简化.md",
     "数学/多元函数的极限.md",
     "Excalidraw/复合结构不变性图.md",
