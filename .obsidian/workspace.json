@@ -33,8 +33,7 @@
               "title": "Drawing 2026-04-25 21.28.56.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-25 21.28.56.excalidraw.md",
+                "file": "408/Cache和主存的映射方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Drawing 2026-04-25 21.28.56.excalidraw 的出链列表"
+              "title": "Cache和主存的映射方式 的出链列表"
             }
           },
           {
@@ -218,10 +217,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85a8b9441e730380",
+  "active": "2ad04f1ab14de8ce",
   "lastOpenFiles": [
-    "408/Cache和主存的映射方式.md",
     "Excalidraw/Drawing 2026-04-25 21.28.56.excalidraw.md",
+    "408/Cache和主存的映射方式.md",
     "408/Cache中主存块的替换算法.md",
     "数学/多元函数极值,最值.md",
     "数学/多元函数的可微.md",
