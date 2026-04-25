@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/多元函数极值,最值.md",
+                "file": "408/Cache中主存块的替换算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数极值,最值"
+              "title": "Cache中主存块的替换算法"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/多元函数极值,最值.md",
+                "file": "408/Cache中主存块的替换算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "多元函数极值,最值 的出链列表"
+              "title": "Cache中主存块的替换算法 的出链列表"
             }
           },
           {
@@ -207,9 +207,9 @@
   },
   "active": "2ad04f1ab14de8ce",
   "lastOpenFiles": [
+    "数学/多元函数极值,最值.md",
     "数学/多元函数的可微.md",
     "数学/函数最值问题时对函数的简化.md",
-    "数学/多元函数极值,最值.md",
     "数学/多元函数的极限.md",
     "数学/积分等式与积分不等式.md",
     "数学/lim积分x的n次幂乘连续f(x).md",
