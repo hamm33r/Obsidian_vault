@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-25 21.28.56.excalidraw.md"
+                "file": "Excalidraw/Cache的访问过程图.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-25 21.28.56.excalidraw"
+              "title": "Cache的访问过程图"
             }
           }
         ],
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-25 21.28.56.excalidraw.md",
+                "file": "Excalidraw/Cache的访问过程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Drawing 2026-04-25 21.28.56.excalidraw 的出链列表"
+              "title": "Cache的访问过程图 的出链列表"
             }
           },
           {
@@ -221,7 +221,7 @@
   "active": "85a8b9441e730380",
   "lastOpenFiles": [
     "408/Cache和主存的映射方式.md",
-    "Excalidraw/Drawing 2026-04-25 21.28.56.excalidraw.md",
+    "Excalidraw/Cache的访问过程图.md",
     "408/Cache中主存块的替换算法.md",
     "数学/多元函数极值,最值.md",
     "数学/多元函数的可微.md",
