@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/有理函数的积分.md",
+                "file": "数学/分部积分法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有理函数的积分"
+              "title": "分部积分法"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "定积分求值积累"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三角函数",
+                "query": "e的",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/有理函数的积分.md",
+                "file": "定积分求值积累.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "有理函数的积分 的出链列表"
+              "title": "定积分求值积累 的出链列表"
             }
           },
           {
@@ -220,12 +221,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e08fb8ee727a187",
+  "active": "78a26691285f088c",
   "lastOpenFiles": [
+    "数学/分部积分法.md",
+    "定积分求值积累.md",
+    "数学/有理函数的积分.md",
     "数学/区间再现公式.md",
     "数学/求不定积分时的思路.md",
     "数学/基本积分公式.md",
-    "数学/分部积分法.md",
     "数学/常用积分换元法（第二类换元法）.md",
     "数学/常见的奇函数.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
@@ -240,8 +243,6 @@
     "数学/常用凑微分公式.md",
     "数学/求导公式.md",
     "数学/因式分解公式.md",
-    "数学/有理函数的积分.md",
-    "定积分求值积累.md",
     "数学/华里士公式（点火公式）.md",
     "数学/多元函数的极限.md",
     "数学/函数最值问题时对函数的简化.md",
