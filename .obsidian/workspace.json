@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/ln不等式.md",
+                "file": "数学/有理函数的积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ln不等式"
+              "title": "有理函数的积分"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "反三角",
+                "query": "三角函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/ln不等式.md",
+                "file": "数学/有理函数的积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ln不等式 的出链列表"
+              "title": "有理函数的积分 的出链列表"
             }
           },
           {
@@ -221,32 +222,32 @@
   },
   "active": "6e08fb8ee727a187",
   "lastOpenFiles": [
+    "数学/区间再现公式.md",
+    "数学/求不定积分时的思路.md",
+    "数学/基本积分公式.md",
+    "数学/分部积分法.md",
+    "数学/常用积分换元法（第二类换元法）.md",
+    "数学/常见的奇函数.md",
+    "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+    "数学/古鲁金第一、二定理.md",
+    "数学/定积分物理应用.md",
+    "数学/定积分对称区间的公式.md",
+    "数学/积分等式与积分不等式.md",
+    "数学/实系数奇次方程至少有一个实根.md",
+    "数学/ln不等式.md",
     "数学/定积分存在定理.md",
     "数学/定积分性质.md",
     "数学/常用凑微分公式.md",
     "数学/求导公式.md",
-    "数学/常用积分换元法（第二类换元法）.md",
-    "数学/分部积分法.md",
     "数学/因式分解公式.md",
     "数学/有理函数的积分.md",
-    "数学/区间再现公式.md",
     "定积分求值积累.md",
     "数学/华里士公式（点火公式）.md",
-    "数学/常见的奇函数.md",
-    "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/多元函数的极限.md",
     "数学/函数最值问题时对函数的简化.md",
     "数学/多元函数微分法则.md",
     "数学/多元函数的可微.md",
-    "数学/古鲁金第一、二定理.md",
-    "数学/定积分物理应用.md",
-    "数学/定积分对称区间的公式.md",
     "数学/lim积分x的n次幂乘连续f(x).md",
-    "数学/函数的奇偶性.md",
-    "数学/三角函数公式.md",
-    "数学/定积分求面积,体积,弧长,平均值.md",
-    "数学/不等式大合集.md",
-    "数学/绝对值积分收敛则原函数积分收敛.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
