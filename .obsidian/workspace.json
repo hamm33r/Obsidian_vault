@@ -111,7 +111,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e08fb8ee727a187",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "408/Cache和主存的映射方式.md",
     "Excalidraw/Cache的访存过程图.md",
