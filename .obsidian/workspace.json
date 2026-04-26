@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache容量的计算.md",
+                "file": "数学/三角函数公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache容量的计算"
+              "title": "三角函数公式"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "根号",
+                "query": "反三角",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache容量的计算.md",
+                "file": "数学/三角函数公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Cache容量的计算 的出链列表"
+              "title": "三角函数公式 的出链列表"
             }
           },
           {
@@ -233,11 +233,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "6e08fb8ee727a187",
   "lastOpenFiles": [
+    "Cache容量的计算.md",
     "408/Cache和主存的映射方式.md",
     "Excalidraw/Cache的访存过程图.md",
-    "Cache容量的计算.md",
     "408/Cache中主存块的替换算法.md",
     "数学/多元函数极值,最值.md",
     "数学/多元函数的可微.md",
