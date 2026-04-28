@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/分部积分法.md",
+                "file": "数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分部积分法"
+              "title": "基本积分公式"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动区域上的二重积分.md",
+                "file": "数学/因式分解公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动区域上的二重积分"
+              "title": "因式分解公式"
             }
           },
           {
@@ -61,8 +61,7 @@
               "title": "Cache的访存过程图"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e的",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动区域上的二重积分.md",
+                "file": "数学/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "动区域上的二重积分 的出链列表"
+              "title": "基本积分公式 的出链列表"
             }
           },
           {
@@ -246,9 +245,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "522ff2cad93290f7",
+  "active": "6e08fb8ee727a187",
   "lastOpenFiles": [
+    "数学/分部积分法.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
+    "数学/因式分解公式.md",
     "动区域上的二重积分.md",
     "数学/定积分求值积累.md",
     "数学/三角函数公式.md",
@@ -257,7 +258,6 @@
     "数学/定积分的精确定义.md",
     "数学/定积分存在定理.md",
     "数学/二重积分.md",
-    "数学/分部积分法.md",
     "数学/有理函数的积分.md",
     "数学/区间再现公式.md",
     "数学/求不定积分时的思路.md",
@@ -273,7 +273,6 @@
     "数学/定积分性质.md",
     "数学/常用凑微分公式.md",
     "数学/求导公式.md",
-    "数学/因式分解公式.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
