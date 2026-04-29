@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "微分方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "微分方程"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "微分方程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "微分方程 的出链列表"
             }
           },
           {
@@ -263,7 +263,7 @@
   "active": "2db86d862b20d687",
   "lastOpenFiles": [
     "数学/二重积分.md",
-    "未命名.md",
+    "微分方程.md",
     "数学/定积分求值积累.md",
     "数学/基本积分公式.md",
     "数学/求导公式.md",
