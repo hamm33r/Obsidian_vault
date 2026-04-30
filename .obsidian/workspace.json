@@ -39,12 +39,14 @@
             "id": "78a26691285f088c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Cache的访存过程图.md"
+                "file": "数学/变限积分性质.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Cache的访存过程图"
+              "icon": "lucide-file",
+              "title": "变限积分性质"
             }
           },
           {
@@ -176,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Cache的访存过程图.md",
+                "file": "数学/变限积分性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Cache的访存过程图 的出链列表"
+              "title": "变限积分性质 的出链列表"
             }
           },
           {
@@ -260,22 +262,23 @@
   },
   "active": "78a26691285f088c",
   "lastOpenFiles": [
+    "数学/定积分性质.md",
+    "数学/变限积分性质.md",
+    "数学/敛散性判别法.md",
+    "数学/两个重要结论（x的p积分）.md",
+    "数学/基本积分公式.md",
     "Excalidraw/Cache的访存过程图.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "Excalidraw/Drawing 2026-04-29 22.25.50.excalidraw.md",
     "数学/微分方程.md",
     "数学/二重积分.md",
     "数学/定积分求值积累.md",
-    "数学/基本积分公式.md",
     "数学/求导公式.md",
     "数学/常用积分换元法（第二类换元法）.md",
     "数学/求不定积分时的思路.md",
     "数学/华里士公式（点火公式）.md",
     "数学/区间再现公式.md",
-    "数学/变限积分性质.md",
     "数学/绝对值积分收敛则原函数积分收敛.md",
-    "数学/两个重要结论（x的p积分）.md",
-    "数学/敛散性判别法.md",
     "数学/分部积分法.md",
     "数学/有理函数的积分.md",
     "数学/因式分解公式.md",
@@ -285,7 +288,6 @@
     "数学/定积分的精确定义.md",
     "数学/定积分存在定理.md",
     "数学/常见的奇函数.md",
-    "数学/古鲁金第一、二定理.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
