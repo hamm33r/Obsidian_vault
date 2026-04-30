@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "泰勒公式.md",
+                "file": "数学/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "泰勒公式.md",
+                "file": "数学/泰勒公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -276,8 +276,9 @@
   },
   "active": "e714b2fe1dddaa87",
   "lastOpenFiles": [
+    "数学/泰勒公式 1.md",
+    "数学/微分方程.md",
     "数学/变限积分性质.md",
-    "泰勒公式.md",
     "数学/定积分性质.md",
     "数学/敛散性判别法.md",
     "数学/两个重要结论（x的p积分）.md",
@@ -285,7 +286,6 @@
     "Excalidraw/Cache的访存过程图.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "Excalidraw/Drawing 2026-04-29 22.25.50.excalidraw.md",
-    "数学/微分方程.md",
     "数学/二重积分.md",
     "数学/定积分求值积累.md",
     "数学/求导公式.md",
