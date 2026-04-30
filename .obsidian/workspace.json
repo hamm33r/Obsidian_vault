@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/微分方程.md",
+                "file": "Excalidraw/Cache的访存过程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "微分方程 的出链列表"
+              "title": "Cache的访存过程图 的出链列表"
             }
           },
           {
@@ -274,11 +274,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e714b2fe1dddaa87",
+  "active": "f3851199f78b54de",
   "lastOpenFiles": [
+    "数学/微分方程.md",
     "数学/常用泰勒公式.md",
     "数学/泰勒公式.md",
-    "数学/微分方程.md",
     "数学/变限积分性质.md",
     "数学/定积分性质.md",
     "数学/敛散性判别法.md",
