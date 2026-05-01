@@ -267,9 +267,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e8bd1dce90cc2ec6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -290,11 +300,16 @@
   },
   "active": "62f01c47c39b713f",
   "lastOpenFiles": [
+    "assets/Cache缺失时间计算/file-20260501122021921.png",
+    "assets/Cache缺失时间计算/file-20260501121906024.png",
+    "assets/Cache缺失时间计算/file-20260501121901364.png",
+    "assets/Cache缺失时间计算/file-20260501121745932.png",
+    "Excalidraw/Drawing 2026-05-01 12.16.15.excalidraw.md",
+    "Cache缺失时间计算.md",
     "assets/Cache缺失时间计算/file-20260501120950002.png",
     "assets/Cache缺失时间计算",
     "assets",
     "Excalidraw/Cache的访存过程图.md",
-    "Cache缺失时间计算.md",
     "数学/微分方程.md",
     "408/存储器基本的半导体元件及原理.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
@@ -317,7 +332,6 @@
     "数学/基本积分公式.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "Excalidraw/Drawing 2026-04-29 22.25.50.excalidraw.md",
-    "数学/定积分求值积累.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
@@ -327,10 +341,6 @@
     "408/assets/Cache中主存块的替换算法/file-20260424204723038.png",
     "408/assets/Cache中主存块的替换算法/file-20260424204723041.png",
     "assets/Cache中主存块的替换算法",
-    "408/assets/Cache和主存的映射方式/file-20260424204721887.png",
-    "408/assets/Cache和主存的映射方式/file-20260424204721896.png",
-    "408/assets/Cache和主存的映射方式/file-20260424204721903.png",
-    "408/assets/Cache和主存的映射方式/file-20260424204721906.png",
     "assets/Cache和主存的映射方式",
     "408/assets/存储器基本的半导体元件及原理",
     "Excalidraw",
