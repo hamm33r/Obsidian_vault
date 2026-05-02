@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -324,16 +324,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "522ff2cad93290f7",
+  "active": "a78120400da85593",
   "lastOpenFiles": [
-    "虚拟存储器.md",
+    "assets/虚拟存储器/file-20260502175654135.png",
+    "assets/虚拟存储器",
     "Cache缺失时间计算.md",
-    "Excalidraw/Cache TLB的访存过程图.md",
+    "数学/二重积分.md",
+    "数学/微分方程.md",
+    "数学/变限积分性质.md",
     "Excalidraw/三种缺失.md",
+    "虚拟存储器.md",
+    "Excalidraw/Cache TLB的访存过程图.md",
     "TLB Cache Page缺失.md",
     "Excalidraw/assets/Cache TLB的访存过程图",
     "408/Cache容量的计算.md",
-    "数学/微分方程.md",
     "408/Cache和主存的映射方式.md",
     "408/Cache中主存块的替换算法.md",
     "数学/因式分解公式.md",
@@ -355,14 +359,11 @@
     "408/16进制数和被某个数整除之间的规律.md",
     "408/译码器.md",
     "408/存储系统的分类.md",
-    "数学/二重积分.md",
     "数学/古鲁金第一、二定理.md",
     "数学/常用泰勒公式.md",
     "数学/泰勒公式.md",
-    "数学/变限积分性质.md",
     "数学/定积分性质.md",
     "数学/敛散性判别法.md",
-    "数学/两个重要结论（x的p积分）.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
@@ -371,7 +372,6 @@
     "408/assets/Cache中主存块的替换算法/file-20260424204723030.png",
     "assets/Cache中主存块的替换算法",
     "assets/Cache和主存的映射方式",
-    "408/assets/存储器基本的半导体元件及原理",
     "未命名.canvas"
   ]
 }
