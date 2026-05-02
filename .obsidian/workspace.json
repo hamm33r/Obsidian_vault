@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -324,12 +324,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a78120400da85593",
+  "active": "522ff2cad93290f7",
   "lastOpenFiles": [
+    "虚拟存储器.md",
     "Cache缺失时间计算.md",
     "Excalidraw/Cache TLB的访存过程图.md",
     "Excalidraw/三种缺失.md",
-    "虚拟存储器.md",
     "TLB Cache Page缺失.md",
     "Excalidraw/assets/Cache TLB的访存过程图",
     "408/Cache容量的计算.md",
