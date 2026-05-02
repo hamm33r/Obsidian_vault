@@ -95,10 +95,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-02 16.21.34.excalidraw.md"
+                "file": "Excalidraw/三种缺失.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-02 16.21.34.excalidraw"
+              "title": "三种缺失"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -310,15 +310,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ded027498c9272e9",
+  "active": "35778a43fee8b0b8",
   "lastOpenFiles": [
+    "Cache缺失时间计算.md",
+    "Excalidraw/三种缺失.md",
     "TLB Cache Page缺失.md",
-    "Excalidraw/Drawing 2026-05-02 16.21.34.excalidraw.md",
     "Excalidraw/Cache TLB的访存过程图.md",
     "Excalidraw/assets/Cache TLB的访存过程图",
     "408/Cache容量的计算.md",
     "数学/微分方程.md",
-    "Cache缺失时间计算.md",
     "408/Cache和主存的映射方式.md",
     "408/Cache中主存块的替换算法.md",
     "数学/因式分解公式.md",
