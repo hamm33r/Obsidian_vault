@@ -67,14 +67,12 @@
             "id": "522ff2cad93290f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "408/Cache容量的计算.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Cache的访存过程图.md"
               },
-              "icon": "lucide-file",
-              "title": "Cache容量的计算"
+              "icon": "excalidraw-icon",
+              "title": "Cache的访存过程图"
             }
           },
           {
@@ -92,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,13 +284,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62f01c47c39b713f",
+  "active": "522ff2cad93290f7",
   "lastOpenFiles": [
-    "Excalidraw/Cache的访存过程图.md",
     "408/Cache容量的计算.md",
+    "数学/微分方程.md",
+    "Cache缺失时间计算.md",
+    "Excalidraw/Cache的访存过程图.md",
     "408/Cache和主存的映射方式.md",
     "408/Cache中主存块的替换算法.md",
-    "Cache缺失时间计算.md",
     "数学/因式分解公式.md",
     "Excalidraw/assets/Cache的访存过程图/Pasted Image 20260501141309_099.png",
     "Excalidraw/assets/Cache的访存过程图",
@@ -305,7 +304,6 @@
     "assets/Cache缺失时间计算/file-20260501120950002.png",
     "assets/Cache缺失时间计算",
     "assets",
-    "数学/微分方程.md",
     "408/存储器基本的半导体元件及原理.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "408/多体并行存储器.md",
