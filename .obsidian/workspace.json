@@ -69,10 +69,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Cache的访存过程图.md"
+                "file": "Excalidraw/Cache TLB的访存过程图.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Cache的访存过程图"
+              "title": "Cache TLB的访存过程图"
             }
           },
           {
@@ -286,14 +286,15 @@
   },
   "active": "522ff2cad93290f7",
   "lastOpenFiles": [
+    "Excalidraw/assets/Cache TLB的访存过程图",
     "408/Cache容量的计算.md",
     "数学/微分方程.md",
     "Cache缺失时间计算.md",
-    "Excalidraw/Cache的访存过程图.md",
+    "Excalidraw/Cache TLB的访存过程图.md",
     "408/Cache和主存的映射方式.md",
     "408/Cache中主存块的替换算法.md",
     "数学/因式分解公式.md",
-    "Excalidraw/assets/Cache的访存过程图/Pasted Image 20260501141309_099.png",
+    "Excalidraw/assets/Cache TLB的访存过程图/file-20260502162043083.png",
     "Excalidraw/assets/Cache的访存过程图",
     "Excalidraw/assets",
     "assets/Cache缺失时间计算/file-20260501122021921.png",
@@ -321,7 +322,6 @@
     "数学/两个重要结论（x的p积分）.md",
     "数学/基本积分公式.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
-    "Excalidraw/Drawing 2026-04-29 22.25.50.excalidraw.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",

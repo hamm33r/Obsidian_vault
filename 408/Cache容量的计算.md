@@ -5,7 +5,7 @@ tags:
 P115
 需要理解Cache的访存过程
 以[直接映射](Cache和主存的映射方式.md#直接映射)为例
-![[../Excalidraw/Cache的访存过程图]]
+![[../Excalidraw/Cache TLB的访存过程图]]
 结合p116例3.3理解
 P119.14
 p119.15
