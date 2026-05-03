@@ -64,33 +64,7 @@
             }
           },
           {
-            "id": "522ff2cad93290f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Cache TLB的访存过程图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cache TLB的访存过程图"
-            }
-          },
-          {
             "id": "35778a43fee8b0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache缺失时间计算.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cache缺失时间计算"
-            }
-          },
-          {
-            "id": "a78120400da85593",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "基本积分公式"
+            }
+          },
+          {
+            "id": "a78120400da85593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/微分方程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微分方程"
             }
           },
           {
@@ -130,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -326,6 +314,8 @@
   },
   "active": "a78120400da85593",
   "lastOpenFiles": [
+    "数学/基本积分公式.md",
+    "数学/微分方程.md",
     "408/虚拟存储器.md",
     "408/assets/虚拟存储器",
     "408/assets/Cache缺失时间计算",
@@ -333,7 +323,6 @@
     "assets/虚拟存储器",
     "408/Cache缺失时间计算.md",
     "数学/二重积分.md",
-    "数学/微分方程.md",
     "数学/变限积分性质.md",
     "Excalidraw/三种缺失.md",
     "Excalidraw/Cache TLB的访存过程图.md",
