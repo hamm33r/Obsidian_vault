@@ -4,4 +4,4 @@ tags:
 ---
 
 P133
-![[Excalidraw/三种缺失]]
+![[../Excalidraw/三种缺失]]
