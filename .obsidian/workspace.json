@@ -81,14 +81,12 @@
             "id": "a78120400da85593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "数学/微分方程.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Cache TLB的访存过程图.md"
               },
-              "icon": "lucide-file",
-              "title": "微分方程"
+              "icon": "excalidraw-icon",
+              "title": "Cache TLB的访存过程图"
             }
           },
           {
@@ -314,13 +312,15 @@
   },
   "active": "a78120400da85593",
   "lastOpenFiles": [
+    "Excalidraw/主存层次图.md",
+    "Excalidraw/Drawing 2026-05-01 12.16.15.excalidraw.md",
+    "数学/微分方程.md",
     "数学/分部积分法.md",
     "数学/定积分求值积累.md",
     "数学/二重积分.md",
     "数学/动区域上的二重积分.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
     "数学/不等式大合集.md",
-    "数学/微分方程.md",
     "数学/基本积分公式.md",
     "408/虚拟存储器.md",
     "408/assets/虚拟存储器",
@@ -344,7 +344,6 @@
     "408/assets/Cache缺失时间计算/file-20260503142123716.png",
     "408/assets/Cache缺失时间计算/file-20260503142123724.png",
     "408/assets/Cache缺失时间计算/file-20260503142123739.png",
-    "Excalidraw/Drawing 2026-05-01 12.16.15.excalidraw.md",
     "408/assets/Cache缺失时间计算/file-20260503142123733.png",
     "assets/Cache缺失时间计算",
     "assets",
@@ -354,7 +353,6 @@
     "408/地址引脚和数据引脚的确定.md",
     "408/16进制数和被某个数整除之间的规律.md",
     "408/译码器.md",
-    "408/存储系统的分类.md",
     "408/assets/Cache中主存块的替换算法",
     "408/assets/Cache和主存的映射方式",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
