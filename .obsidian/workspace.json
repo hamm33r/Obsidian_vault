@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "4376b5fe671e9751",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-04 21.34.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-04 21.34.11.excalidraw"
+            }
+          },
+          {
             "id": "78a26691285f088c",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -338,12 +350,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "378b420a39f39a6c",
+  "active": "4376b5fe671e9751",
   "lastOpenFiles": [
+    "扩展操作码.md",
+    "Excalidraw/Drawing 2026-05-04 21.34.11.excalidraw.md",
     "assets/扩展操作码/file-20260504212337179.png",
     "assets/扩展操作码",
     "数学/古鲁金第一、二定理.md",
-    "扩展操作码.md",
     "数学/我的数学错题.md",
     "数学/微分方程.md",
     "数学/Gamma函数的知识(x的alpha次方乘以e-x次方积分).md",
@@ -385,7 +398,6 @@
     "assets/Cache缺失时间计算",
     "408/存储器基本的半导体元件及原理.md",
     "408/assets/Cache中主存块的替换算法/file-20260424204723023.png",
-    "408/assets/Cache中主存块的替换算法/file-20260424204723025.png",
     "未命名.canvas"
   ]
 }
