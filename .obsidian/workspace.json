@@ -83,14 +83,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-07 16.23.55.excalidraw.md"
+                "file": "Excalidraw/指令格式.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-07 16.23.55.excalidraw"
+              "title": "指令格式"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-07 16.23.55.excalidraw.md",
+                "file": "数据寻址指令格式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing 2026-05-07 16.23.55.excalidraw 的反向链接列表"
+              "title": "数据寻址指令格式 的反向链接列表"
             }
           },
           {
@@ -284,10 +284,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0dbe4fbb3f8f9bd8",
+  "active": "7c4c657b3e1c3ff8",
   "lastOpenFiles": [
+    "Excalidraw/指令格式.md",
     "数据寻址指令格式.md",
-    "Excalidraw/Drawing 2026-05-07 16.23.55.excalidraw.md",
     "408/扩展操作码.md",
     "408/带标志位加法器（加减运算部件）.md",
     "408/无符号数和有符号数的加减运算.md",
