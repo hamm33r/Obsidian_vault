@@ -50,23 +50,17 @@
             }
           },
           {
-            "id": "2db86d862b20d687",
+            "id": "78f30bd8795a98be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "递推型行列式.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "378b420a39f39a6c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "递推型行列式"
             }
           },
           {
@@ -110,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -294,8 +288,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89ebe8360c7d48c2",
+  "active": "78f30bd8795a98be",
   "lastOpenFiles": [
+    "408/扩展操作码.md",
+    "多个列向量的线性组合.md",
+    "递推型行列式.md",
+    "汇编语言.md",
     "assets/汇编语言/file-20260508224648095.png",
     "assets/汇编语言/file-20260508224045831.png",
     "assets/汇编语言/file-20260508223153238.png",
@@ -306,17 +304,13 @@
     "assets/汇编语言/file-20260508221359939.png",
     "assets/汇编语言/file-20260508221135946.png",
     "assets/汇编语言/file-20260508220540811.png",
-    "assets/汇编语言/file-20260508215532442.png",
     "assets/汇编语言",
-    "多个列向量的线性组合.md",
-    "汇编语言.md",
     "assets/多个列向量的线性组合",
     "assets",
     "高等数学/定积分求面积,体积,弧长,平均值.md",
     "线性代数",
     "数据寻址指令格式.md",
     "Excalidraw/指令格式.md",
-    "408/扩展操作码.md",
     "408/带标志位加法器（加减运算部件）.md",
     "408/无符号数和有符号数的加减运算.md",
     "408/定点数的加减运算溢出判别.md",
