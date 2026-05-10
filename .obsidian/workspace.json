@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "秩1方阵.md",
+                "file": "线性代数/秩1方阵.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "转置，逆，伴随，行列式各种公式.md",
+                "file": "408/汇编语言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "转置，逆，伴随，行列式各种公式"
+              "title": "汇编语言"
             }
           }
         ],
@@ -318,8 +318,9 @@
   },
   "active": "e7aad7914871a5a3",
   "lastOpenFiles": [
-    "转置，逆，伴随，行列式各种公式.md",
-    "秩1方阵.md",
+    "408/CISC和RISC.md",
+    "线性代数/转置，逆，伴随，行列式各种公式.md",
+    "线性代数/秩1方阵.md",
     "408/原码，反码，补码，补数，移码.md",
     "408/带标志位加法器（加减运算部件）.md",
     "408/无符号数和有符号数的加减运算.md",
@@ -331,7 +332,6 @@
     "408/算术逻辑单元（ALU）.md",
     "408/定点数的移位运算.md",
     "408/无符号整数的乘法运算.md",
-    "408/CISC和RISC.md",
     "408/assets/CISC和RISC/file-20260509214148637.png",
     "408/assets/CISC和RISC",
     "408/assets/汇编语言",
