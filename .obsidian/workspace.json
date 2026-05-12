@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/扩展操作码.md",
+                "file": "408/数据的存储和排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "扩展操作码"
+              "title": "数据的存储和排列"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/汇编语言.md",
+                "file": "408/数据的存储和排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汇编语言"
+              "title": "数据的存储和排列"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,10 +152,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "机器字长",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -305,21 +305,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7aad7914871a5a3",
+  "active": "4376b5fe671e9751",
   "lastOpenFiles": [
-    "408/算术逻辑单元（ALU）.md",
+    "408/存储器基本的半导体元件及原理.md",
+    "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
+    "408/多体并行存储器.md",
+    "408/地址引脚和数据引脚的确定.md",
+    "408/译码器.md",
+    "408/存储系统的分类.md",
+    "408/16进制数和被某个数整除之间的规律.md",
+    "408/数据的存储和排列.md",
+    "Excalidraw/例13.21图.md",
+    "Excalidraw/Cache TLB的访存过程图.md",
+    "408/虚拟存储器.md",
+    "Excalidraw/最远最近点的垂线原理图.md",
     "CPU、运算器、控制器的基本结构.md",
+    "408/汇编语言.md",
+    "408/扩展操作码.md",
+    "408/算术逻辑单元（ALU）.md",
     "assets/CPU、运算器、控制器的基本结构/file-20260512162949932.png",
     "Excalidraw/assets/Cache TLB的访存过程图/file-20260502162043083.png",
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/主存层次图.md",
-    "Excalidraw/最远最近点的垂线原理图.md",
     "Excalidraw/指令格式.md",
-    "408/汇编语言.md",
     "408/TLB Cache Page缺失.md",
-    "408/扩展操作码.md",
-    "Excalidraw/Cache TLB的访存过程图.md",
-    "Excalidraw/例13.21图.md",
     "Excalidraw/复合结构不变性图.md",
     "Excalidraw/扩展操作码图.md",
     "Excalidraw/三种缺失.md",
@@ -334,15 +343,6 @@
     "assets/运算器、控制器的基本结构",
     "assets",
     "线性代数/多个列向量的线性组合.md",
-    "408/无符号整数的乘法运算.md",
-    "408/带符号整数的乘法运算.md",
-    "408/CISC和RISC.md",
-    "线性代数/转置，逆，伴随，行列式各种公式.md",
-    "线性代数/秩1方阵.md",
-    "408/原码，反码，补码，补数，移码.md",
-    "408/带标志位加法器（加减运算部件）.md",
-    "408/无符号数和有符号数的加减运算.md",
-    "408/408错题.md",
     "408/assets/CISC和RISC/file-20260509214148637.png",
     "408/assets/CISC和RISC",
     "408/assets/汇编语言",
