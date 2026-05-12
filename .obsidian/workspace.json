@@ -132,35 +132,21 @@
             }
           },
           {
-            "id": "ed8a97866301956b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "化简行阶梯形矩阵何时可以使用列变换"
-            }
-          },
-          {
             "id": "b250ad555f4a3526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运算器、控制器的基本结构.md",
+                "file": "Excalidraw/多元函数微分复合结构图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "运算器、控制器的基本结构"
+              "title": "多元函数微分复合结构图"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -346,13 +332,26 @@
   },
   "active": "b250ad555f4a3526",
   "lastOpenFiles": [
-    "assets/运算器、控制器的基本结构/file-20260512161741142.png",
-    "assets/运算器、控制器的基本结构/file-20260512161437798.png",
-    "assets/运算器、控制器的基本结构/file-20260512160939484.png",
+    "Excalidraw/扩展操作码图.md",
+    "Excalidraw/指令格式.md",
+    "Excalidraw/Drawing 2026-05-12 16.23.56.excalidraw.md",
+    "Excalidraw/多元函数微分复合结构图.md",
+    "Excalidraw/复合结构不变性图.md",
+    "Excalidraw/最远最近点的垂线原理图.md",
+    "Excalidraw/例13.21图.md",
+    "Excalidraw/主存层次图.md",
+    "Excalidraw/Cache TLB的访存过程图.md",
+    "Excalidraw/三种缺失.md",
+    "CPU、运算器、控制器的基本结构.md",
+    "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
+    "assets/CPU、运算器、控制器的基本结构/file-20260512162031211.png",
+    "assets/CPU、运算器、控制器的基本结构",
+    "assets/CPU运算器、控制器的基本结构",
+    "assets/CPU、运算器、控制器的基本结构/file-20260512162023489.png",
+    "assets/CPU、运算器、控制器的基本结构/file-20260512162023488.png",
+    "assets/CPU、运算器、控制器的基本结构/file-20260512162023486.png",
     "assets/运算器、控制器的基本结构",
     "assets",
-    "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
-    "运算器、控制器的基本结构.md",
     "408/汇编语言.md",
     "线性代数/多个列向量的线性组合.md",
     "408/无符号整数的乘法运算.md",
@@ -367,7 +366,6 @@
     "408/定点数的加减运算溢出判别.md",
     "408/无符号整数的除法运算.md",
     "408/算术逻辑单元（ALU）.md",
-    "408/定点数的移位运算.md",
     "408/assets/CISC和RISC/file-20260509214148637.png",
     "408/assets/CISC和RISC",
     "408/assets/汇编语言",
@@ -380,18 +378,6 @@
     "408/assets/汇编语言/file-20260509213632812.png",
     "408/assets/汇编语言/file-20260509213632814.png",
     "408/assets/汇编语言/file-20260509213632816.png",
-    "408/assets/汇编语言/file-20260509213632819.png",
-    "408/assets/汇编语言/file-20260509213632824.png",
-    "线性代数/递推型行列式.md",
-    "408/扩展操作码.md",
-    "assets/汇编语言",
-    "assets/多个列向量的线性组合",
-    "高等数学/定积分求面积,体积,弧长,平均值.md",
-    "408/数据寻址指令格式.md",
-    "Excalidraw/指令格式.md",
-    "408/带符号整数（补码）除法.md",
-    "408/数据的存储和排列.md",
-    "高等数学/微分方程.md",
     "未命名.canvas"
   ]
 }
