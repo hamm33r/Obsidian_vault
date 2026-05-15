@@ -120,6 +120,34 @@
             }
           },
           {
+            "id": "914fbd4702c04ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求伴随矩阵的方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求伴随矩阵的方法"
+            }
+          },
+          {
+            "id": "c843b852684a61b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "矩阵的秩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的秩"
+            }
+          },
+          {
             "id": "e7aad7914871a5a3",
             "type": "leaf",
             "state": {
@@ -148,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -332,13 +360,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31cb7f07e1f6098a",
+  "active": "c843b852684a61b5",
   "lastOpenFiles": [
-    "线性代数/转置，逆，伴随，行列式各种公式.md",
+    "求伴随矩阵的方法.md",
+    "矩阵的秩.md",
     "初等矩阵的性质与重要公式.md",
+    "简单分块矩阵的逆.md",
+    "线性代数/转置，逆，伴随，行列式各种公式.md",
     "线性代数/秩1方阵.md",
     "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
-    "简单分块矩阵的逆.md",
     "408/数据的存储和排列.md",
     "408/存储器基本的半导体元件及原理.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
@@ -360,8 +390,6 @@
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/主存层次图.md",
     "Excalidraw/指令格式.md",
-    "408/TLB Cache Page缺失.md",
-    "Excalidraw/复合结构不变性图.md",
     "assets/CPU、运算器、控制器的基本结构/file-20260512162031211.png",
     "assets/CPU、运算器、控制器的基本结构",
     "assets/CPU运算器、控制器的基本结构",
