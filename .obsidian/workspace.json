@@ -162,6 +162,20 @@
             }
           },
           {
+            "id": "89d8f5eaf682d372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定义法求逆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定义法求逆"
+            }
+          },
+          {
             "id": "e7aad7914871a5a3",
             "type": "leaf",
             "state": {
@@ -190,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -374,16 +388,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3ca61991102fa79",
+  "active": "89d8f5eaf682d372",
   "lastOpenFiles": [
-    "线性代数/秩1方阵.md",
+    "assets/定义法求逆/file-20260515172856049.png",
+    "assets/定义法求逆",
     "求A的n次方.md",
-    "矩阵的秩.md",
-    "求伴随矩阵的方法.md",
+    "定义法求逆.md",
     "初等矩阵的性质与重要公式.md",
+    "CPU、运算器、控制器的基本结构.md",
     "简单分块矩阵的逆.md",
+    "求伴随矩阵的方法.md",
+    "矩阵的秩.md",
     "线性代数/转置，逆，伴随，行列式各种公式.md",
     "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
+    "线性代数/秩1方阵.md",
     "408/数据的存储和排列.md",
     "408/存储器基本的半导体元件及原理.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
@@ -396,14 +414,11 @@
     "Excalidraw/Cache TLB的访存过程图.md",
     "408/虚拟存储器.md",
     "Excalidraw/最远最近点的垂线原理图.md",
-    "CPU、运算器、控制器的基本结构.md",
     "408/汇编语言.md",
     "408/扩展操作码.md",
     "408/算术逻辑单元（ALU）.md",
     "assets/CPU、运算器、控制器的基本结构/file-20260512162949932.png",
     "Excalidraw/assets/Cache TLB的访存过程图/file-20260502162043083.png",
-    "Excalidraw/多元函数微分复合结构图.md",
-    "Excalidraw/主存层次图.md",
     "assets/CPU、运算器、控制器的基本结构/file-20260512162031211.png",
     "assets/CPU、运算器、控制器的基本结构",
     "assets/CPU运算器、控制器的基本结构",
@@ -419,7 +434,6 @@
     "线性代数/assets",
     "高等数学/assets/多个列向量的线性组合",
     "408/assets/CISC和RISC/file-20260509213634358.png",
-    "assets/CISC和RISC",
     "408/assets/汇编语言/file-20260509213632799.png",
     "408/assets/汇编语言/file-20260509213632812.png",
     "未命名.canvas"
