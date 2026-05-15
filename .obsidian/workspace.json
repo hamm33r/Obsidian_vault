@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "矩阵的秩.md",
+                "file": "线性代数/秩1方阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵的秩"
+              "title": "秩1方阵"
             }
           },
           {
@@ -362,8 +362,8 @@
   },
   "active": "c843b852684a61b5",
   "lastOpenFiles": [
-    "求伴随矩阵的方法.md",
     "矩阵的秩.md",
+    "求伴随矩阵的方法.md",
     "初等矩阵的性质与重要公式.md",
     "简单分块矩阵的逆.md",
     "线性代数/转置，逆，伴随，行列式各种公式.md",
