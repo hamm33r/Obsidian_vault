@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "指令周期"
             }
+          },
+          {
+            "id": "e1db070f5014e2df",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,11 +230,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fa195b69f43e0b8",
+  "active": "e1db070f5014e2df",
   "lastOpenFiles": [
-    "assets/数据通路/file-20260516230712517.png",
-    "指令周期.md",
     "数据通路.md",
+    "指令周期.md",
+    "assets/数据通路/file-20260516230712517.png",
     "处理器指令执行模型.md",
     "assets/数据通路/file-20260516225310708.png",
     "assets/数据通路/file-20260516223935981.png",
@@ -258,7 +269,6 @@
     "assets/指令周期/file-20260516200842691.png",
     "线性代数/矩阵的秩.md",
     "线性代数/求伴随矩阵的方法.md",
-    "assets/指令周期/file-20260515224053777.png",
     "assets/指令周期",
     "assets",
     "线性代数/assets/定义法求逆",
