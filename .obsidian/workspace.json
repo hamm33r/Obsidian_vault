@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/汇编语言.md",
+                "file": "指令周期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汇编语言"
+              "title": "指令周期"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/汇编语言.md",
+                "file": "处理器指令执行模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汇编语言"
+              "title": "处理器指令执行模型"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "冯",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,17 +220,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fa195b69f43e0b8",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
+    "处理器指令执行模型.md",
+    "408/汇编语言.md",
+    "指令周期.md",
     "408/数据寻址指令格式.md",
     "408/扩展操作码.md",
     "408/计算机实现乘法运算的三种常见方式.md",
     "408/无符号整数的除法运算.md",
-    "处理器指令执行模型.md",
-    "408/汇编语言.md",
     "Excalidraw/扩展操作码图.md",
     "Excalidraw/指令格式图.md",
-    "指令周期.md",
     "assets/处理器指令执行模型/file-20260516203657806.png",
     "assets/处理器指令执行模型",
     "assets/指令周期/file-20260516203113259.png",
