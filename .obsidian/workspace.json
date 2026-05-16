@@ -8,132 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e08fb8ee727a187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高等数学/定积分求面积,体积,弧长,平均值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "定积分求面积,体积,弧长,平均值"
-            }
-          },
-          {
-            "id": "5bbb87a6bc2becd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/多个列向量的线性组合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多个列向量的线性组合"
-            }
-          },
-          {
-            "id": "89ebe8360c7d48c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/原码，反码，补码，补数，移码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "原码，反码，补码，补数，移码"
-            }
-          },
-          {
-            "id": "6b399fdf3706b7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/秩1方阵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "秩1方阵"
-            }
-          },
-          {
-            "id": "78f30bd8795a98be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/无符号数和有符号数的加减运算.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无符号数和有符号数的加减运算"
-            }
-          },
-          {
-            "id": "4376b5fe671e9751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/转置，逆，伴随，行列式各种公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "转置，逆，伴随，行列式各种公式"
-            }
-          },
-          {
-            "id": "84bdac08af838b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/转置，逆，伴随，行列式各种公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "转置，逆，伴随，行列式各种公式"
-            }
-          },
-          {
-            "id": "31cb7f07e1f6098a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/初等矩阵的性质与重要公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "初等矩阵的性质与重要公式"
-            }
-          },
-          {
-            "id": "914fbd4702c04ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/求伴随矩阵的方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "求伴随矩阵的方法"
-            }
-          },
-          {
             "id": "c843b852684a61b5",
             "type": "leaf",
             "state": {
@@ -146,93 +20,8 @@
               "icon": "lucide-file",
               "title": "秩1方阵"
             }
-          },
-          {
-            "id": "d3ca61991102fa79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/求A的n次方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "求A的n次方"
-            }
-          },
-          {
-            "id": "89d8f5eaf682d372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "化简行阶梯形矩阵何时可以使用列变换"
-            }
-          },
-          {
-            "id": "89abca5b5f7d821f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/多个列向量的线性组合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多个列向量的线性组合"
-            }
-          },
-          {
-            "id": "e7aad7914871a5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/CPU、运算器、控制器的基本结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU、运算器、控制器的基本结构"
-            }
-          },
-          {
-            "id": "d962b8a8832e3c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "指令周期.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "指令周期"
-            }
-          },
-          {
-            "id": "b250ad555f4a3526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/TLB Cache Page缺失.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TLB Cache Page缺失"
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -416,8 +205,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d962b8a8832e3c2f",
+  "active": "c843b852684a61b5",
   "lastOpenFiles": [
+    "408/TLB Cache Page缺失.md",
+    "线性代数/秩1方阵.md",
+    "408/CPU、运算器、控制器的基本结构.md",
+    "线性代数/多个列向量的线性组合.md",
+    "线性代数/求A的n次方.md",
+    "指令周期.md",
     "assets/指令周期/file-20260515224053777.png",
     "assets/指令周期/file-20260515223346427.png",
     "assets/指令周期/file-20260515222959822.png",
@@ -425,22 +220,17 @@
     "assets/指令周期/file-20260515222041513.png",
     "assets/指令周期",
     "assets",
-    "408/CPU、运算器、控制器的基本结构.md",
-    "指令周期.md",
     "线性代数/assets/定义法求逆",
     "408/assets/CPU、运算器、控制器的基本结构",
     "线性代数/简单分块矩阵的逆.md",
     "线性代数/转置，逆，伴随，行列式各种公式.md",
-    "线性代数/秩1方阵.md",
     "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
     "线性代数/初等矩阵的性质与重要公式.md",
     "线性代数/求伴随矩阵的方法.md",
     "线性代数/矩阵的秩.md",
-    "线性代数/求A的n次方.md",
     "线性代数/定义法求逆.md",
     "线性代数/gram矩阵.md",
     "线性代数/递推型行列式.md",
-    "线性代数/多个列向量的线性组合.md",
     "未命名 1.md",
     "线性代数/assets/定义法求逆/file-20260515222005183.png",
     "assets/定义法求逆",
@@ -460,7 +250,6 @@
     "assets/CPU、运算器、控制器的基本结构",
     "assets/CPU运算器、控制器的基本结构",
     "408/assets/CPU、运算器、控制器的基本结构/file-20260515221957529.png",
-    "408/assets/CPU、运算器、控制器的基本结构/file-20260515221957538.png",
     "assets/运算器、控制器的基本结构",
     "408/assets/CISC和RISC",
     "408/assets/汇编语言",
