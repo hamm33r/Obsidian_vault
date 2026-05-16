@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/矩阵的秩.md",
+                "file": "指令周期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵的秩"
+              "title": "指令周期"
             }
           }
         ]
@@ -207,6 +207,8 @@
   },
   "active": "c843b852684a61b5",
   "lastOpenFiles": [
+    "assets/指令周期/file-20260516200842691.png",
+    "线性代数/矩阵的秩.md",
     "线性代数/求伴随矩阵的方法.md",
     "线性代数/初等矩阵的性质与重要公式.md",
     "线性代数/简单分块矩阵的逆.md",
@@ -217,7 +219,6 @@
     "线性代数/转置，逆，伴随，行列式各种公式.md",
     "线性代数/gram矩阵.md",
     "线性代数/求A的n次方.md",
-    "线性代数/矩阵的秩.md",
     "线性代数/定义法求逆.md",
     "408/TLB Cache Page缺失.md",
     "408/CPU、运算器、控制器的基本结构.md",
@@ -243,7 +244,6 @@
     "408/存储系统的分类.md",
     "408/16进制数和被某个数整除之间的规律.md",
     "Excalidraw/例13.21图.md",
-    "Excalidraw/Cache TLB的访存过程图.md",
     "408/assets/CPU、运算器、控制器的基本结构/file-20260515221957536.png",
     "Excalidraw/assets/Cache TLB的访存过程图/file-20260502162043083.png",
     "408/assets/CPU、运算器、控制器的基本结构/file-20260515221957536 1.png",
