@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据通路-单总线结构.md",
+                "file": "指令周期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据通路-单总线结构"
+              "title": "指令周期"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "时钟周期",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,12 +222,12 @@
   },
   "active": "4fa195b69f43e0b8",
   "lastOpenFiles": [
+    "数据通路-专用通路结构.md",
+    "数据通路-单总线结构.md",
     "处理器指令执行模型.md",
     "指令周期.md",
-    "数据通路-专用通路结构.md",
     "Excalidraw/多元函数微分复合结构图.md",
     "Excalidraw/Drawing 2026-05-18 17.16.41.excalidraw.md",
-    "数据通路-单总线结构.md",
     "408/CPU、运算器、控制器的基本结构.md",
     "assets/数据通路-专用通路结构/file-20260518152944386.png",
     "assets/数据通路-专用通路结构",
