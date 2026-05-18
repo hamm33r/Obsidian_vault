@@ -59,8 +59,7 @@
               "title": "Style Settings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,13 +243,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1d53eac0ce93c72",
+  "active": "4fa195b69f43e0b8",
   "lastOpenFiles": [
+    "数据通路-专用通路结构.md",
     "assets/数据通路-专用通路结构/file-20260518152944386.png",
     "assets/数据通路-专用通路结构",
     "assets/数据通路-单总线结构",
     "数据通路-单总线结构.md",
-    "数据通路-专用通路结构.md",
     "指令周期.md",
     "assets/数据通路-单总线结构/file-20260518152921117.png",
     "处理器指令执行模型.md",
@@ -284,7 +283,6 @@
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "线性代数/简单分块矩阵的逆.md",
     "线性代数/初等矩阵的性质与重要公式.md",
-    "assets/指令周期/file-20260516200842691.png",
     "线性代数/矩阵的秩.md",
     "assets/指令周期",
     "assets",
