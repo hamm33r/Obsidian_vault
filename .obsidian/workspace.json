@@ -45,8 +45,7 @@
               "title": "Style Settings"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,10 +229,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e1db070f5014e2df",
+  "active": "4fa195b69f43e0b8",
   "lastOpenFiles": [
-    "数据通路.md",
     "指令周期.md",
+    "数据通路.md",
     "assets/数据通路/file-20260516230712517.png",
     "处理器指令执行模型.md",
     "assets/数据通路/file-20260516225310708.png",
