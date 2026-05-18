@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "指令周期.md",
+                "file": "处理器指令执行模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指令周期"
+              "title": "处理器指令执行模型"
             }
           },
           {
@@ -59,7 +59,8 @@
               "title": "Style Settings"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,16 +244,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fa195b69f43e0b8",
+  "active": "4a50bccb28e473b9",
   "lastOpenFiles": [
+    "数据通路-单总线结构.md",
     "数据通路-专用通路结构.md",
+    "指令周期.md",
+    "处理器指令执行模型.md",
+    "408/CPU、运算器、控制器的基本结构.md",
     "assets/数据通路-专用通路结构/file-20260518152944386.png",
     "assets/数据通路-专用通路结构",
     "assets/数据通路-单总线结构",
-    "数据通路-单总线结构.md",
-    "指令周期.md",
     "assets/数据通路-单总线结构/file-20260518152921117.png",
-    "处理器指令执行模型.md",
     "assets/数据通路-单总线结构/file-20260518152921125.png",
     "assets/数据通路-单总线结构/file-20260518152921133.png",
     "assets/数据通路-单总线结构/file-20260518152921142.png",
