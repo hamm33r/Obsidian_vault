@@ -35,8 +35,7 @@
               "title": "处理器指令执行模型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,12 +219,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1d53eac0ce93c72",
+  "active": "4fa195b69f43e0b8",
   "lastOpenFiles": [
+    "处理器指令执行模型.md",
     "指令周期.md",
     "数据通路-专用通路结构.md",
     "Excalidraw/多元函数微分复合结构图.md",
-    "处理器指令执行模型.md",
     "Excalidraw/Drawing 2026-05-18 17.16.41.excalidraw.md",
     "数据通路-单总线结构.md",
     "408/CPU、运算器、控制器的基本结构.md",
