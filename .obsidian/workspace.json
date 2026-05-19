@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "线性相关与线性无关"
             }
+          },
+          {
+            "id": "fb98e37026908233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "判别等价向量组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "判别等价向量组"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,15 +248,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a5f77a660663d687",
+  "active": "fb98e37026908233",
   "lastOpenFiles": [
+    "线性相关与线性无关.md",
+    "判别等价向量组.md",
     "线性代数/矩阵的秩.md",
     "线性代数/求A的n次方.md",
     "线性代数/gram矩阵.md",
     "线性代数/定义法求逆.md",
     "线性代数/转置，逆，伴随，行列式各种公式.md",
     "线性代数/初等矩阵的性质与重要公式.md",
-    "线性相关与线性无关.md",
     "处理器指令执行模型.md",
     "指令周期.md",
     "数据通路-专用通路结构.md",
@@ -275,7 +290,6 @@
     "408/Cache缺失时间计算.md",
     "408/Cache容量的计算.md",
     "408/Cache中主存块的替换算法.md",
-    "408/Cache和主存的映射方式.md",
     "assets/指令周期",
     "assets",
     "线性代数/assets/定义法求逆",
