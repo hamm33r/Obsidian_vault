@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,10 +262,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fb98e37026908233",
+  "active": "379aeaadaccc8d13",
   "lastOpenFiles": [
-    "硬布线控制器.md",
+    "assets/硬布线控制器/file-20260519210445643.png",
+    "assets/硬布线控制器/file-20260519210227198.png",
     "指令周期.md",
+    "硬布线控制器.md",
     "assets/硬布线控制器/file-20260519204257529.png",
     "assets/硬布线控制器",
     "处理器指令执行模型.md",
@@ -300,7 +302,6 @@
     "408/无符号整数的除法运算.md",
     "Excalidraw/扩展操作码图.md",
     "Excalidraw/指令格式图.md",
-    "assets/处理器指令执行模型/file-20260516203657806.png",
     "assets/处理器指令执行模型",
     "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
     "408/Cache缺失时间计算.md",
