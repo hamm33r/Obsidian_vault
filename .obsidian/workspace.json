@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,10 +262,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "379aeaadaccc8d13",
+  "active": "fb98e37026908233",
   "lastOpenFiles": [
-    "指令周期.md",
     "硬布线控制器.md",
+    "指令周期.md",
     "assets/硬布线控制器/file-20260519204257529.png",
     "assets/硬布线控制器",
     "处理器指令执行模型.md",
