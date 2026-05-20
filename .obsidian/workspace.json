@@ -141,7 +141,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,7 +263,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "379aeaadaccc8d13",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "assets/硬布线控制器/file-20260519213745316.png",
     "assets/硬布线控制器/file-20260519213459943.png",
