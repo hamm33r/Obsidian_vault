@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/微程序控制器.md",
+                "file": "微指令的设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微程序控制器"
+              "title": "微指令的设计"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/微程序控制器.md",
+                "file": "408/硬布线控制器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微程序控制器"
+              "title": "硬布线控制器"
             }
           },
           {
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -318,11 +318,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e99a90a01119ca62",
+  "active": "6cf8376ee92de89f",
   "lastOpenFiles": [
+    "408/硬布线控制器.md",
+    "微指令的设计.md",
     "微程序控制单元的设计.md",
     "408/微程序控制器.md",
-    "微指令的设计.md",
     "assets/微程序控制单元的设计/file-20260520205758249.png",
     "assets/微程序控制单元的设计/file-20260520205331431.png",
     "assets/微程序控制单元的设计/file-20260520205045127.png",
@@ -339,7 +340,6 @@
     "408/指令周期.md",
     "408/处理器指令执行模型.md",
     "408/数据通路-单总线结构.md",
-    "408/硬布线控制器.md",
     "线性代数/矩阵可逆，秩，线性相关，行列式，方程组有解之间的关系.md",
     "408/assets/硬布线控制器",
     "408/assets/微程序控制器",
