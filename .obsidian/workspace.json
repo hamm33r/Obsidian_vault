@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "向量的正交.md",
+                "file": "向量的内积与正交.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量的正交"
+              "title": "向量的内积与正交"
             }
           },
           {
@@ -307,7 +307,7 @@
   "active": "28890bcbe505d2fa",
   "lastOpenFiles": [
     "矩阵可逆，秩，线性相关，行列式，方程组有解之间的关系.md",
-    "向量的正交.md",
+    "向量的内积与正交.md",
     "线性代数/线性相关与线性无关.md",
     "线性代数/判别等价向量组.md",
     "线性代数/矩阵的秩.md",
