@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "微程序控制器"
             }
+          },
+          {
+            "id": "e99a90a01119ca62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微指令的设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微指令的设计"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -290,12 +304,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00e929fdaa9156c6",
+  "active": "e99a90a01119ca62",
   "lastOpenFiles": [
+    "assets/微指令的设计/file-20260520201407856.png",
+    "assets/微指令的设计/file-20260520201330987.png",
+    "assets/微指令的设计",
+    "assets",
+    "408/微程序控制器.md",
+    "微指令的设计.md",
     "408/assets/微程序控制器/file-20260520195616564.png",
     "408/assets/微程序控制器/file-20260520194727244.png",
     "408/指令周期.md",
-    "408/微程序控制器.md",
     "408/assets/微程序控制器/file-20260520194251842.png",
     "408/处理器指令执行模型.md",
     "408/数据通路-单总线结构.md",
@@ -331,13 +350,8 @@
     "408/assets/硬布线控制器/file-20260520193636785.png",
     "408/assets/硬布线控制器/file-20260520193636809.png",
     "408/assets/硬布线控制器/file-20260520193636823.png",
-    "408/assets/硬布线控制器/file-20260520193636788.png",
-    "408/assets/硬布线控制器/file-20260520193636811.png",
     "assets/硬布线控制器",
     "408/数据通路-专用通路结构.md",
-    "Excalidraw/多元函数微分复合结构图.md",
-    "assets/数据通路-专用通路结构",
-    "assets/数据通路-单总线结构",
     "未命名.canvas"
   ]
 }
