@@ -53,14 +53,10 @@
             "id": "fb98e37026908233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "指令周期.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "指令周期"
+              "title": "新标签页"
             }
           },
           {
@@ -106,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,9 +286,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2b6bb9842a05e40",
+  "active": "379aeaadaccc8d13",
   "lastOpenFiles": [
     "线性代数/线性相关与线性无关.md",
+    "线性代数/多个列向量的线性组合.md",
     "线性代数/矩阵的逆的性质.md",
     "线性代数/矩阵可逆，秩，线性相关，行列式，方程组有解之间的关系.md",
     "408/指令周期.md",
