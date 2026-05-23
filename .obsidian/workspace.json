@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "063ba87021607e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/虚拟存储器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "虚拟存储器"
-            }
-          },
-          {
             "id": "41f1f5bf0b2a8a99",
             "type": "leaf",
             "state": {
@@ -69,16 +55,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/微程序控制器.md",
+                "file": "408/硬布线控制器.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "微程序控制器"
+              "title": "硬布线控制器"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据寻址指令格式.md",
+                "file": "408/硬布线控制器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "数据寻址指令格式 的反向链接列表"
+              "title": "硬布线控制器 的反向链接列表"
             }
           },
           {
@@ -180,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache缺失时间计算.md",
+                "file": "408/硬布线控制器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Cache缺失时间计算 的出链列表"
+              "title": "硬布线控制器 的出链列表"
             }
           },
           {
@@ -242,12 +229,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,17 +249,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "097a97344fe54069",
+  "active": "41f1f5bf0b2a8a99",
   "lastOpenFiles": [
+    "408/虚拟存储器.md",
+    "408/硬布线控制器.md",
+    "408/微程序控制器.md",
     "Excalidraw/Drawing 2026-05-18 17.16.41.excalidraw.md",
     "Excalidraw/指令到微操作图.md",
     "408/数据通路-单总线结构.md",
-    "408/微程序控制器.md",
     "408/微程序控制单元的设计.md",
     "408/TLB Cache Page缺失.md",
     "指令寻址寻址方式.md",
-    "408/硬布线控制器.md",
-    "408/虚拟存储器.md",
     "408/Cache容量的计算.md",
     "408/Cache缺失时间计算.md",
     "408/指令格式分类.md",
