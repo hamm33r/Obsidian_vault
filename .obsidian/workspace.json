@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,14 +260,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "063ba87021607e46",
+  "active": "ea891421f36596a8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-23 21.22.35.excalidraw.md",
     "408/微程序控制单元的设计.md",
+    "408/指令周期.md",
     "408/微指令的设计.md",
+    "Excalidraw/Drawing 2026-05-23 21.22.35.excalidraw.md",
     "408/微程序控制器.md",
     "408/硬布线控制器.md",
-    "408/指令周期.md",
     "线性代数/矩阵的秩.md",
     "线性代数/矩阵的逆的性质.md",
     "线性代数/多个列向量的线性组合.md",
