@@ -148,6 +148,20 @@
             }
           },
           {
+            "id": "be61d1b8e0f1cf0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础解系与线性无关解向量的个数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础解系与线性无关解向量的个数"
+            }
+          },
+          {
             "id": "097a97344fe54069",
             "type": "leaf",
             "state": {
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -347,8 +361,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "262bc420e8f5c78b",
+  "active": "be61d1b8e0f1cf0e",
   "lastOpenFiles": [
+    "线性代数/四秩相同.md",
+    "基础解系与线性无关解向量的个数.md",
     "408/五段式指令流水线.md",
     "408/assets/五段式指令流水线",
     "408/assets/五段式指令流水线/file-20260529144519157.png",
@@ -367,7 +383,6 @@
     "线性代数/矩阵的逆的性质.md",
     "线性代数/矩阵可逆，秩，线性相关，行列式，方程组有解之间的关系.md",
     "线性代数/线性相关与线性无关.md",
-    "线性代数/四秩相同.md",
     "408/流水线的多发技术.md",
     "408/assets/流水线的多发技术",
     "408/assets/流水线的分类",
