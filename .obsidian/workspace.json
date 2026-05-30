@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "特征值的性质"
             }
+          },
+          {
+            "id": "8045b9871c450ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主子式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主子式"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +234,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e518297ddbc5339",
+  "active": "8045b9871c450ab5",
   "lastOpenFiles": [
-    "线性代数/秩1方阵.md",
     "特征值的性质.md",
+    "主子式.md",
+    "线性代数/秩1方阵.md",
     "408/五段式指令流水线.md",
     "408/流水线的分类.md",
     "408/流水线的多发技术.md",
@@ -257,7 +272,6 @@
     "assets/五段式指令流水线",
     "assets",
     "线性代数/转置，逆，伴随，行列式各种公式.md",
-    "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
     "408/assets/流水线的多发技术",
     "408/assets/流水线的分类",
     "408/assets/指令流水线影响因素",
