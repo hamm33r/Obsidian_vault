@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/五段式指令流水线.md",
+                "file": "线性代数/秩1方阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "五段式指令流水线"
+              "title": "秩1方阵"
             }
           }
         ]
@@ -206,14 +206,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "bab522eee20836ad",
   "lastOpenFiles": [
+    "408/五段式指令流水线.md",
     "408/流水线的分类.md",
     "408/流水线的多发技术.md",
     "408/处理器指令执行模型.md",
     "408/指令流水线影响因素.md",
     "408/数据通路-专用通路结构.md",
-    "408/五段式指令流水线.md",
     "408/指令流水线基本概念.md",
     "408/存储器基本的半导体元件及原理.md",
     "408/异常和中断机制.md",
