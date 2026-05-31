@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "流水线的多发技术"
             }
+          },
+          {
+            "id": "387f85519beeb547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多处理器的基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多处理器的基本概念"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,8 +248,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8045b9871c450ab5",
+  "active": "387f85519beeb547",
   "lastOpenFiles": [
+    "assets/多处理器的基本概念/file-20260531215640195.png",
+    "assets/多处理器的基本概念/file-20260531215612453.png",
+    "assets/多处理器的基本概念",
+    "assets",
+    "408/流水线的多发技术.md",
+    "多处理器的基本概念.md",
     "408/assets/流水线的多发技术/file-20260531201824070.png",
     "408/五段式指令流水线.md",
     "主子式.md",
@@ -248,7 +268,6 @@
     "线性代数/线性相关与线性无关.md",
     "线性代数/秩1方阵.md",
     "408/流水线的分类.md",
-    "408/流水线的多发技术.md",
     "408/处理器指令执行模型.md",
     "408/指令流水线影响因素.md",
     "408/数据通路-专用通路结构.md",
@@ -261,7 +280,6 @@
     "408/指令寻址寻址方式.md",
     "408/硬布线控制器.md",
     "线性代数/四秩相同.md",
-    "线性代数/矩阵的秩.md",
     "408/assets/五段式指令流水线",
     "408/assets/五段式指令流水线/file-20260529144519157.png",
     "408/assets/五段式指令流水线/file-20260529144519160.png",
@@ -271,17 +289,13 @@
     "408/assets/五段式指令流水线/file-20260529144519166.png",
     "408/assets/五段式指令流水线/file-20260529144519167.png",
     "assets/五段式指令流水线",
-    "assets",
     "408/assets/流水线的多发技术",
     "408/assets/流水线的分类",
     "408/assets/指令流水线影响因素",
     "408/assets/指令流水线基本概念",
     "408/assets/流水线的多发技术/file-20260528213920697.png",
-    "408/assets/流水线的多发技术/file-20260528213920698.png",
-    "408/assets/流水线的多发技术/file-20260528213920699.png",
     "assets/流水线的多发技术",
     "assets/流水线的分类",
-    "assets/指令流水线影响因素",
     "未命名.canvas"
   ]
 }
