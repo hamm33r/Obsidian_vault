@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "相似矩阵的性质"
             }
+          },
+          {
+            "id": "989f31dbe335c67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总线的分类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "总线的分类"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -276,10 +290,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "88c5a58234280673",
+  "active": "989f31dbe335c67b",
   "lastOpenFiles": [
-    "线性代数/转置，逆，伴随，行列式各种公式.md",
+    "assets/总线的分类/file-20260601213455831.png",
+    "assets/总线的分类/file-20260601213356336.png",
+    "assets/总线的分类",
     "相似矩阵的性质.md",
+    "总线的分类.md",
+    "线性代数/转置，逆，伴随，行列式各种公式.md",
     "线性代数/特征值的性质.md",
     "线性代数/A的每行元素之和为3.md",
     "常用矩阵的特征值与特征向量.md",
@@ -310,20 +328,16 @@
     "408/异常和中断机制.md",
     "408/指令周期.md",
     "408/微程序控制单元的设计.md",
-    "线性代数/向量的内积与正交.md",
-    "408/指令寻址寻址方式.md",
     "408/assets/五段式指令流水线",
     "408/assets/五段式指令流水线/file-20260529144519157.png",
     "408/assets/五段式指令流水线/file-20260529144519160.png",
     "408/assets/五段式指令流水线/file-20260529144519162.png",
-    "408/assets/五段式指令流水线/file-20260529144519163.png",
     "assets/五段式指令流水线",
     "408/assets/流水线的多发技术",
     "408/assets/流水线的分类",
     "408/assets/指令流水线影响因素",
     "408/assets/指令流水线基本概念",
     "assets/流水线的多发技术",
-    "assets/流水线的分类",
     "未命名.canvas"
   ]
 }
