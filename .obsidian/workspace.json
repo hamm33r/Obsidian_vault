@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/总线的性能指标.md",
+                "file": "408/总线的分类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总线的性能指标"
+              "title": "总线的分类"
             }
           },
           {
@@ -306,9 +306,9 @@
   },
   "active": "88c5a58234280673",
   "lastOpenFiles": [
+    "408/总线的性能指标.md",
     "408/总线的分类.md",
     "408/assets/总线的分类/file-20260603204338639.png",
-    "408/总线的性能指标.md",
     "线性代数/求A的n次方.md",
     "线性代数/秩1方阵.md",
     "线性代数/递推型行列式.md",
