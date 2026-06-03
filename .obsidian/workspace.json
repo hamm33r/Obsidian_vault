@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总线定时.md",
+                "file": "408/总线的性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总线定时"
+              "title": "总线的性能指标"
             }
           },
           {
@@ -320,8 +320,10 @@
   },
   "active": "d2290a272ceb3d32",
   "lastOpenFiles": [
-    "总线传输的4个阶段.md",
+    "408/总线的分类.md",
+    "408/总线的性能指标.md",
     "总线定时.md",
+    "总线传输的4个阶段.md",
     "assets/总线定时/file-20260603214551626.png",
     "assets/总线定时/file-20260603213408646.png",
     "assets/总线定时/file-20260603213148069.png",
@@ -330,8 +332,6 @@
     "assets/总线传输的4个阶段/file-20260603212720367.png",
     "assets/总线传输的4个阶段",
     "assets",
-    "408/总线的性能指标.md",
-    "408/总线的分类.md",
     "408/assets/总线的分类/file-20260603204338639.png",
     "线性代数/求A的n次方.md",
     "线性代数/秩1方阵.md",
