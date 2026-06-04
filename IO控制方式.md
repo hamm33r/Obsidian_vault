@@ -14,3 +14,5 @@ tags:
 ![](assets/IO控制方式/file-20260604222428769.png)
 ![](assets/IO控制方式/file-20260604222354245.png)
 
+# I/O软件和I/O硬件
+![](assets/IO控制方式/file-20260604223457452.png)
