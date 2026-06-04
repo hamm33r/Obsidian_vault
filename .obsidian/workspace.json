@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/流水线的多发技术.md",
+                "file": "IO控制方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流水线的多发技术"
+              "title": "IO控制方式"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -346,15 +346,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eca59aa5a90fab36",
+  "active": "8045b9871c450ab5",
   "lastOpenFiles": [
+    "assets/IO控制方式/file-20260604222428769.png",
+    "assets/IO控制方式/file-20260604222354245.png",
+    "408/流水线的多发技术.md",
+    "IO控制方式.md",
     "assets/IO控制方式/file-20260604221840156.png",
     "assets/IO控制方式/file-20260604221605575.png",
     "assets/IO控制方式/file-20260604221250858.png",
     "assets/IO控制方式/file-20260604220752472.png",
     "assets/IO控制方式",
     "特征向量的线性组合与特征值的关系.md",
-    "IO控制方式.md",
     "408/总线的性能指标.md",
     "408/总线的分类.md",
     "总线定时.md",
@@ -367,7 +370,6 @@
     "assets/总线传输的4个阶段/file-20260603212720367.png",
     "assets/总线传输的4个阶段",
     "assets",
-    "408/assets/总线的分类/file-20260603204338639.png",
     "线性代数/求A的n次方.md",
     "线性代数/秩1方阵.md",
     "线性代数/递推型行列式.md",
@@ -380,7 +382,6 @@
     "线性代数/初等矩阵的性质与重要公式.md",
     "线性代数/求伴随矩阵的方法.md",
     "线性代数/向量的内积与正交.md",
-    "线性代数/assets/向量的内积与正交/file-20260603161516537.png",
     "线性代数/assets/向量的内积与正交",
     "408/数据的存储和排列.md",
     "408/指令寻址寻址方式.md",
@@ -388,7 +389,6 @@
     "408/指令周期.md",
     "408/微程序控制器.md",
     "408/数据通路-单总线结构.md",
-    "408/多处理器的基本概念.md",
     "408/assets/总线的性能指标",
     "408/assets/总线的分类",
     "408/assets/多处理器的基本概念",
