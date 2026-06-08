@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO方式.md",
+                "file": "线性代数/主子式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO方式"
+              "title": "主子式"
             }
           },
           {
@@ -278,22 +278,25 @@
   },
   "active": "f38e7cef3b1f1735",
   "lastOpenFiles": [
-    "assets/IO方式/file-20260606224732984.png",
-    "中断的作用和原理.md",
+    "assets/总线传输的4个阶段/file-20260603212720367.png",
+    "assets/总线传输的4个阶段/file-20260603212728897.png",
+    "线性代数/齐次线性方程组的解与特征向量.md",
+    "408/IO方式.md",
+    "408/assets/多重中断",
+    "408/assets/IO方式",
+    "408/assets/IO方式/file-20260608144133747.png",
+    "408/中断的作用和原理.md",
     "Pasted image 20260606224712.png",
-    "多重中断.md",
-    "IO方式.md",
+    "408/多重中断.md",
     "高等数学/三角函数公式.md",
-    "assets/IO方式/file-20260606224032740.png",
-    "assets/多重中断/file-20260606222613221.png",
-    "assets/多重中断/file-20260606222523032.png",
-    "assets/多重中断/file-20260606222409666.png",
+    "408/assets/IO方式/file-20260608144133751.png",
+    "408/assets/多重中断/file-20260608144135436.png",
+    "408/assets/多重中断/file-20260608144135425.png",
+    "408/assets/多重中断/file-20260608144135446.png",
     "assets/多重中断",
-    "assets/IO方式/file-20260606220333662.png",
-    "assets/IO方式/file-20260606220231927.png",
-    "assets/IO方式/file-20260606215055395.png",
-    "assets/IO方式/file-20260606214837926.png",
-    "assets/IO方式/file-20260606214754272.png",
+    "408/assets/IO方式/file-20260608144133777.png",
+    "408/assets/IO方式/file-20260608144133786.png",
+    "408/assets/IO方式/file-20260608144133807.png",
     "408/汇编语言.md",
     "408/CPU、运算器、控制器的基本结构.md",
     "408/指令周期.md",
@@ -315,15 +318,12 @@
     "408/总线定时.md",
     "线性代数/特征向量的线性组合与特征值的关系.md",
     "线性代数/秩1方阵.md",
-    "线性代数/相似矩阵的性质.md",
     "408/assets/IO接口",
     "assets/IO接口",
     "408/assets/IO控制方式",
     "408/assets/总线定时",
     "assets/IO控制方式",
     "assets/总线定时",
-    "assets/总线传输的4个阶段",
-    "assets",
     "未命名.canvas"
   ]
 }
