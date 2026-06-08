@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -332,12 +332,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f81e8918164b9d7b",
+  "active": "a94064c39b48c394",
   "lastOpenFiles": [
+    "408/IO方式.md",
     "线性代数/二次型正定的充要条件.md",
     "DMA方式.md",
     "assets/DMA方式/file-20260608213110853.png",
-    "408/IO方式.md",
     "408/多重中断.md",
     "assets/DMA方式/file-20260608212442147.png",
     "assets/DMA方式/file-20260608212349194.png",
