@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "查询方式",
+                "query": "中断向量",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -211,7 +211,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -332,12 +333,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a94064c39b48c394",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "408/多重中断.md",
+    "408/中断的作用和原理.md",
     "408/IO方式.md",
     "408/DMA方式.md",
-    "408/中断的作用和原理.md",
     "408/assets/中断的作用和原理/file-20260609223902653.png",
     "408/assets/中断的作用和原理/file-20260609223858342.png",
     "408/assets/中断的作用和原理",
