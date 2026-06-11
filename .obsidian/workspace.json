@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中断向量",
+                "query": "PC和",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -211,7 +211,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -332,13 +333,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f81e8918164b9d7b",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "408/多重中断.md",
+    "408/DMA方式.md",
+    "408/中断的作用和原理.md",
     "408/IO接口.md",
     "408/IO方式.md",
-    "408/中断的作用和原理.md",
-    "408/DMA方式.md",
     "408/assets/DMA方式/file-20260611223806428.png",
     "408/assets/DMA方式/file-20260611223656506.png",
     "408/IO控制方式.md",
