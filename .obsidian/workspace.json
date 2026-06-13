@@ -123,12 +123,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二次型的极值.md",
+                "file": "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二次型的极值"
+              "title": "一个矩阵的平方等于另一个矩阵，对矩阵进行开方"
+            }
+          },
+          {
+            "id": "29158b653d351d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统调用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统调用"
             }
           },
           {
@@ -174,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -216,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "条件极值",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -358,19 +372,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7223accf85d83cb5",
+  "active": "29158b653d351d61",
   "lastOpenFiles": [
+    "assets/系统调用/file-20260613203300168.png",
+    "assets/系统调用",
+    "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
+    "系统调用.md",
+    "408/assets/用户态和内核态",
+    "线性代数/二次型正定的充要条件.md",
+    "线性代数/判定A与B合同.md",
+    "线性代数/等价，相似，合同.md",
+    "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
+    "线性代数/二次型的极值.md",
     "线性代数.md",
-    "二次型的极值.md",
     "高等数学/多元函数极值,最值.md",
-    "用户态和内核态.md",
-    "assets/用户态和内核态/file-20260612225837434.png",
+    "408/用户态和内核态.md",
+    "408/assets/用户态和内核态/file-20260613203221969.png",
     "assets/用户态和内核态",
     "assets/总线传输的4个阶段/file-20260603212728897.png",
     "assets/总线传输的4个阶段/file-20260603212720367.png",
     "线性代数/判别等价向量组.md",
-    "线性代数/判定A与B合同.md",
-    "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
     "线性代数/常用矩阵的特征值与特征向量.md",
     "线性代数/assets/一个矩阵的平方等于另一个矩阵，对矩阵进行开方",
     "线性代数/基础解系与线性无关解向量的个数.md",
@@ -385,15 +406,10 @@
     "线性代数/特征向量的线性组合与特征值的关系.md",
     "线性代数/齐次线性方程组的解与特征向量.md",
     "线性代数/配方法化二次型.md",
-    "线性代数/二次型正定的充要条件.md",
-    "线性代数/等价，相似，合同.md",
     "线性代数/初等矩阵的性质与重要公式.md",
     "线性代数/向量的内积与正交.md",
     "408/IO接口.md",
     "408/assets/中断控制器例题",
-    "408/中断的作用和原理.md",
-    "408/多重中断.md",
-    "408/DMA方式.md",
     "408/assets/DMA方式/file-20260611223806428.png",
     "408/assets/DMA方式/file-20260611223656506.png",
     "408/assets/DMA方式/file-20260610225257907.png",
@@ -404,8 +420,6 @@
     "408/assets/中断的作用和原理",
     "408/assets/DMA方式",
     "assets/DMA方式",
-    "线性代数/assets/配方法化二次型",
-    "assets/配方法化二次型",
     "未命名.canvas"
   ]
 }
