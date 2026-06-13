@@ -223,7 +223,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -344,7 +345,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86a155d4123a23c9",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "assets/用户态和内核态/file-20260612225837434.png",
     "assets/用户态和内核态",
