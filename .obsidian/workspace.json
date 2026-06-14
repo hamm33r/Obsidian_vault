@@ -414,8 +414,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ba352ef282764b17",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
+    "408/assets/操作系统结构",
+    "408/assets/系统调用",
     "assets/虚拟机/file-20260613213511562.png",
     "assets/虚拟机/file-20260613212640682.png",
     "assets/虚拟机",
@@ -423,11 +425,11 @@
     "虚拟机.md",
     "assets/操作系统引导（开机过程）/file-20260613211537300.png",
     "assets/操作系统引导（开机过程）",
-    "操作系统结构.md",
-    "assets/操作系统结构/file-20260613210002916.png",
+    "408/操作系统结构.md",
+    "408/assets/操作系统结构/file-20260614161352072.png",
     "assets/操作系统结构",
-    "系统调用.md",
-    "assets/系统调用/file-20260613203300168.png",
+    "408/系统调用.md",
+    "408/assets/系统调用/file-20260614161350592.png",
     "assets/系统调用",
     "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
     "408/assets/用户态和内核态",
@@ -460,8 +462,6 @@
     "线性代数/配方法化二次型.md",
     "408/assets/中断控制器例题",
     "408/assets/DMA方式/file-20260611223806428.png",
-    "408/assets/DMA方式/file-20260611223656506.png",
-    "assets/中断控制器例题",
     "未命名.canvas"
   ]
 }
