@@ -4,247 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf5320dfbd2ad1f",
+        "id": "feb9d8c6c247a152",
         "type": "tabs",
         "children": [
           {
-            "id": "7e518297ddbc5339",
+            "id": "f423502e622b2868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/IO接口.md",
+                "file": "进程状态的转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO接口"
-            }
-          },
-          {
-            "id": "b683f97131242bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IO方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO方式"
-            }
-          },
-          {
-            "id": "bfa0cf271a241f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IO方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO方式"
-            }
-          },
-          {
-            "id": "59f2de5914d6080b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IO方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO方式"
-            }
-          },
-          {
-            "id": "f38e7cef3b1f1735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/齐次线性方程组的解与特征向量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "齐次线性方程组的解与特征向量"
-            }
-          },
-          {
-            "id": "03a2c993f1d9980e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/配方法化二次型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "配方法化二次型"
-            }
-          },
-          {
-            "id": "f81e8918164b9d7b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/总线传输的4个阶段/file-20260603212720367.png"
-              },
-              "icon": "lucide-image",
-              "title": "file-20260603212720367"
-            }
-          },
-          {
-            "id": "86a155d4123a23c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高等数学/多元函数极值,最值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多元函数极值,最值"
-            }
-          },
-          {
-            "id": "7223accf85d83cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一个矩阵的平方等于另一个矩阵，对矩阵进行开方"
-            }
-          },
-          {
-            "id": "29158b653d351d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统调用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "系统调用"
-            }
-          },
-          {
-            "id": "d0a33d379d2b7598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "操作系统结构"
-            }
-          },
-          {
-            "id": "176cf03a3dc9b562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统引导（开机过程）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "操作系统引导（开机过程）"
-            }
-          },
-          {
-            "id": "ba352ef282764b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/求A的n次方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "求A的n次方"
-            }
-          },
-          {
-            "id": "fe8d1448955b9af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "进程的组成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "进程的组成"
-            }
-          },
-          {
-            "id": "0cbcba2bccb447e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一个矩阵的平方等于另一个矩阵，对矩阵进行开方"
-            }
-          },
-          {
-            "id": "a94064c39b48c394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/多重中断.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多重中断"
-            }
-          },
-          {
-            "id": "c3b7307062ae8bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/A的每行元素之和为3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A的每行元素之和为3"
+              "title": "进程状态的转换"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -428,41 +205,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe8d1448955b9af4",
+  "active": "f423502e622b2868",
   "lastOpenFiles": [
+    "assets/进程状态的转换/file-20260703222025240.png",
+    "assets/进程状态的转换",
+    "进程的组成.md",
+    "进程状态的转换.md",
+    "高等数学/不等式大合集.md",
+    "高等数学/基本积分公式.md",
+    "高等数学/求不定积分时的思路.md",
+    "高等数学/因式分解公式.md",
+    "高等数学/分部积分法.md",
+    "高等数学/常用积分换元法（第二类换元法）.md",
+    "高等数学/求导公式.md",
+    "高等数学/原函数（不定积分）存在定理.md",
+    "高等数学/定积分存在定理.md",
+    "高等数学/定积分的精确定义.md",
+    "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
+    "高等数学/联系不定积分与定积分.md",
+    "高等数学/导数定义解题.md",
+    "高等数学/连续不等式题目的思考方向.md",
+    "高等数学/两个不同点使表达式成立（不同中值）.md",
+    "高等数学/遇到闭区间可导，开区间连续，证明存在xi使得...成立.md",
+    "高等数学/微分不等式.md",
+    "高等数学/ln不等式.md",
+    "高等数学/实系数奇次方程至少有一个实根.md",
+    "高等数学/拉格朗日中值定理解题思路.md",
+    "高等数学/泰勒公式.md",
+    "高等数学/罗尔定理的推论.md",
+    "高等数学/经典题目.md",
     "assets/进程的组成/file-20260630224143896.png",
     "assets/进程的组成/file-20260630223902827.png",
     "assets/进程的组成/file-20260630223223057.png",
     "assets/进程的组成/file-20260630222916153.png",
     "assets/进程的组成",
-    "线性代数/求A的n次方.md",
-    "进程的组成.md",
-    "高等数学/常用积分换元法（第二类换元法）.md",
-    "高等数学/变限积分性质.md",
-    "高等数学/两个重要结论（x的p积分）.md",
-    "高等数学/基本积分公式.md",
-    "高等数学/常用凑微分公式.md",
-    "高等数学/分部积分法.md",
-    "高等数学/求导公式.md",
-    "高等数学/泰勒公式.md",
-    "408/操作系统引导（开机过程）.md",
-    "408/操作系统结构.md",
     "408/assets/操作系统结构/file-20260614222053910.png",
     "408/assets/操作系统结构/file-20260614221647040.png",
     "408/assets/操作系统结构/file-20260614221325293.png",
-    "408/虚拟机.md",
-    "408/中断控制器例题.md",
-    "408/系统调用.md",
-    "线性代数/多个列向量的线性组合.md",
-    "线性代数/判别等价向量组.md",
-    "线性代数/线性相关与线性无关.md",
-    "线性代数/二次型正定的充要条件.md",
-    "线性代数/等价，相似，合同.md",
-    "线性代数/配方法化二次型.md",
-    "线性代数/向量的内积与正交.md",
-    "线性代数/秩1方阵.md",
-    "线性代数/一个矩阵的平方等于另一个矩阵，对矩阵进行开方.md",
-    "线性代数/相似矩阵的性质.md",
     "408/assets/虚拟机",
     "408/assets/操作系统引导（开机过程）",
     "408/assets/操作系统结构",
@@ -472,10 +251,8 @@
     "assets/虚拟机",
     "408/assets/操作系统引导（开机过程）/file-20260614161353511.png",
     "assets/操作系统引导（开机过程）",
-    "408/assets/操作系统结构/file-20260614161352072.png",
     "assets/操作系统结构",
     "assets/系统调用",
-    "408/assets/用户态和内核态",
     "未命名.canvas"
   ]
 }
