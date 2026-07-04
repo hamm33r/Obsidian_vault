@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线程.md",
+                "file": "408/进程的组成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线程"
+              "title": "进程的组成"
             }
           }
         ],
@@ -278,6 +278,11 @@
   },
   "active": "1bde60584c1a4cf9",
   "lastOpenFiles": [
+    "408/进程控制.md",
+    "408/进程通信.md",
+    "408/进程状态的转换.md",
+    "408/进程的组成.md",
+    "线程.md",
     "assets/线程/file-20260704222042723.png",
     "assets/线程/file-20260704222007027.png",
     "assets/线程/file-20260704221438860.png",
@@ -288,16 +293,10 @@
     "assets/线程/file-20260704220348799.png",
     "assets/线程/file-20260704215419227.png",
     "assets/线程/file-20260704215215875.png",
-    "assets/线程/file-20260704215000788.png",
     "assets/线程",
     "408/信号.md",
-    "线程.md",
-    "408/进程的组成.md",
     "408/assets/信号",
     "408/assets/进程通信",
-    "408/进程状态的转换.md",
-    "408/进程控制.md",
-    "408/进程通信.md",
     "assets/信号",
     "assets/进程通信",
     "高等数学/函数的周期性.md",
