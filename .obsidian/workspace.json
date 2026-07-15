@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/进程的组成.md",
+                "file": "408/线程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程的组成"
+              "title": "线程"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/进程的组成.md",
+                "file": "408/线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "进程的组成 的出链列表"
+              "title": "线程 的出链列表"
             }
           },
           {
@@ -278,12 +278,13 @@
   },
   "active": "679b8616ca282fee",
   "lastOpenFiles": [
+    "408/assets/线程/file-20260715174534544.png",
+    "408/信号.md",
+    "408/进程的组成.md",
     "408/进程状态的转换.md",
     "408/进程控制.md",
     "408/进程通信.md",
     "408/线程.md",
-    "408/信号.md",
-    "408/进程的组成.md",
     "高等数学/二重积分.md",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "高等数学/求导公式.md",
@@ -303,7 +304,6 @@
     "高等数学/华里士公式（点火公式）.md",
     "高等数学/分部积分法.md",
     "高等数学/常用积分换元法（第二类换元法）.md",
-    "高等数学/常用凑微分公式.md",
     "408/assets/进程的组成/file-20260706213849202.png",
     "408/assets/进程的组成/file-20260706213819128.png",
     "高等数学/assets/泰勒公式/file-20260705152028551.png",
