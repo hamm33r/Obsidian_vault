@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/进程的组成.md",
+                "file": "408/进程状态的转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程的组成"
+              "title": "进程状态的转换"
             }
           },
           {
@@ -208,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/进程的组成.md",
+                "file": "408/进程状态的转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "进程的组成 的出链列表"
+              "title": "进程状态的转换 的出链列表"
             }
           },
           {
@@ -292,10 +292,10 @@
   },
   "active": "3453adcd290618e0",
   "lastOpenFiles": [
+    "408/进程的组成.md",
     "临界资源.md",
     "408/进程状态的转换.md",
     "408/assets/进程状态的转换/file-20260716110650896.png",
-    "408/进程的组成.md",
     "408/进程通信.md",
     "408/进程控制.md",
     "408/信号.md",
