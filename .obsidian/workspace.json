@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/变限积分性质.md",
+                "file": "高等数学/泰勒公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "变限积分性质 的出链列表"
+              "title": "泰勒公式 的出链列表"
             }
           },
           {
@@ -330,12 +330,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "679b8616ca282fee",
+  "active": "885f30fc965acef4",
   "lastOpenFiles": [
+    "高等数学/变限积分性质.md",
     "高等数学/求导公式.md",
     "高等数学/泰勒公式.md",
     "高等数学/函数的奇偶性.md",
-    "高等数学/变限积分性质.md",
     "408/进程状态的转换.md",
     "调度算法的评价指标.md",
     "assets/调度算法的评价指标/file-20260718165452433.png",
