@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/进程调度相关细节.md",
+                "file": "408/进程控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程调度相关细节"
+              "title": "进程控制"
             }
           },
           {
@@ -230,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数列极限",
+                "query": "上下文",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/进程调度相关细节.md",
+                "file": "408/进程控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "进程调度相关细节 的出链列表"
+              "title": "进程控制 的出链列表"
             }
           },
           {
@@ -374,10 +374,17 @@
   },
   "active": "154fec34afe2174f",
   "lastOpenFiles": [
-    "408/调度的概念.md",
-    "408/临界资源.md",
-    "408/进程调度相关细节.md",
+    "408/进程状态的转换.md",
+    "408/进程控制.md",
+    "408/进程通信.md",
     "408/线程.md",
+    "408/临界资源.md",
+    "408/调度的概念.md",
+    "408/进程调度相关细节.md",
+    "408/进程的组成.md",
+    "408/信号.md",
+    "408/调度算法的评价指标.md",
+    "408/DMA方式.md",
     "多处理机调度.md",
     "assets/多处理机调度/file-20260721212337686.png",
     "assets/多处理机调度/file-20260721212228948.png",
@@ -401,8 +408,6 @@
     "高等数学/求导公式.md",
     "高等数学/变限积分性质.md",
     "高等数学/函数的奇偶性.md",
-    "408/进程状态的转换.md",
-    "408/调度算法的评价指标.md",
     "assets/调度算法的评价指标",
     "高等数学/函数与函数绝对值连续，可导的关系.md",
     "高等数学/绝对值积分收敛则原函数积分收敛.md",
@@ -412,12 +417,7 @@
     "高等数学/常用积分换元法（第二类换元法）.md",
     "高等数学/常用凑微分公式.md",
     "高等数学/常用泰勒公式.md",
-    "高等数学/经典题目.md",
-    "高等数学/凹凸函数的定义.md",
-    "Excalidraw/凹曲线图.md",
-    "高等数学/可导与连续.md",
     "408/assets/调度的概念",
-    "线性代数/两个方程组的公共解与同解方程组的区别.md",
     "assets/调度的概念",
     "高等数学/assets/泰勒公式",
     "未命名.canvas"
