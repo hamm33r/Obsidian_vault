@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "调度算法.md",
+                "file": "高等数学/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "调度算法"
+              "title": "泰勒公式"
             }
           },
           {
@@ -262,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "调度算法.md",
+                "file": "高等数学/泰勒公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "调度算法 的出链列表"
+              "title": "泰勒公式 的出链列表"
             }
           },
           {
@@ -346,8 +346,10 @@
   },
   "active": "69651e4de9961a9b",
   "lastOpenFiles": [
-    "高等数学/泰勒公式.md",
     "调度算法.md",
+    "assets/调度算法/file-20260720181000378.png",
+    "assets/调度算法",
+    "高等数学/泰勒公式.md",
     "高等数学/求导公式.md",
     "高等数学/变限积分性质.md",
     "高等数学/函数的奇偶性.md",
@@ -367,7 +369,6 @@
     "进程调度相关细节.md",
     "assets/进程调度相关细节/file-20260717190310722.png",
     "assets/进程调度相关细节/file-20260717190134981.png",
-    "assets/进程调度相关细节/file-20260717190011925.png",
     "assets/进程调度相关细节",
     "高等数学/微分方程.md",
     "408/线程.md",
@@ -385,13 +386,11 @@
     "高等数学/多元函数的可微.md",
     "assets/调度的概念",
     "408/进程的组成.md",
-    "408/临界资源.md",
     "高等数学/assets/泰勒公式",
     "408/assets/线程",
     "assets/线程",
     "408/assets/信号",
     "408/assets/进程通信",
-    "assets/信号",
     "未命名.canvas"
   ]
 }
