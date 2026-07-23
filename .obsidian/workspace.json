@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "e62da16cff9ba064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多生产者-多消费者问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多生产者-多消费者问题"
+            }
+          },
+          {
             "id": "833ef531b4deb505",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生产者-消费者问题.md",
+                "file": "多生产者-多消费者问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "生产者-消费者问题 的出链列表"
+              "title": "多生产者-多消费者问题 的出链列表"
             }
           },
           {
@@ -276,8 +290,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "15a6cdfcf267420b",
+  "active": "e62da16cff9ba064",
   "lastOpenFiles": [
+    "assets/多生产者-多消费者问题/file-20260723214448304.png",
+    "assets/多生产者-多消费者问题",
+    "生产者-消费者问题.md",
+    "多生产者-多消费者问题.md",
     "assets/生产者-消费者问题/file-20260723214217225.png",
     "assets/生产者-消费者问题/file-20260723213809857.png",
     "assets/生产者-消费者问题/file-20260723213449280.png",
@@ -285,7 +303,6 @@
     "assets/生产者-消费者问题/file-20260723212856739.png",
     "assets/生产者-消费者问题",
     "信号量机制实现进程互斥，同步，前驱.md",
-    "生产者-消费者问题.md",
     "assets/信号量机制实现进程互斥，同步，前驱/file-20260723211122883.png",
     "assets/信号量机制实现进程互斥，同步，前驱/file-20260723210928448.png",
     "assets/信号量机制实现进程互斥，同步，前驱/file-20260723210846799.png",
@@ -297,7 +314,6 @@
     "assets/信号量机制实现进程互斥，同步，前驱",
     "进程同步与互斥基本概念.md",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
-    "assets/信号量机制/file-20260723204346308.png",
     "assets/信号量机制",
     "assets/进程互斥的实现方法",
     "assets/进程同步与互斥基本概念",
@@ -320,10 +336,8 @@
     "多处理机调度.md",
     "408/流水线的分类.md",
     "408/无符号整数的除法运算.md",
-    "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "assets/多处理机调度",
     "408/assets/调度算法",
-    "408/assets/调度算法的评价指标",
     "未命名.canvas"
   ]
 }
