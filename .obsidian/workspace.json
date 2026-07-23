@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/不等式大合集.md",
+                "file": "408/调度算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不等式大合集"
+              "title": "调度算法"
             }
           },
           {
@@ -290,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/不等式大合集.md",
+                "file": "408/调度算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "不等式大合集 的出链列表"
+              "title": "调度算法 的出链列表"
             }
           },
           {
@@ -374,6 +374,7 @@
   },
   "active": "679b8616ca282fee",
   "lastOpenFiles": [
+    "高等数学/不等式大合集.md",
     "高等数学/微分不等式.md",
     "高等数学/变限积分性质.md",
     "高等数学/求导公式.md",
@@ -400,7 +401,6 @@
     "Excalidraw/三种缺失图.md",
     "Excalidraw/Cache TLB的访存过程图.md",
     "408/TLB Cache Page缺失.md",
-    "408/指令格式分类.md",
     "assets/多处理机调度/file-20260721212337686.png",
     "assets/多处理机调度/file-20260721212228948.png",
     "assets/多处理机调度/file-20260721212024693.png",
