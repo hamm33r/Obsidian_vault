@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信号量机制.md",
+                "file": "进程同步与互斥基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信号量机制"
+              "title": "进程同步与互斥基本概念"
+            }
+          },
+          {
+            "id": "d5ea8dff94f56b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信号量机制实现进程互斥，同步，前驱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信号量机制实现进程互斥，同步，前驱"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信号量机制.md",
+                "file": "信号量机制实现进程互斥，同步，前驱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "信号量机制 的出链列表"
+              "title": "信号量机制实现进程互斥，同步，前驱 的出链列表"
             }
           },
           {
@@ -248,12 +262,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "679b8616ca282fee",
+  "active": "d5ea8dff94f56b25",
   "lastOpenFiles": [
-    "进程互斥的实现方法.md",
-    "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
+    "assets/信号量机制实现进程互斥，同步，前驱/file-20260723205435135.png",
+    "assets/信号量机制实现进程互斥，同步，前驱/file-20260723205355902.png",
+    "assets/信号量机制实现进程互斥，同步，前驱",
     "进程同步与互斥基本概念.md",
+    "信号量机制实现进程互斥，同步，前驱.md",
+    "进程互斥的实现方法.md",
     "信号量机制.md",
+    "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "assets/信号量机制/file-20260723204346308.png",
     "assets/信号量机制/file-20260723204209371.png",
     "assets/信号量机制/file-20260723203948240.png",
@@ -264,7 +282,6 @@
     "assets/进程互斥的实现方法/file-20260723201623399.png",
     "assets/进程互斥的实现方法/file-20260723201415181.png",
     "assets/进程互斥的实现方法/file-20260723201237966.png",
-    "assets/进程互斥的实现方法/file-20260723201136124.png",
     "assets/进程互斥的实现方法",
     "assets/进程同步与互斥基本概念",
     "assets/进程同步与互斥",
@@ -289,12 +306,10 @@
     "408/无符号整数的除法运算.md",
     "408/栅极电容对比双稳态触发器,DRAM对比SRAM.md",
     "408/多体并行存储器.md",
-    "408/存储器基本的半导体元件及原理.md",
     "assets/多处理机调度",
     "408/assets/调度算法",
     "408/assets/调度算法的评价指标",
     "408/assets/进程调度相关细节",
-    "assets/调度算法",
     "未命名.canvas"
   ]
 }
