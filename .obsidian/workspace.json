@@ -77,7 +77,8 @@
               "title": "信号量机制"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信号量机制.md",
+                "file": "信号量机制实现进程互斥，同步，前驱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "信号量机制 的出链列表"
+              "title": "信号量机制实现进程互斥，同步，前驱 的出链列表"
             }
           },
           {
@@ -261,8 +262,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f423502e622b2868",
+  "active": "d5ea8dff94f56b25",
   "lastOpenFiles": [
+    "assets/信号量机制实现进程互斥，同步，前驱/file-20260723210928448.png",
+    "assets/信号量机制实现进程互斥，同步，前驱/file-20260723210846799.png",
+    "信号量机制.md",
     "进程互斥的实现方法.md",
     "高等数学/变限积分性质.md",
     "信号量机制实现进程互斥，同步，前驱.md",
@@ -270,7 +274,6 @@
     "assets/信号量机制实现进程互斥，同步，前驱/file-20260723205355902.png",
     "assets/信号量机制实现进程互斥，同步，前驱",
     "进程同步与互斥基本概念.md",
-    "信号量机制.md",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "assets/信号量机制/file-20260723204346308.png",
     "assets/信号量机制/file-20260723204209371.png",
@@ -280,7 +283,6 @@
     "assets/信号量机制/file-20260723202258906.png",
     "assets/信号量机制",
     "assets/进程互斥的实现方法/file-20260723201623399.png",
-    "assets/进程互斥的实现方法/file-20260723201415181.png",
     "assets/进程互斥的实现方法",
     "assets/进程同步与互斥基本概念",
     "assets/进程同步与互斥",
