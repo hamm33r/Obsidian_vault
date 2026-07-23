@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
+                "file": "信号量机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导函数存在则：导数连续，介值性，无第一类间断点"
+              "title": "信号量机制"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +248,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "795381ad7d051724",
+  "active": "679b8616ca282fee",
   "lastOpenFiles": [
+    "进程互斥的实现方法.md",
+    "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
+    "进程同步与互斥基本概念.md",
+    "信号量机制.md",
     "assets/信号量机制/file-20260723204346308.png",
     "assets/信号量机制/file-20260723204209371.png",
     "assets/信号量机制/file-20260723203948240.png",
@@ -257,19 +261,14 @@
     "assets/信号量机制/file-20260723202841616.png",
     "assets/信号量机制/file-20260723202258906.png",
     "assets/信号量机制",
-    "进程同步与互斥基本概念.md",
-    "信号量机制.md",
-    "进程互斥的实现方法.md",
     "assets/进程互斥的实现方法/file-20260723201623399.png",
     "assets/进程互斥的实现方法/file-20260723201415181.png",
     "assets/进程互斥的实现方法/file-20260723201237966.png",
     "assets/进程互斥的实现方法/file-20260723201136124.png",
-    "assets/进程互斥的实现方法/file-20260723200858174.png",
     "assets/进程互斥的实现方法",
     "assets/进程同步与互斥基本概念",
     "assets/进程同步与互斥",
     "assets/进程互斥",
-    "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "高等数学/泰勒公式.md",
     "高等数学/数列极限.md",
     "高等数学/三角函数公式.md",
