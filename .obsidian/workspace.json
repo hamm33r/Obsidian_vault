@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/哲学家进餐问题.md",
+                "file": "高等数学/变限积分性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "哲学家进餐问题"
+              "title": "变限积分性质"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "达布",
+                "query": "变限积分",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -197,7 +197,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/哲学家进餐问题.md",
+                "file": "高等数学/变限积分性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "哲学家进餐问题 的出链列表"
+              "title": "变限积分性质 的出链列表"
             }
           },
           {
@@ -318,8 +319,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "48220f952dcbfcd5",
   "lastOpenFiles": [
+    "高等数学/动区域上的二重积分.md",
+    "高等数学/泰勒公式.md",
+    "408/哲学家进餐问题.md",
     "408/assets/哲学家进餐问题",
     "408/assets/读者-写者问题",
     "408/assets/多生产者-多消费者问题",
@@ -336,13 +340,11 @@
     "408/assets/哲学家进餐问题/file-20260724160507032.png",
     "assets/哲学家进餐问题",
     "408/读者-写者问题.md",
-    "408/哲学家进餐问题.md",
     "408/assets/读者-写者问题/file-20260724160505619.png",
     "408/assets/读者-写者问题/file-20260724160505600.png",
     "408/assets/读者-写者问题/file-20260724160505610.png",
     "408/assets/读者-写者问题/file-20260724160505627.png",
     "408/assets/读者-写者问题/file-20260724160505636.png",
-    "assets/读者-写者问题",
     "408/多生产者-多消费者问题.md",
     "408/生产者-消费者问题.md",
     "408/信号量机制实现进程互斥，同步，前驱.md",
@@ -351,7 +353,6 @@
     "高等数学/变限积分性质.md",
     "408/进程同步与互斥基本概念.md",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
-    "高等数学/泰勒公式.md",
     "高等数学/数列极限.md",
     "高等数学/三角函数公式.md",
     "408/调度算法.md",
