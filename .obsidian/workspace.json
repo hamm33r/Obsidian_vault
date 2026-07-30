@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/信号量机制.md",
+                "file": "408/进程互斥的实现方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信号量机制"
+              "title": "进程互斥的实现方法"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/管程.md",
+                "file": "高等数学/求导公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "管程"
+              "title": "求导公式"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "展开式",
+                "query": "peterson",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -141,7 +141,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/管程.md",
+                "file": "线性代数/递推型行列式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "管程 的出链列表"
+              "title": "递推型行列式 的出链列表"
             }
           },
           {
@@ -262,15 +263,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1d83439ef1128bd",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
-    "408/信号量机制.md",
     "408/进程互斥的实现方法.md",
-    "408/进程同步与互斥基本概念.md",
-    "线性代数/求A的n次方.md",
+    "408/多生产者-多消费者问题.md",
+    "408/生产者-消费者问题.md",
     "408/信号量机制实现进程互斥，同步，前驱.md",
-    "高等数学/三角函数公式.md",
+    "408/信号量机制.md",
+    "408/调度算法.md",
+    "408/进程同步与互斥基本概念.md",
+    "高等数学/函数的周期性.md",
+    "高等数学/数列极限.md",
+    "高等数学/定积分对称区间的公式.md",
+    "高等数学/泰勒公式.md",
     "高等数学/求导公式.md",
+    "408/管程.md",
+    "线性代数/求A的n次方.md",
+    "高等数学/三角函数公式.md",
     "线性代数/递推型行列式.md",
     "高等数学/经典题目.md",
     "高等数学/积分等式与积分不等式.md",
@@ -278,23 +287,15 @@
     "高等数学/常用泰勒公式.md",
     "408/临界资源.md",
     "高等数学/两个重要数列极限.md",
-    "高等数学/数列极限.md",
     "高等数学/遇到函数与导函数组合在一起时.md",
     "高等数学/常见的奇函数.md",
-    "408/多生产者-多消费者问题.md",
-    "408/管程.md",
     "高等数学/基本积分公式.md",
     "408/assets/管程",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
-    "高等数学/函数与函数绝对值连续，可导的关系.md",
-    "高等数学/泰勒公式.md",
-    "高等数学/常用凑微分公式.md",
     "408/assets/管程/file-20260727213617935.png",
     "408/assets/管程/file-20260727213617931.png",
     "408/assets/管程/file-20260727213617936.png",
     "assets/管程",
-    "高等数学/变限积分性质.md",
-    "高等数学/动区域上的二重积分.md",
     "408/assets/哲学家进餐问题",
     "408/assets/读者-写者问题",
     "408/assets/多生产者-多消费者问题",
