@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求斜渐近线用泰勒展开.md",
+                "file": "渐近线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求斜渐近线用泰勒展开"
+              "title": "渐近线"
             }
           },
           {
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求斜渐近线用泰勒展开.md",
+                "file": "渐近线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -292,10 +292,11 @@
   },
   "active": "23be7169bac1a4df",
   "lastOpenFiles": [
-    "assets/求斜渐近线用泰勒展开/file-20260801171144630.png",
+    "assets/渐近线",
+    "assets/渐近线/file-20260801171626832.png",
     "assets/求斜渐近线用泰勒展开",
     "高等数学/遇到函数与导函数组合在一起时.md",
-    "求斜渐近线用泰勒展开.md",
+    "渐近线.md",
     "高等数学/遇到闭区间可导，开区间连续，证明存在xi使得...成立.md",
     "高等数学/连续不等式题目的思考方向.md",
     "高等数学/拉格朗日中值定理解题思路.md",
@@ -337,7 +338,6 @@
     "408/assets/哲学家进餐问题/file-20260724160507027.png",
     "408/assets/哲学家进餐问题/file-20260724160507049.png",
     "408/assets/哲学家进餐问题/file-20260724160507030.png",
-    "408/assets/哲学家进餐问题/file-20260724160507032.png",
     "未命名.canvas"
   ]
 }
