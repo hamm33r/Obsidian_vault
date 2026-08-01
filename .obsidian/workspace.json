@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/积分等式与积分不等式.md",
+                "file": "高等数学/遇到函数与导函数组合在一起时.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "积分等式与积分不等式"
+              "title": "遇到函数与导函数组合在一起时"
+            }
+          },
+          {
+            "id": "23be7169bac1a4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求斜渐近线用泰勒展开.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求斜渐近线用泰勒展开"
             }
           },
           {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中值定理",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,8 +169,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/积分等式与积分不等式.md",
+                "file": "求斜渐近线用泰勒展开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -277,8 +290,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "007372cfb8c4a7c2",
+  "active": "23be7169bac1a4df",
   "lastOpenFiles": [
+    "assets/求斜渐近线用泰勒展开/file-20260801171144630.png",
+    "assets/求斜渐近线用泰勒展开",
+    "高等数学/遇到函数与导函数组合在一起时.md",
+    "求斜渐近线用泰勒展开.md",
+    "高等数学/遇到闭区间可导，开区间连续，证明存在xi使得...成立.md",
+    "高等数学/连续不等式题目的思考方向.md",
+    "高等数学/拉格朗日中值定理解题思路.md",
+    "高等数学/积分等式与积分不等式.md",
     "高等数学/泰勒公式.md",
     "高等数学/变限积分性质.md",
     "高等数学/凹凸函数的定义.md",
@@ -293,18 +314,11 @@
     "408/进程同步与互斥基本概念.md",
     "408/调度算法.md",
     "408/进程互斥的实现方法.md",
-    "高等数学/遇到闭区间可导，开区间连续，证明存在xi使得...成立.md",
-    "高等数学/连续不等式题目的思考方向.md",
     "导数的性态.md",
     "高等数学/导函数存在则：导数连续，介值性，无第一类间断点.md",
     "Excalidraw/凹曲线图.md",
     "高等数学/数列和的极限.md",
     "高等数学/原函数（不定积分）存在定理.md",
-    "高等数学/函数与函数绝对值连续，可导的关系.md",
-    "高等数学/导数定义解题.md",
-    "高等数学/罗尔定理的推论.md",
-    "高等数学/ln不等式.md",
-    "408/临界资源.md",
     "高等数学/assets/常用泰勒公式/file-20260730162941700.png",
     "高等数学/assets/常用泰勒公式/file-20260730162918159.png",
     "高等数学/assets/常用泰勒公式",
@@ -319,7 +333,6 @@
     "408/assets/生产者-消费者问题",
     "408/assets/信号量机制实现进程互斥，同步，前驱",
     "408/assets/信号量机制",
-    "408/assets/进程互斥的实现方法",
     "408/assets/哲学家进餐问题/file-20260724160507024.png",
     "408/assets/哲学家进餐问题/file-20260724160507027.png",
     "408/assets/哲学家进餐问题/file-20260724160507049.png",
