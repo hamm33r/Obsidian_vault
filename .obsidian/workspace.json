@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "死锁的处理策略.md",
+                "file": "死锁的概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "死锁的处理策略"
+              "title": "死锁的概念"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "死锁的处理策略.md",
+                "file": "死锁的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -209,8 +209,8 @@
   },
   "active": "52b67c70adf4fa16",
   "lastOpenFiles": [
-    "死锁的概念.md",
     "死锁的处理策略.md",
+    "死锁的概念.md",
     "assets/死锁的处理策略/file-20260801211903101.png",
     "assets/死锁的处理策略/file-20260801210617005.png",
     "assets/死锁的处理策略/file-20260801210539024.png",
