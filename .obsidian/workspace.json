@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "极坐标",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52b67c70adf4fa16",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "assets/死锁的处理策略/file-20260802230232297.png",
     "死锁的概念.md",
