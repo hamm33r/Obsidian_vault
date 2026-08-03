@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "内存的基础知识"
             }
+          },
+          {
+            "id": "e4c2be34a32f3f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内存保护.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "内存保护"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内存的基础知识.md",
+                "file": "内存保护.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -220,14 +234,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3e23db963e95276",
+  "active": "e4c2be34a32f3f5d",
   "lastOpenFiles": [
+    "assets/内存保护/file-20260803164013831.png",
+    "assets/内存保护",
+    "内存的基础知识.md",
+    "内存保护.md",
     "assets/内存的基础知识/file-20260803162105081.png",
     "assets/内存的基础知识",
     "assets/内存的基础知识/file-20260803162053187.png",
     "assets/链接的三种方式",
     "Excalidraw/Cache TLB的访存过程图.md",
-    "内存的基础知识.md",
     "408/虚拟机.md",
     "408/虚拟存储器.md",
     "死锁的处理策略.md",
@@ -243,7 +260,6 @@
     "assets/死锁的处理策略/file-20260801205849811.png",
     "assets/死锁的处理策略/file-20260801205219404.png",
     "assets/死锁的处理策略/file-20260801204954293.png",
-    "assets/死锁的处理策略/file-20260801204533735.png",
     "高等数学/导数的性态.md",
     "408/哲学家进餐问题.md",
     "高等数学/二重积分.md",
@@ -264,10 +280,8 @@
     "高等数学/积分等式与积分不等式.md",
     "高等数学/凹凸函数的定义.md",
     "高等数学/联系不定积分与定积分.md",
-    "高等数学/定积分的精确定义.md",
     "高等数学/assets/常用泰勒公式",
     "408/assets/管程",
-    "assets/管程",
     "未命名.canvas"
   ]
 }
