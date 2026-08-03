@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "644eaa67a110b6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本分页存储管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基本分页存储管理"
+            }
+          },
+          {
             "id": "e4c2be34a32f3f5d",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "死锁的概念"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动态分区分配算法.md",
+                "file": "基本分页存储管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -235,8 +250,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3e23db963e95276",
+  "active": "644eaa67a110b6a2",
   "lastOpenFiles": [
+    "assets/基本分页存储管理/file-20260803180258828.png",
+    "assets/基本分页存储管理/file-20260803180231073.png",
+    "assets/基本分页存储管理",
+    "动态分区分配算法.md",
+    "基本分页存储管理.md",
     "assets/动态分区分配算法/file-20260803175949642.png",
     "assets/动态分区分配算法/file-20260803175839272.png",
     "assets/动态分区分配算法/file-20260803175531988.png",
@@ -244,13 +264,10 @@
     "assets/动态分区分配算法/file-20260803175020849.png",
     "assets/动态分区分配算法",
     "连续分配管理方式.md",
-    "动态分区分配算法.md",
     "assets/连续分配管理方式/file-20260803173436154.png",
     "assets/连续分配管理方式/file-20260803173223763.png",
     "assets/连续分配管理方式/file-20260803172954543.png",
     "assets/连续分配管理方式/file-20260803172856341.png",
-    "assets/连续分配管理方式/file-20260803172822349.png",
-    "assets/连续分配管理方式/file-20260803172653577.png",
     "内存的基础知识.md",
     "Excalidraw/Cache TLB的访存过程图.md",
     "内存保护.md",
@@ -277,12 +294,10 @@
     "高等数学/二重积分.md",
     "高等数学/渐近线.md",
     "assets/死锁的处理策略",
-    "assets/死锁的概念",
     "高等数学/泰勒公式.md",
     "高等数学/遇到函数与导函数组合在一起时.md",
     "高等数学/变限积分性质.md",
     "高等数学/定积分求面积,体积,弧长,平均值.md",
-    "高等数学/动区域上的二重积分.md",
     "未命名.canvas"
   ]
 }
