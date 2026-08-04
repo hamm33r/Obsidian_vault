@@ -35,7 +35,8 @@
               "title": "基本地址变换机构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/基本分页存储管理.md",
+                "file": "基本地址变换机构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -221,13 +222,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17fad4d3444bcf6d",
+  "active": "ff42dc9fc0840e20",
   "lastOpenFiles": [
-    "高等数学/函数的周期性.md",
+    "408/基本分页存储管理.md",
     "基本地址变换机构.md",
+    "高等数学/函数的周期性.md",
     "assets/基本地址变换机构/file-20260804231237368.png",
     "assets/基本地址变换机构",
-    "408/基本分页存储管理.md",
     "高等数学/曲率.md",
     "高等数学/求导公式.md",
     "高等数学/多元函数极值,最值.md",
