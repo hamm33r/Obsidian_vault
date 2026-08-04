@@ -35,7 +35,8 @@
               "title": "基本地址变换机构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/基本分页存储管理.md",
+                "file": "基本地址变换机构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -221,10 +222,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17fad4d3444bcf6d",
+  "active": "ff42dc9fc0840e20",
   "lastOpenFiles": [
-    "基本地址变换机构.md",
     "408/基本分页存储管理.md",
+    "基本地址变换机构.md",
+    "assets/基本地址变换机构/file-20260804233010201.png",
     "高等数学/函数的周期性.md",
     "assets/基本地址变换机构/file-20260804231237368.png",
     "assets/基本地址变换机构",
@@ -252,7 +254,6 @@
     "408/assets/基本分页存储管理/file-20260803205734567.png",
     "408/assets/基本分页存储管理/file-20260803205734572.png",
     "408/assets/基本分页存储管理/file-20260803205734573.png",
-    "408/assets/基本分页存储管理/file-20260803205734576.png",
     "408/动态分区分配算法.md",
     "408/数据的存储和排列.md",
     "线性代数/二次型的极值.md",
