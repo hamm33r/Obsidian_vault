@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/曲率.md",
+                "file": "高等数学/求导公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曲率"
+              "title": "求导公式"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "曲率",
+                "query": "求导",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/曲率.md",
+                "file": "高等数学/求导公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -253,6 +253,8 @@
   },
   "active": "9c117de991f85288",
   "lastOpenFiles": [
+    "高等数学/多元函数极值,最值.md",
+    "高等数学/曲率.md",
     "高等数学/泰勒公式.md",
     "高等数学/微分方程.md",
     "高等数学/渐近线.md",
@@ -297,8 +299,6 @@
     "408/进程的内存映像.md",
     "408/虚拟机.md",
     "408/死锁的处理策略.md",
-    "408/多生产者-多消费者问题.md",
-    "408/读者-写者问题.md",
     "未命名.canvas"
   ]
 }
