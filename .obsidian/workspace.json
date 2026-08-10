@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件的逻辑结构.md",
+                "file": "文件目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件的逻辑结构"
+              "title": "文件目录"
             }
           },
           {
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件的逻辑结构.md",
+                "file": "文件目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,8 +238,8 @@
   },
   "active": "de89a8bcdd13622d",
   "lastOpenFiles": [
-    "文件目录.md",
     "文件的逻辑结构.md",
+    "文件目录.md",
     "assets/文件目录/file-20260810211138225.png",
     "assets/文件目录/file-20260810210857172.png",
     "assets/文件目录/file-20260810205405267.png",
