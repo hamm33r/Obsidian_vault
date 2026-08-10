@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e9d357da8eb7e79",
+        "id": "aff8b4eb131092bf",
         "type": "tabs",
         "children": [
           {
-            "id": "e861c21eb92f8d36",
+            "id": "8c00ac8d5fecc4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "泰勒公式"
             }
+          },
+          {
+            "id": "de89a8bcdd13622d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文件的逻辑结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文件的逻辑结构"
+            }
+          },
+          {
+            "id": "6f52b8d93e899f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/求导公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求导公式"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "求导",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -125,9 +154,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/泰勒公式.md",
+                "file": "408/页面分配策略.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "出链"
@@ -168,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408错题.md",
+                "file": "文件的逻辑结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "408错题 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,54 +236,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e861c21eb92f8d36",
+  "active": "de89a8bcdd13622d",
   "lastOpenFiles": [
-    "408/assets/基本地址变换机构",
-    "408/基本分页存储管理.md",
-    "408/基本地址变换机构.md",
-    "408/assets/基本地址变换机构/file-20260805164408153.png",
-    "408/assets/基本地址变换机构/file-20260805164408147.png",
-    "408/assets/基本地址变换机构/file-20260805164408143.png",
-    "408/assets/基本地址变换机构/file-20260805164408149.png",
-    "未命名.md",
-    "408/assets/基本地址变换机构/file-20260805164408171.png",
-    "408/虚拟存储器.md",
-    "408/assets/基本分页存储管理/file-20260804234226663.png",
-    "408/assets/基本地址变换机构/file-20260805164408173.png",
-    "408/assets/基本地址变换机构/file-20260805164408176.png",
-    "高等数学/函数的周期性.md",
-    "408/assets/基本地址变换机构/file-20260805164408168.png",
-    "assets/基本地址变换机构",
-    "高等数学/曲率.md",
-    "高等数学/求导公式.md",
-    "高等数学/多元函数极值,最值.md",
+    "assets/文件的逻辑结构/file-20260810201345721.png",
+    "assets/文件的逻辑结构",
     "高等数学/泰勒公式.md",
-    "高等数学/微分方程.md",
-    "高等数学/渐近线.md",
-    "高等数学/区间再现公式.md",
+    "文件的逻辑结构.md",
+    "高等数学/求导公式.md",
+    "高等数学/大观.md",
+    "高等数学/常用泰勒公式.md",
+    "408/页面置换算法.md",
+    "高等数学/有理函数的积分.md",
+    "文件系统基础.md",
+    "assets/文件系统基础/file-20260808191959407.png",
+    "assets/文件系统基础/file-20260808191924198.png",
+    "assets/文件系统基础/file-20260808191851784.png",
+    "assets/文件系统基础/file-20260808191830781.png",
+    "assets/文件系统基础/file-20260808191740113.png",
+    "assets/文件系统基础/file-20260808191618190.png",
+    "assets/文件系统基础",
+    "408/assets/页面置换算法/file-20260808183715394.png",
+    "408/页面分配策略.md",
+    "408/虚拟内存基本概念.md",
+    "408/可重入程序.md",
+    "408/基本分段存储管理.md",
+    "408/段页式管理方式.md",
+    "408/请求分页管理方式.md",
+    "408/内存映射文件.md",
+    "408/assets/页面置换算法/file-20260808180427400.png",
+    "408/assets/请求分页管理方式/file-20260808175802045.png",
+    "408/assets/请求分页管理方式/file-20260808175209795.png",
+    "408/两级页表.md",
+    "assets/两级页表/两级页表地址变换图.md",
+    "408/基本分页存储管理.md",
     "高等数学/基本积分公式.md",
-    "408/assets/基本分页存储管理",
-    "408/assets/动态分区分配算法",
-    "408/assets/连续分配管理方式",
-    "408/assets/进程的内存映像",
-    "408/assets/内存保护",
-    "408/assets/内存的基础知识",
-    "408/assets/死锁的处理策略",
-    "408/assets/死锁的概念",
-    "408/assets/基本分页存储管理/file-20260803205734546.png",
-    "408/动态分区分配算法.md",
-    "408/数据的存储和排列.md",
-    "线性代数/二次型的极值.md",
-    "408/存储器基本的半导体元件及原理.md",
-    "408/处理器指令执行模型.md",
-    "Excalidraw/凹曲线图.md",
-    "408/assets/连续分配管理方式/file-20260803205732021.md",
-    "Excalidraw/三种缺失图.md",
-    "408/内存保护.md",
-    "assets/基本分页存储管理",
-    "408/连续分配管理方式.md",
-    "408/内存的基础知识.md",
+    "408/定点数的加减运算溢出判别.md",
+    "Excalidraw/主存层次图.md",
     "Excalidraw/Cache TLB的访存过程图.md",
+    "408/带标志位加法器（加减运算部件）.md",
+    "408/数字电路.md",
+    "408/算术逻辑单元（ALU）.md",
+    "408/assets/内存映射文件",
+    "408/assets/页面分配策略",
+    "408/assets/页面置换算法",
+    "408/assets/请求分页管理方式",
+    "408/assets/虚拟内存基本概念",
+    "408/assets/可重入程序",
+    "assets/内存映射文件",
+    "assets/页面分配策略",
     "未命名.canvas"
   ]
 }
