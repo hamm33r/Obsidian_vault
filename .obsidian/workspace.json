@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "d593492cfd8235d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逻辑结构对比物理结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逻辑结构对比物理结构"
+            }
+          },
+          {
             "id": "6f52b8d93e899f47",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件的物理结构.md",
+                "file": "逻辑结构对比物理结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,8 +264,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25acb8f192518e80",
+  "active": "d593492cfd8235d1",
   "lastOpenFiles": [
+    "assets/逻辑结构对比物理结构/file-20260811175545349.png",
+    "assets/逻辑结构对比物理结构/file-20260811175342487.png",
+    "assets/逻辑结构对比物理结构/file-20260811175241935.png",
+    "assets/逻辑结构对比物理结构/file-20260811175214356.png",
+    "assets/逻辑结构对比物理结构",
+    "文件的物理结构.md",
+    "逻辑结构对比物理结构.md",
     "assets/文件的物理结构/file-20260811172630437.png",
     "assets/文件的物理结构/file-20260811172516009.png",
     "assets/文件的物理结构/file-20260811172322804.png",
@@ -259,13 +280,8 @@
     "assets/文件的物理结构/file-20260811171702924.png",
     "assets/文件的物理结构/file-20260811171347821.png",
     "assets/文件的物理结构/file-20260811171244368.png",
-    "assets/文件的物理结构/file-20260811171026637.png",
-    "assets/文件的物理结构/file-20260811170314084.png",
-    "assets/文件的物理结构/file-20260811165540337.png",
-    "assets/文件的物理结构/file-20260811165154417.png",
     "文件的逻辑结构.md",
     "文件目录.md",
-    "文件的物理结构.md",
     "assets/文件的物理结构",
     "文件系统基础.md",
     "assets/文件目录",
@@ -291,13 +307,11 @@
     "408/定点数的加减运算溢出判别.md",
     "Excalidraw/主存层次图.md",
     "Excalidraw/Cache TLB的访存过程图.md",
-    "408/带标志位加法器（加减运算部件）.md",
     "408/assets/内存映射文件",
     "408/assets/页面分配策略",
     "408/assets/页面置换算法",
     "408/assets/请求分页管理方式",
     "408/assets/虚拟内存基本概念",
-    "408/assets/可重入程序",
     "未命名.canvas"
   ]
 }
