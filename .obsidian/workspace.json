@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件目录.md",
+                "file": "408/文件目录.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件的物理结构.md",
+                "file": "408/文件的物理结构.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑结构对比物理结构.md",
+                "file": "408/逻辑结构对比物理结构.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件存储空间管理.md",
+                "file": "高等数学/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件存储空间管理"
+              "title": "泰勒公式"
             }
           },
           {
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件存储空间管理.md",
+                "file": "高等数学/泰勒公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -280,35 +280,38 @@
   },
   "active": "2edf989a165baf56",
   "lastOpenFiles": [
-    "assets/文件存储空间管理/file-20260811190746207.png",
-    "assets/文件存储空间管理/file-20260811184844700.png",
-    "assets/文件存储空间管理/file-20260811184825063.png",
-    "assets/文件存储空间管理/file-20260811184612911.png",
-    "assets/文件存储空间管理/file-20260811184505652.png",
-    "assets/文件存储空间管理/file-20260811184415852.png",
-    "assets/文件存储空间管理/file-20260811184344957.png",
-    "assets/文件存储空间管理/file-20260811183750228.png",
-    "assets/文件存储空间管理/file-20260811183700211.png",
-    "assets/文件存储空间管理/file-20260811183505507.png",
-    "assets/文件存储空间管理/file-20260811183122631.png",
+    "408/文件存储空间管理.md",
+    "408/assets/文件存储空间管理",
+    "408/assets/逻辑结构对比物理结构",
+    "408/assets/文件的物理结构",
+    "408/assets/文件目录",
+    "408/assets/文件的逻辑结构",
+    "408/assets/文件系统基础",
+    "408/逻辑结构对比物理结构.md",
+    "408/文件的物理结构.md",
+    "408/文件目录.md",
+    "408/文件的逻辑结构.md",
+    "408/文件系统基础.md",
+    "408/assets/文件存储空间管理/file-20260811191854388.png",
+    "408/assets/文件存储空间管理/file-20260811191854389.png",
+    "408/assets/文件存储空间管理/file-20260811191854414.png",
+    "408/assets/文件存储空间管理/file-20260811191854415.png",
+    "408/assets/文件存储空间管理/file-20260811191854416.png",
+    "408/assets/文件存储空间管理/file-20260811191854417.png",
+    "408/assets/文件存储空间管理/file-20260811191854418.png",
+    "408/assets/文件存储空间管理/file-20260811191854419.png",
+    "408/assets/文件存储空间管理/file-20260811191854420.png",
+    "408/assets/文件存储空间管理/file-20260811191854422.png",
     "assets/文件存储空间管理",
-    "逻辑结构对比物理结构.md",
-    "文件存储空间管理.md",
-    "文件的逻辑结构.md",
-    "文件系统基础.md",
-    "文件目录.md",
-    "文件的物理结构.md",
     "assets/逻辑结构对比物理结构",
     "assets/文件的物理结构",
     "assets/文件目录",
-    "assets/文件的逻辑结构",
     "高等数学/泰勒公式.md",
     "高等数学/求导公式.md",
     "高等数学/大观.md",
     "高等数学/常用泰勒公式.md",
     "408/页面置换算法.md",
     "高等数学/有理函数的积分.md",
-    "assets/文件系统基础",
     "408/页面分配策略.md",
     "408/虚拟内存基本概念.md",
     "408/可重入程序.md",
@@ -322,10 +325,6 @@
     "高等数学/基本积分公式.md",
     "408/定点数的加减运算溢出判别.md",
     "Excalidraw/主存层次图.md",
-    "408/assets/内存映射文件",
-    "408/assets/页面分配策略",
-    "408/assets/页面置换算法",
-    "408/assets/请求分页管理方式",
     "未命名.canvas"
   ]
 }
