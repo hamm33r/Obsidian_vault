@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "求导",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -294,8 +294,9 @@
   },
   "active": "2edf989a165baf56",
   "lastOpenFiles": [
-    "高等数学/求导公式.md",
+    "高等数学/曲率.md",
     "高等数学/泰勒公式.md",
+    "高等数学/求导公式.md",
     "408/文件存储空间管理.md",
     "408/assets/文件存储空间管理",
     "408/assets/逻辑结构对比物理结构",
