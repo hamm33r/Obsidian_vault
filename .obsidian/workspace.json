@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/文件的物理结构.md",
+                "file": "408/文件的基本操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件的物理结构"
+              "title": "文件的基本操作"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/文件的物理结构.md",
+                "file": "408/文件的基本操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,8 +209,8 @@
   },
   "active": "72acc71d0637176d",
   "lastOpenFiles": [
-    "408/文件的逻辑结构.md",
     "408/文件的物理结构.md",
+    "408/文件的逻辑结构.md",
     "408/逻辑结构对比物理结构.md",
     "408/文件的基本操作.md",
     "408/文件存储空间管理.md",
