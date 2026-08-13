@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/文件目录.md",
+                "file": "文件共享.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件目录"
+              "title": "文件共享"
             }
           },
           {
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/文件目录.md",
+                "file": "文件共享.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,12 +336,13 @@
   },
   "active": "8384765306d6ca75",
   "lastOpenFiles": [
+    "文件的基本操作.md",
+    "408/文件目录.md",
     "408/文件的逻辑结构.md",
     "文件共享.md",
     "assets/文件共享/file-20260813162627407.png",
     "assets/文件共享/file-20260813162605596.png",
     "assets/文件共享",
-    "文件的基本操作.md",
     "assets/文件的基本操作/file-20260813160451327.png",
     "assets/文件的基本操作/file-20260813160300811.png",
     "assets/文件的基本操作/file-20260813160148121.png",
@@ -366,7 +367,6 @@
     "408/assets/文件系统基础",
     "408/逻辑结构对比物理结构.md",
     "408/文件的物理结构.md",
-    "408/文件目录.md",
     "408/文件系统基础.md",
     "assets/文件存储空间管理",
     "assets/逻辑结构对比物理结构",
