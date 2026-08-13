@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/文件的逻辑结构.md",
+                "file": "408/文件目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件的逻辑结构"
+              "title": "文件目录"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/求导公式.md",
+                "file": "408/文件目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求导公式"
+              "title": "文件目录"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/文件的逻辑结构.md",
+                "file": "408/文件目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -348,10 +348,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b2fb3181abab4d27",
+  "active": "be10901a37a28d0b",
   "lastOpenFiles": [
-    "408/文件目录.md",
     "408/文件的逻辑结构.md",
+    "408/文件共享.md",
+    "408/文件的基本操作.md",
+    "408/文件的物理结构.md",
+    "高等数学/求导公式.md",
+    "408/文件目录.md",
+    "408/逻辑结构对比物理结构.md",
     "408/文件系统基础.md",
     "408/内存映射文件.md",
     "408/页面分配策略.md",
@@ -365,10 +370,8 @@
     "408/assets/文件保护/file-20260813165101514.png",
     "408/assets/文件保护/file-20260813165101515.png",
     "assets/文件保护",
-    "408/文件共享.md",
     "408/assets/文件共享/file-20260813165100575.png",
     "408/assets/文件共享/file-20260813165100577.png",
-    "408/文件的基本操作.md",
     "408/assets/文件共享/file-20260813165100594.png",
     "408/assets/文件共享/file-20260813165100595.png",
     "assets/文件共享",
@@ -380,13 +383,10 @@
     "高等数学/定积分求面积,体积,弧长,平均值.md",
     "高等数学/泰勒公式.md",
     "高等数学/曲率.md",
-    "高等数学/求导公式.md",
     "408/assets/文件存储空间管理",
     "408/assets/逻辑结构对比物理结构",
     "408/assets/文件的物理结构",
     "408/assets/文件目录",
-    "408/逻辑结构对比物理结构.md",
-    "408/文件的物理结构.md",
     "高等数学/大观.md",
     "高等数学/常用泰勒公式.md",
     "408/页面置换算法.md",
