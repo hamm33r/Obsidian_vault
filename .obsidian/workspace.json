@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设备的分配与回收.md",
+                "file": "缓冲区管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "设备的分配与回收"
+              "title": "缓冲区管理"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设备的分配与回收.md",
+                "file": "缓冲区管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,12 +266,13 @@
   },
   "active": "dc6374c4a0cac900",
   "lastOpenFiles": [
+    "IO设备的概念和分类.md",
+    "设备的分配与回收.md",
     "假脱机技术.md",
     "IO核心子系统.md",
     "输入输出应用程序接口和驱动程序接口.md",
     "IO软件层次结构.md",
     "IO控制方式（操作系统）.md",
-    "设备的分配与回收.md",
     "缓冲区管理.md",
     "IO控制器.md",
     "assets/缓冲区管理/file-20260816182324919.png",
@@ -287,7 +288,6 @@
     "assets/缓冲区管理",
     "408/死锁的处理策略.md",
     "408/临界资源.md",
-    "IO设备的概念和分类.md",
     "408/文件目录.md",
     "408/文件的逻辑结构.md",
     "408/文件的物理结构.md",
