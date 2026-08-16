@@ -5,7 +5,7 @@ tags:
 ![](assets/IO控制方式/file-20260605171721857.png)
 ![](assets/IO控制方式/file-20260605171721839.png)
 
-# DMA控制方式
+# [DMA方式](DMA方式.md)
 
 ![](assets/IO控制方式/file-20260605171721840.png)
 >DMA也是一种I/O接口
