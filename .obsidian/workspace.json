@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/大观.md",
+                "file": "高等数学/定积分求值积累.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大观"
+              "title": "定积分求值积累"
+            }
+          },
+          {
+            "id": "02bac0eab2937f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/区间再现公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区间再现公式"
+            }
+          },
+          {
+            "id": "83060b75819887a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/分部积分法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分部积分法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e的x",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -168,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/大观.md",
+                "file": "高等数学/区间再现公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,8 +236,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd80d7f65811fdb7",
+  "active": "02bac0eab2937f3b",
   "lastOpenFiles": [
+    "高等数学/定积分求值积累.md",
+    "高等数学/分部积分法.md",
+    "高等数学/基本积分公式.md",
+    "高等数学/大观.md",
     "408/设备的分配与回收.md",
     "408/assets/缓冲区管理",
     "408/assets/设备的分配与回收",
@@ -251,9 +284,6 @@
     "408/虚拟文件系统和文件系统挂载.md",
     "408/文件的基本操作.md",
     "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
-    "408/死锁的概念.md",
-    "408/内存的基础知识.md",
-    "408/基本分页存储管理.md",
     "未命名.canvas"
   ]
 }
