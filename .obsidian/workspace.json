@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "缓冲区管理.md",
+                "file": "设备的分配与回收.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "缓冲区管理"
+              "title": "设备的分配与回收"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "缓冲区管理.md",
+                "file": "设备的分配与回收.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,6 +266,14 @@
   },
   "active": "dc6374c4a0cac900",
   "lastOpenFiles": [
+    "假脱机技术.md",
+    "IO核心子系统.md",
+    "输入输出应用程序接口和驱动程序接口.md",
+    "IO软件层次结构.md",
+    "IO控制方式（操作系统）.md",
+    "设备的分配与回收.md",
+    "缓冲区管理.md",
+    "IO控制器.md",
     "assets/缓冲区管理/file-20260816182324919.png",
     "assets/缓冲区管理/file-20260816182256503.png",
     "assets/缓冲区管理/file-20260816182223204.png",
@@ -276,17 +284,9 @@
     "assets/缓冲区管理/file-20260816181606255.png",
     "assets/缓冲区管理/file-20260816181550711.png",
     "assets/缓冲区管理/file-20260816181415451.png",
-    "assets/缓冲区管理/file-20260816181233792.png",
     "assets/缓冲区管理",
     "408/死锁的处理策略.md",
-    "缓冲区管理.md",
     "408/临界资源.md",
-    "设备的分配与回收.md",
-    "IO软件层次结构.md",
-    "输入输出应用程序接口和驱动程序接口.md",
-    "IO核心子系统.md",
-    "IO控制方式（操作系统）.md",
-    "IO控制器.md",
     "IO设备的概念和分类.md",
     "408/文件目录.md",
     "408/文件的逻辑结构.md",
@@ -300,7 +300,6 @@
     "408/文件的基本操作.md",
     "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
     "assets/设备的分配与回收",
-    "假脱机技术.md",
     "assets/假脱机技术",
     "assets/IO核心子系统",
     "408/死锁的概念.md",
