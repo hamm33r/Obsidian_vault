@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "缓冲区管理.md",
+                "file": "假脱机技术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "缓冲区管理"
+              "title": "假脱机技术"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "缓冲区管理.md",
+                "file": "假脱机技术.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,6 +266,7 @@
   },
   "active": "dc6374c4a0cac900",
   "lastOpenFiles": [
+    "缓冲区管理.md",
     "IO设备的概念和分类.md",
     "设备的分配与回收.md",
     "假脱机技术.md",
@@ -273,7 +274,6 @@
     "输入输出应用程序接口和驱动程序接口.md",
     "IO软件层次结构.md",
     "IO控制方式（操作系统）.md",
-    "缓冲区管理.md",
     "IO控制器.md",
     "assets/缓冲区管理/file-20260816182324919.png",
     "assets/缓冲区管理/file-20260816182256503.png",
