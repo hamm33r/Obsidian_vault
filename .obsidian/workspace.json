@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a13384b7bfbf1a70",
+            "id": "9748591604cb1998",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "IO控制方式（操作系统）"
-            }
-          },
-          {
-            "id": "f3d2b276d9271fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/IO控制方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO控制方式"
-            }
-          },
-          {
-            "id": "9748591604cb1998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/IO方式（计组）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO方式（计组）"
             }
           },
           {
@@ -63,8 +35,7 @@
               "title": "DMA方式"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,8 +100,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/IO方式（计组）.md",
+                "file": "IO控制方式（操作系统）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,9 +223,12 @@
   },
   "active": "9748591604cb1998",
   "lastOpenFiles": [
-    "408/IO控制方式.md",
-    "408/IO方式（计组）.md",
+    "assets/IO控制方式（操作系统）/file-20260816143812877.png",
+    "IO控制器.md",
     "IO控制方式（操作系统）.md",
+    "().md",
+    "408/IO方式（计组）.md",
+    "408/IO控制方式.md",
     "assets/IO控制方式（操作系统）/file-20260816143221521.png",
     "408/DMA方式.md",
     "IO设备的概念和分类.md",
@@ -268,7 +241,6 @@
     "assets/IO控制方式（操作系统）",
     "408/assets/IO方式（计组）",
     "408/IO接口.md",
-    "IO控制器.md",
     "assets/IO控制器/file-20260816002655777.png",
     "assets/IO控制器/file-20260816002605541.png",
     "assets/IO控制器/file-20260816002435700.png",
@@ -296,8 +268,6 @@
     "高等数学/泰勒公式.md",
     "高等数学/ln不等式.md",
     "高等数学/证明函数根存在性的问题（微分等式）.md",
-    "高等数学/微分不等式.md",
-    "高等数学/连续不等式题目的思考方向.md",
     "408/assets/文件保护",
     "未命名.canvas"
   ]
