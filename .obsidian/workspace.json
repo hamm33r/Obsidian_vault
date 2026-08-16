@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "dc6374c4a0cac900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缓冲区管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "缓冲区管理"
+            }
+          },
+          {
             "id": "465d7862d27c3a32",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,8 +143,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/死锁的处理策略.md",
+                "file": "缓冲区管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,8 +264,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e792304d7c21c7aa",
+  "active": "dc6374c4a0cac900",
   "lastOpenFiles": [
+    "assets/缓冲区管理/file-20260816180353481.png",
+    "assets/缓冲区管理",
+    "408/死锁的处理策略.md",
+    "缓冲区管理.md",
     "408/临界资源.md",
     "设备的分配与回收.md",
     "assets/设备的分配与回收/file-20260816175249795.png",
@@ -281,7 +298,6 @@
     "assets/设备的分配与回收/file-20260816173824825.png",
     "assets/设备的分配与回收/file-20260816173823933.png",
     "assets/设备的分配与回收/file-20260816173727574.png",
-    "408/死锁的处理策略.md",
     "assets/设备的分配与回收/file-20260816173133871.png",
     "assets/设备的分配与回收",
     "假脱机技术.md",
@@ -290,15 +306,12 @@
     "408/死锁的概念.md",
     "408/内存的基础知识.md",
     "408/基本分页存储管理.md",
-    "408/动态分区分配算法.md",
-    "408/连续分配管理方式.md",
     "assets/输入输出应用程序接口和驱动程序接口",
     "assets/IO软件层次结构",
     "assets/IO控制方式（操作系统）",
     "408/assets/IO方式（计组）",
     "assets/IO控制器",
     "assets/IO设备的概念和分类",
-    "408/assets/虚拟文件系统和文件系统挂载",
     "未命名.canvas"
   ]
 }
