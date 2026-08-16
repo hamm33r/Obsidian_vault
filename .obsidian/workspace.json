@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "408/文件存储空间管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文件存储空间管理"
+            }
+          },
+          {
+            "id": "465d7862d27c3a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "设备的分配与回收.md",
                 "mode": "source",
                 "source": false
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,15 +236,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "695dbe19815c04d7",
+  "active": "465d7862d27c3a32",
   "lastOpenFiles": [
+    "assets/设备的分配与回收/file-20260816174757479.png",
+    "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
+    "408/文件存储空间管理.md",
+    "设备的分配与回收.md",
+    "assets/设备的分配与回收/file-20260816174320277.png",
     "assets/设备的分配与回收/file-20260816174025034.png",
     "assets/设备的分配与回收/file-20260816173925040.png",
     "assets/设备的分配与回收/file-20260816173824825.png",
     "assets/设备的分配与回收/file-20260816173823933.png",
     "assets/设备的分配与回收/file-20260816173727574.png",
     "408/死锁的处理策略.md",
-    "设备的分配与回收.md",
     "IO控制方式（操作系统）.md",
     "assets/设备的分配与回收/file-20260816173133871.png",
     "assets/设备的分配与回收/file-20260816172917592.png",
@@ -238,8 +256,6 @@
     "assets/设备的分配与回收",
     "假脱机技术.md",
     "assets/假脱机技术/file-20260816172657953.png",
-    "assets/假脱机技术/file-20260816172614463.png",
-    "assets/假脱机技术/file-20260816172525805.png",
     "assets/假脱机技术",
     "IO核心子系统.md",
     "assets/IO核心子系统",
@@ -264,11 +280,9 @@
     "408/IO接口.md",
     "assets/IO控制器",
     "assets/IO设备的概念和分类",
-    "408/文件存储空间管理.md",
     "408/文件的基本操作.md",
     "408/文件的物理结构.md",
     "408/逻辑结构对比物理结构.md",
-    "408/文件系统布局.md",
     "408/assets/虚拟文件系统和文件系统挂载",
     "未命名.canvas"
   ]
