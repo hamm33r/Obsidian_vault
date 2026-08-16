@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +95,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设备的分配与回收.md",
+                "file": "408/文件存储空间管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -236,12 +236,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "465d7862d27c3a32",
+  "active": "695dbe19815c04d7",
   "lastOpenFiles": [
-    "assets/设备的分配与回收/file-20260816174757479.png",
-    "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
+    "408/逻辑结构对比物理结构.md",
+    "408/文件共享.md",
+    "408/文件保护.md",
+    "408/文件系统布局.md",
+    "408/虚拟文件系统和文件系统挂载.md",
+    "输入输出应用程序接口和驱动程序接口.md",
+    "IO核心子系统.md",
+    "IO软件层次结构.md",
+    "IO控制方式（操作系统）.md",
+    "IO控制器.md",
+    "IO设备的概念和分类.md",
+    "408/文件的基本操作.md",
     "408/文件存储空间管理.md",
     "设备的分配与回收.md",
+    "assets/设备的分配与回收/file-20260816174922726.png",
+    "assets/设备的分配与回收/file-20260816174757479.png",
+    "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
     "assets/设备的分配与回收/file-20260816174320277.png",
     "assets/设备的分配与回收/file-20260816174025034.png",
     "assets/设备的分配与回收/file-20260816173925040.png",
@@ -249,20 +262,12 @@
     "assets/设备的分配与回收/file-20260816173823933.png",
     "assets/设备的分配与回收/file-20260816173727574.png",
     "408/死锁的处理策略.md",
-    "IO控制方式（操作系统）.md",
     "assets/设备的分配与回收/file-20260816173133871.png",
     "assets/设备的分配与回收/file-20260816172917592.png",
-    "assets/设备的分配与回收/file-20260816172855605.png",
     "assets/设备的分配与回收",
     "假脱机技术.md",
-    "assets/假脱机技术/file-20260816172657953.png",
     "assets/假脱机技术",
-    "IO核心子系统.md",
     "assets/IO核心子系统",
-    "IO软件层次结构.md",
-    "输入输出应用程序接口和驱动程序接口.md",
-    "IO控制器.md",
-    "IO设备的概念和分类.md",
     "408/死锁的概念.md",
     "408/内存的基础知识.md",
     "408/基本分页存储管理.md",
@@ -274,15 +279,10 @@
     "().md",
     "408/IO方式（计组）.md",
     "408/IO控制方式.md",
-    "408/DMA方式.md",
     "assets/IO控制方式（操作系统）",
     "408/assets/IO方式（计组）",
-    "408/IO接口.md",
     "assets/IO控制器",
     "assets/IO设备的概念和分类",
-    "408/文件的基本操作.md",
-    "408/文件的物理结构.md",
-    "408/逻辑结构对比物理结构.md",
     "408/assets/虚拟文件系统和文件系统挂载",
     "未命名.canvas"
   ]
