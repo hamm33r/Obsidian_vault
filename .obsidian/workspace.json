@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae7cd4f9f242108",
+        "id": "d349e589175cd78e",
         "type": "tabs",
         "children": [
           {
-            "id": "c71adb529b871b1b",
+            "id": "dd80d7f65811fdb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/死锁的处理策略.md",
+                "file": "高等数学/大观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "死锁的处理策略"
-            }
-          },
-          {
-            "id": "695dbe19815c04d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "设备的分配与回收.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "设备的分配与回收"
-            }
-          },
-          {
-            "id": "e792304d7c21c7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/死锁的处理策略.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "死锁的处理策略"
-            }
-          },
-          {
-            "id": "dc6374c4a0cac900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "假脱机技术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "假脱机技术"
-            }
-          },
-          {
-            "id": "465d7862d27c3a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "设备的分配与回收.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "设备的分配与回收"
+              "title": "大观"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "银行家",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -225,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "假脱机技术.md",
+                "file": "高等数学/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,27 +207,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dc6374c4a0cac900",
+  "active": "dd80d7f65811fdb7",
   "lastOpenFiles": [
-    "缓冲区管理.md",
-    "IO设备的概念和分类.md",
-    "设备的分配与回收.md",
-    "假脱机技术.md",
-    "IO核心子系统.md",
-    "输入输出应用程序接口和驱动程序接口.md",
-    "IO软件层次结构.md",
-    "IO控制方式（操作系统）.md",
-    "IO控制器.md",
-    "assets/缓冲区管理/file-20260816182324919.png",
-    "assets/缓冲区管理/file-20260816182256503.png",
-    "assets/缓冲区管理/file-20260816182223204.png",
-    "assets/缓冲区管理/file-20260816182136488.png",
-    "assets/缓冲区管理/file-20260816181855574.png",
-    "assets/缓冲区管理/file-20260816181812053.png",
-    "assets/缓冲区管理/file-20260816181639087.png",
-    "assets/缓冲区管理/file-20260816181606255.png",
-    "assets/缓冲区管理/file-20260816181550711.png",
-    "assets/缓冲区管理/file-20260816181415451.png",
+    "408/设备的分配与回收.md",
+    "408/assets/缓冲区管理",
+    "408/assets/设备的分配与回收",
+    "408/assets/假脱机技术",
+    "408/assets/IO核心子系统",
+    "408/assets/输入输出应用程序接口和驱动程序接口",
+    "408/assets/IO软件层次结构",
+    "408/assets/IO控制方式（操作系统）",
+    "408/assets/IO控制器",
+    "408/assets/IO设备的概念和分类",
+    "408/假脱机技术.md",
+    "408/缓冲区管理.md",
+    "408/IO设备的概念和分类.md",
+    "408/IO核心子系统.md",
+    "408/输入输出应用程序接口和驱动程序接口.md",
+    "408/IO软件层次结构.md",
+    "408/IO控制方式（操作系统）.md",
+    "408/IO控制器.md",
+    "408/assets/缓冲区管理/file-20260816222347964.png",
+    "408/assets/缓冲区管理/file-20260816222347967.png",
+    "408/assets/缓冲区管理/file-20260816222347970.png",
+    "408/assets/缓冲区管理/file-20260816222347974.png",
+    "408/assets/缓冲区管理/file-20260816222347985.png",
+    "408/assets/缓冲区管理/file-20260816222347987.png",
+    "408/assets/缓冲区管理/file-20260816222347988.png",
+    "408/assets/缓冲区管理/file-20260816222347990.png",
+    "408/assets/缓冲区管理/file-20260816222347992.png",
+    "408/assets/缓冲区管理/file-20260816222347994.png",
     "assets/缓冲区管理",
     "408/死锁的处理策略.md",
     "408/临界资源.md",
@@ -299,18 +251,9 @@
     "408/虚拟文件系统和文件系统挂载.md",
     "408/文件的基本操作.md",
     "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
-    "assets/设备的分配与回收",
-    "assets/假脱机技术",
-    "assets/IO核心子系统",
     "408/死锁的概念.md",
     "408/内存的基础知识.md",
     "408/基本分页存储管理.md",
-    "assets/输入输出应用程序接口和驱动程序接口",
-    "assets/IO软件层次结构",
-    "assets/IO控制方式（操作系统）",
-    "408/assets/IO方式（计组）",
-    "assets/IO控制器",
-    "assets/IO设备的概念和分类",
     "未命名.canvas"
   ]
 }
