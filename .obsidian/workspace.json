@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO控制器.md",
+                "file": "IO控制方式（操作系统）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO控制器"
+              "title": "IO控制方式（操作系统）"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "引导",
+                "query": "IO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -199,7 +199,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -281,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO控制器.md",
+                "file": "IO控制方式（操作系统）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,6 +323,11 @@
   },
   "active": "a13384b7bfbf1a70",
   "lastOpenFiles": [
+    "408/IO方式（计组）.md",
+    "IO控制方式（操作系统）.md",
+    "408/assets/IO方式（计组）",
+    "408/IO接口.md",
+    "IO控制器.md",
     "assets/IO控制器/file-20260816002655777.png",
     "assets/IO控制器/file-20260816002605541.png",
     "assets/IO控制器/file-20260816002435700.png",
@@ -329,7 +335,6 @@
     "assets/IO控制器/file-20260816001933485.png",
     "assets/IO控制器",
     "IO设备的概念和分类.md",
-    "IO控制器.md",
     "assets/IO设备的概念和分类/file-20260816000645951.png",
     "assets/IO设备的概念和分类/file-20260816000533791.png",
     "assets/IO设备的概念和分类/file-20260816000526279.png",
@@ -337,7 +342,6 @@
     "assets/IO设备的概念和分类",
     "408/文件存储空间管理.md",
     "408/assets/文件存储空间管理/file-20260815235701565.png",
-    "408/assets/文件存储空间管理/file-20260815233718585.png",
     "408/文件的基本操作.md",
     "408/文件的物理结构.md",
     "408/逻辑结构对比物理结构.md",
@@ -363,11 +367,8 @@
     "高等数学/连续不等式题目的思考方向.md",
     "高等数学/变限积分性质.md",
     "408/文件保护.md",
-    "高等数学/常用凑微分公式.md",
-    "高等数学/求导公式.md",
     "408/assets/文件保护",
     "408/assets/文件共享",
-    "408/assets/文件的基本操作",
     "未命名.canvas"
   ]
 }
