@@ -239,8 +239,9 @@
   },
   "active": "fcaf590802add8d1",
   "lastOpenFiles": [
-    "408/IO方式（计组）.md",
     "IO控制方式（操作系统）.md",
+    "408/IO方式（计组）.md",
+    "408/DMA方式.md",
     "IO设备的概念和分类.md",
     "assets/IO控制方式（操作系统）/file-20260816142556560.png",
     "assets/IO控制方式（操作系统）/file-20260816142323216.png",
