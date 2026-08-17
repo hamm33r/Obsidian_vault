@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/IO软件层次结构.md",
+                "file": "408/IO控制方式（操作系统）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO软件层次结构"
+              "title": "IO控制方式（操作系统）"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/IO软件层次结构.md",
+                "file": "408/IO控制方式（操作系统）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,15 +255,16 @@
   },
   "active": "37e4b95199b34002",
   "lastOpenFiles": [
-    "408/assets/IO软件层次结构/file-20260817230506529.png",
+    "408/assets/IO控制方式（操作系统）/file-20260818000357398.png",
+    "408/IO控制器.md",
+    "408/IO软件层次结构.md",
     "408/输入输出应用程序接口和驱动程序接口.md",
     "408/IO控制方式（操作系统）.md",
-    "408/IO软件层次结构.md",
+    "408/assets/IO软件层次结构/file-20260817230506529.png",
     "408/IO核心子系统.md",
     "408/假脱机技术.md",
     "408/IO设备的概念和分类.md",
     "408/设备的分配与回收.md",
-    "408/IO控制器.md",
     "408/虚拟文件系统和文件系统挂载.md",
     "408/缓冲区管理.md",
     "408/硬布线控制器.md",
@@ -294,7 +295,6 @@
     "408/assets/缓冲区管理/file-20260816222347988.png",
     "408/assets/缓冲区管理/file-20260816222347990.png",
     "408/assets/缓冲区管理/file-20260816222347992.png",
-    "408/assets/缓冲区管理/file-20260816222347994.png",
     "assets/缓冲区管理",
     "408/死锁的处理策略.md",
     "408/临界资源.md",
