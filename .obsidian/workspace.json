@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/大观.md",
+                "file": "408/IO软件层次结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大观"
+              "title": "IO软件层次结构"
             }
           },
           {
@@ -97,7 +97,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -108,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "存储器",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,8 +132,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/大观.md",
+                "file": "408/IO软件层次结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,15 +253,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "37e4b95199b34002",
   "lastOpenFiles": [
+    "408/输入输出应用程序接口和驱动程序接口.md",
+    "408/IO控制方式（操作系统）.md",
+    "408/IO软件层次结构.md",
+    "408/IO核心子系统.md",
+    "408/假脱机技术.md",
+    "408/IO设备的概念和分类.md",
+    "408/设备的分配与回收.md",
+    "408/IO控制器.md",
+    "408/虚拟文件系统和文件系统挂载.md",
+    "408/缓冲区管理.md",
+    "408/硬布线控制器.md",
+    "408/虚拟存储器.md",
+    "408/多体并行存储器.md",
+    "408/存储器基本的半导体元件及原理.md",
+    "高等数学/大观.md",
     "高等数学/基本积分公式.md",
     "高等数学/区间再现公式.md",
-    "高等数学/大观.md",
     "高等数学/求不定积分时的思路.md",
     "高等数学/定积分求值积累.md",
     "高等数学/分部积分法.md",
-    "408/设备的分配与回收.md",
     "408/assets/缓冲区管理",
     "408/assets/设备的分配与回收",
     "408/assets/假脱机技术",
@@ -269,14 +284,6 @@
     "408/assets/IO控制方式（操作系统）",
     "408/assets/IO控制器",
     "408/assets/IO设备的概念和分类",
-    "408/假脱机技术.md",
-    "408/缓冲区管理.md",
-    "408/IO设备的概念和分类.md",
-    "408/IO核心子系统.md",
-    "408/输入输出应用程序接口和驱动程序接口.md",
-    "408/IO软件层次结构.md",
-    "408/IO控制方式（操作系统）.md",
-    "408/IO控制器.md",
     "408/assets/缓冲区管理/file-20260816222347964.png",
     "408/assets/缓冲区管理/file-20260816222347967.png",
     "408/assets/缓冲区管理/file-20260816222347970.png",
@@ -294,11 +301,6 @@
     "408/文件的逻辑结构.md",
     "408/文件的物理结构.md",
     "408/逻辑结构对比物理结构.md",
-    "408/文件存储空间管理.md",
-    "408/文件共享.md",
-    "408/文件保护.md",
-    "408/文件系统布局.md",
-    "408/虚拟文件系统和文件系统挂载.md",
     "未命名.canvas"
   ]
 }
