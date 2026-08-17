@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/区间再现公式.md",
+                "file": "高等数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "区间再现公式"
+              "title": "基本积分公式"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "存储器",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +129,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,14 +251,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37e4b95199b34002",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
-    "高等数学/求不定积分时的思路.md",
+    "高等数学/基本积分公式.md",
     "高等数学/区间再现公式.md",
+    "高等数学/大观.md",
+    "高等数学/求不定积分时的思路.md",
     "高等数学/定积分求值积累.md",
     "高等数学/分部积分法.md",
-    "高等数学/基本积分公式.md",
-    "高等数学/大观.md",
     "408/设备的分配与回收.md",
     "408/assets/缓冲区管理",
     "408/assets/设备的分配与回收",

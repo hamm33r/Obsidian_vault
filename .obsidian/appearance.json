@@ -1,7 +1,7 @@
 {
   "theme": "system",
   "cssTheme": "AnuPpuccin",
-  "baseFontSize": 23,
+  "baseFontSize": 26,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "custom-hr"
