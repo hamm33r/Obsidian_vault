@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/带符号整数的乘法运算.md",
+                "file": "高等数学/基本积分公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af916ad6081a372",
+  "active": "02bac0eab2937f3b",
   "lastOpenFiles": [
+    "408/带符号整数的乘法运算.md",
     "408/无符号整数的乘法运算.md",
     "408/无符号数和有符号数的加减运算.md",
     "408/定点数的加减运算溢出判别.md",
@@ -311,7 +312,6 @@
     "408/IO核心子系统.md",
     "408/假脱机技术.md",
     "408/IO设备的概念和分类.md",
-    "408/设备的分配与回收.md",
     "408/assets/缓冲区管理",
     "408/assets/设备的分配与回收",
     "408/assets/假脱机技术",
