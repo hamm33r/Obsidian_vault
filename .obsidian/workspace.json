@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "磁盘的管理"
             }
+          },
+          {
+            "id": "98ac2b21951ed3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "磁盘调度算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "磁盘调度算法"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "磁盘的管理.md",
+                "file": "磁盘调度算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,14 +239,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4bd0e19bac16887d",
+  "active": "98ac2b21951ed3e6",
   "lastOpenFiles": [
+    "assets/磁盘调度算法/file-20260821003441645.png",
+    "assets/磁盘调度算法",
+    "磁盘的管理.md",
+    "磁盘调度算法.md",
     "assets/磁盘的管理/file-20260821002911669.png",
     "assets/磁盘的管理/file-20260821002710756.png",
     "assets/磁盘的管理/file-20260821002426123.png",
     "assets/磁盘的管理",
     "磁盘的结构.md",
-    "磁盘的管理.md",
     "assets/磁盘的结构/file-20260821002201791.png",
     "assets/磁盘的结构/file-20260821002059179.png",
     "assets/磁盘的结构/file-20260821002027077.png",
@@ -262,7 +279,6 @@
     "408/assets/IO控制方式（操作系统）/file-20260818000357398.png",
     "408/IO控制器.md",
     "408/IO软件层次结构.md",
-    "408/输入输出应用程序接口和驱动程序接口.md",
     "408/assets/IO软件层次结构/file-20260817230506529.png",
     "408/assets/缓冲区管理",
     "408/assets/设备的分配与回收",
@@ -271,8 +287,6 @@
     "408/assets/输入输出应用程序接口和驱动程序接口",
     "408/assets/IO软件层次结构",
     "408/assets/IO控制方式（操作系统）",
-    "408/assets/IO控制器",
-    "408/assets/缓冲区管理/file-20260816222347964.png",
     "未命名.canvas"
   ]
 }
