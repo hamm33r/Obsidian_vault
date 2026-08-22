@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "磁盘的结构.md",
+                "file": "408/磁盘的结构.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "磁盘的管理.md",
+                "file": "408/磁盘的管理.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "磁盘调度算法.md",
+                "file": "408/磁盘调度算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "磁盘调度算法"
             }
+          },
+          {
+            "id": "43d98742e0f04296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/泰勒公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰勒公式"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "磁盘调度算法.md",
+                "file": "高等数学/泰勒公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,24 +253,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98ac2b21951ed3e6",
+  "active": "43d98742e0f04296",
   "lastOpenFiles": [
-    "assets/磁盘调度算法/file-20260821005153325.png",
-    "assets/磁盘调度算法/file-20260821004948467.png",
-    "assets/磁盘调度算法/file-20260821004733789.png",
-    "assets/磁盘调度算法/file-20260821004444134.png",
-    "assets/磁盘调度算法/file-20260821004303671.png",
-    "assets/磁盘调度算法/file-20260821004000271.png",
-    "assets/磁盘调度算法/file-20260821003633314.png",
-    "assets/磁盘调度算法/file-20260821003441645.png",
+    "408/磁盘调度算法.md",
+    "408/assets/磁盘调度算法",
+    "408/assets/磁盘的管理",
+    "408/assets/磁盘的结构",
+    "408/assets/磁盘调度算法/file-20260822180450650.png",
+    "408/assets/磁盘调度算法/file-20260822180450660.png",
+    "408/assets/磁盘调度算法/file-20260822180450670.png",
+    "408/assets/磁盘调度算法/file-20260822180450698.png",
+    "408/assets/磁盘调度算法/file-20260822180450708.png",
+    "408/assets/磁盘调度算法/file-20260822180450718.png",
+    "408/assets/磁盘调度算法/file-20260822180450726.png",
+    "408/assets/磁盘调度算法/file-20260822180450738.png",
     "assets/磁盘调度算法",
-    "磁盘的管理.md",
-    "磁盘调度算法.md",
-    "assets/磁盘的管理/file-20260821002911669.png",
-    "assets/磁盘的管理/file-20260821002710756.png",
-    "assets/磁盘的管理/file-20260821002426123.png",
+    "408/磁盘的管理.md",
+    "408/assets/磁盘的管理/file-20260822180449206.png",
+    "408/assets/磁盘的管理/file-20260822180449214.png",
     "assets/磁盘的管理",
-    "磁盘的结构.md",
+    "408/磁盘的结构.md",
     "assets/磁盘的结构",
     "高等数学/基本积分公式.md",
     "408/带符号整数的乘法运算.md",
@@ -284,9 +300,6 @@
     "408/assets/设备的分配与回收",
     "408/assets/假脱机技术",
     "408/assets/IO核心子系统",
-    "408/assets/输入输出应用程序接口和驱动程序接口",
-    "408/assets/IO软件层次结构",
-    "408/assets/IO控制方式（操作系统）",
     "未命名.canvas"
   ]
 }
