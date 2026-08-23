@@ -91,8 +91,7 @@
               "title": "三角函数公式"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "减少磁盘延迟时间的方法.md",
+                "file": "高等数学/泰勒公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,8 +280,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c91fb02c1b7a43fe",
+  "active": "43d98742e0f04296",
   "lastOpenFiles": [
+    "高等数学/求导公式.md",
+    "高等数学/泰勒公式.md",
+    "高等数学/基本积分公式.md",
+    "减少磁盘延迟时间的方法.md",
     "assets/减少磁盘延迟时间的方法/file-20260823010944168.png",
     "assets/减少磁盘延迟时间的方法/file-20260823010736472.png",
     "assets/减少磁盘延迟时间的方法/file-20260823010353710.png",
@@ -290,11 +293,7 @@
     "assets/减少磁盘延迟时间的方法/file-20260823005616191.png",
     "assets/减少磁盘延迟时间的方法/file-20260823005344499.png",
     "assets/减少磁盘延迟时间的方法",
-    "高等数学/基本积分公式.md",
-    "减少磁盘延迟时间的方法.md",
-    "高等数学/求导公式.md",
     "高等数学/有理函数的积分.md",
-    "高等数学/泰勒公式.md",
     "高等数学/三角函数公式.md",
     "408/磁盘调度算法.md",
     "408/assets/磁盘调度算法",
@@ -304,7 +303,6 @@
     "408/assets/磁盘调度算法/file-20260822180450660.png",
     "408/assets/磁盘调度算法/file-20260822180450670.png",
     "408/assets/磁盘调度算法/file-20260822180450698.png",
-    "408/assets/磁盘调度算法/file-20260822180450708.png",
     "assets/磁盘调度算法",
     "408/磁盘的管理.md",
     "assets/磁盘的管理",
