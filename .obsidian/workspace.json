@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/磁盘调度算法.md",
+                "file": "408/磁盘的管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "磁盘调度算法"
+              "title": "磁盘的管理"
             }
           },
           {
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/磁盘调度算法.md",
+                "file": "408/磁盘的管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,8 +255,8 @@
   "active": "c91fb02c1b7a43fe",
   "lastOpenFiles": [
     "408/减少磁盘延迟时间的方法.md",
-    "408/磁盘的管理.md",
     "408/磁盘调度算法.md",
+    "408/磁盘的管理.md",
     "408/固态硬盘.md",
     "408/磁盘的结构.md",
     "408/assets/固态硬盘",
