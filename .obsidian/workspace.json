@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/磁盘调度算法.md",
+                "file": "408/改善磁盘IO性能的方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "磁盘调度算法"
+              "title": "改善磁盘IO性能的方式"
+            }
+          },
+          {
+            "id": "0b2c94e254bc2450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络的概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络的概念"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/磁盘调度算法.md",
+                "file": "计算机网络的概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,21 +281,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b4269670f923e9e",
+  "active": "0b2c94e254bc2450",
   "lastOpenFiles": [
+    "assets/计算机网络的概念/file-20260901164539735.png",
+    "assets/计算机网络的概念/file-20260901164426949.png",
+    "assets/计算机网络的概念",
+    "408/改善磁盘IO性能的方式.md",
+    "计算机网络的概念.md",
+    "408/磁盘的管理.md",
+    "408/assets/改善磁盘IO性能的方式",
+    "408/磁盘调度算法.md",
+    "408/固态硬盘.md",
     "408/assets/磁盘调度算法/file-20260901162648199.png",
     "408/磁盘的结构.md",
-    "408/磁盘的管理.md",
     "408/缓冲区管理.md",
     "408/假脱机技术.md",
     "408/设备的分配与回收.md",
-    "408/磁盘调度算法.md",
-    "408/固态硬盘.md",
     "408/减少磁盘延迟时间的方法.md",
-    "改善磁盘IO性能的方式.md",
-    "assets/改善磁盘IO性能的方式/file-20260901155548548.png",
-    "assets/改善磁盘IO性能的方式/file-20260901155334824.png",
-    "assets/改善磁盘IO性能的方式/file-20260901155146295.png",
+    "408/assets/改善磁盘IO性能的方式/file-20260901164344787.png",
+    "408/assets/改善磁盘IO性能的方式/file-20260901164344790.png",
+    "408/assets/改善磁盘IO性能的方式/file-20260901164344791.png",
     "assets/改善磁盘IO性能的方式",
     "408/assets/磁盘调度算法/file-20260901150110030.png",
     "408/assets/磁盘调度算法/file-20260901145800321.png",
@@ -294,16 +313,12 @@
     "408/assets/固态硬盘/file-20260831225235237.png",
     "assets/固态硬盘",
     "408/assets/减少磁盘延迟时间的方法/file-20260831225234126.png",
-    "408/assets/减少磁盘延迟时间的方法/file-20260831225234119.png",
-    "408/assets/减少磁盘延迟时间的方法/file-20260831225234128.png",
     "assets/减少磁盘延迟时间的方法",
     "高等数学/有理函数的积分.md",
     "高等数学/三角函数公式.md",
     "408/assets/磁盘调度算法",
     "408/assets/磁盘的管理",
     "408/assets/磁盘的结构",
-    "assets/磁盘调度算法",
-    "assets/磁盘的管理",
     "408/带符号整数的乘法运算.md",
     "408/无符号整数的乘法运算.md",
     "408/无符号数和有符号数的加减运算.md",
@@ -314,7 +329,6 @@
     "高等数学/区间再现公式.md",
     "高等数学/定积分求值积累.md",
     "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
-    "Excalidraw/Cache TLB的访存过程图.md",
     "未命名.canvas"
   ]
 }
