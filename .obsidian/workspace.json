@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "54a9b847798ceafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三种交换方式的性能分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "三种交换方式的性能分析"
+            }
+          },
+          {
             "id": "f3f055f77a90d530",
             "type": "leaf",
             "state": {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路交换，报文交换，分组交换.md",
+                "file": "三种交换方式的性能分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,8 +323,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3eadd91d327d496",
+  "active": "54a9b847798ceafb",
   "lastOpenFiles": [
+    "电路交换，报文交换，分组交换.md",
+    "三种交换方式的性能分析.md",
     "assets/电路交换，报文交换，分组交换/file-20260901173822410.png",
     "assets/电路交换，报文交换，分组交换/file-20260901173819540.png",
     "assets/电路交换，报文交换，分组交换/file-20260901173742828.png",
@@ -321,10 +337,8 @@
     "assets/电路交换，报文交换，分组交换/file-20260901173027079.png",
     "assets/电路交换，报文交换，分组交换/file-20260901172641662.png",
     "assets/电路交换，报文交换，分组交换/file-20260901172608861.png",
-    "assets/电路交换，报文交换，分组交换/file-20260901172321933.png",
     "assets/电路交换，报文交换，分组交换",
     "计算机网络的组成和功能.md",
-    "电路交换，报文交换，分组交换.md",
     "assets/计算机网络的组成和功能",
     "计算机网络的概念.md",
     "assets/计算机网络的概念",
