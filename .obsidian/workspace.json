@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络的概念.md",
+                "file": "408/计算机网络的概念.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络的组成和功能.md",
+                "file": "408/计算机网络的组成和功能.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路交换，报文交换，分组交换.md",
+                "file": "408/电路交换，报文交换，分组交换.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三种交换方式的性能分析.md",
+                "file": "408/三种交换方式的性能分析.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络的分类.md",
+                "file": "高等数学/大观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络的分类"
+              "title": "大观"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "固态硬盘",
+                "query": "导数",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络的分类.md",
+                "file": "高等数学/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -339,30 +339,34 @@
   },
   "active": "20dd5cebf7369719",
   "lastOpenFiles": [
-    "assets/计算机网络的分类/file-20260901183858854.png",
-    "assets/计算机网络的分类/file-20260901183737616.png",
-    "assets/计算机网络的分类/file-20260901183551065.png",
-    "assets/计算机网络的分类/file-20260901183422112.png",
-    "assets/计算机网络的分类/file-20260901183230177.png",
-    "assets/计算机网络的分类/file-20260901182548118.png",
-    "assets/计算机网络的分类/file-20260901182346905.png",
-    "assets/计算机网络的分类/file-20260901182205767.png",
+    "高等数学/导数定义解题.md",
+    "408/assets/计算机网络的分类",
+    "408/assets/三种交换方式的性能分析",
+    "408/assets/电路交换，报文交换，分组交换",
+    "408/assets/计算机网络的组成和功能",
+    "408/assets/计算机网络的概念",
+    "408/计算机网络的分类.md",
+    "408/assets/计算机网络的分类/file-20260901201941638.png",
+    "408/assets/计算机网络的分类/file-20260901201941641.png",
+    "408/assets/计算机网络的分类/file-20260901201941644.png",
+    "408/assets/计算机网络的分类/file-20260901201941646.png",
+    "408/assets/计算机网络的分类/file-20260901201941664.png",
+    "408/assets/计算机网络的分类/file-20260901201941686.png",
+    "408/assets/计算机网络的分类/file-20260901201941697.png",
+    "408/assets/计算机网络的分类/file-20260901201941704.png",
     "assets/计算机网络的分类",
-    "三种交换方式的性能分析.md",
-    "计算机网络的分类.md",
-    "assets/三种交换方式的性能分析/file-20260901175150141.png",
-    "assets/三种交换方式的性能分析/file-20260901175046751.png",
-    "assets/三种交换方式的性能分析/file-20260901175009179.png",
+    "408/三种交换方式的性能分析.md",
+    "408/assets/三种交换方式的性能分析/file-20260901201940779.png",
+    "408/assets/三种交换方式的性能分析/file-20260901201940788.png",
     "assets/三种交换方式的性能分析",
-    "电路交换，报文交换，分组交换.md",
+    "408/电路交换，报文交换，分组交换.md",
     "assets/电路交换，报文交换，分组交换",
-    "计算机网络的组成和功能.md",
+    "408/计算机网络的组成和功能.md",
     "assets/计算机网络的组成和功能",
-    "计算机网络的概念.md",
+    "408/计算机网络的概念.md",
     "assets/计算机网络的概念",
     "408/改善磁盘IO性能的方式.md",
     "408/磁盘的管理.md",
-    "408/assets/改善磁盘IO性能的方式",
     "408/磁盘调度算法.md",
     "408/固态硬盘.md",
     "408/磁盘的结构.md",
@@ -370,13 +374,9 @@
     "408/假脱机技术.md",
     "408/设备的分配与回收.md",
     "408/减少磁盘延迟时间的方法.md",
-    "assets/改善磁盘IO性能的方式",
-    "408/assets/固态硬盘",
-    "408/assets/减少磁盘延迟时间的方法",
     "高等数学/基本积分公式.md",
     "高等数学/求导公式.md",
     "高等数学/泰勒公式.md",
-    "assets/固态硬盘",
     "高等数学/有理函数的积分.md",
     "高等数学/三角函数公式.md",
     "408/带符号整数的乘法运算.md",
