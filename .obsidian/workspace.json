@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "改善磁盘IO性能的方式.md",
+                "file": "408/磁盘调度算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "改善磁盘IO性能的方式"
+              "title": "磁盘调度算法"
             }
           },
           {
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "改善磁盘IO性能的方式.md",
+                "file": "408/磁盘调度算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -269,18 +269,22 @@
   },
   "active": "0b4269670f923e9e",
   "lastOpenFiles": [
+    "408/assets/磁盘调度算法/file-20260901162648199.png",
+    "408/磁盘的结构.md",
+    "408/磁盘的管理.md",
+    "408/缓冲区管理.md",
+    "408/假脱机技术.md",
+    "408/设备的分配与回收.md",
+    "408/磁盘调度算法.md",
+    "408/固态硬盘.md",
+    "408/减少磁盘延迟时间的方法.md",
+    "改善磁盘IO性能的方式.md",
     "assets/改善磁盘IO性能的方式/file-20260901155548548.png",
     "assets/改善磁盘IO性能的方式/file-20260901155334824.png",
     "assets/改善磁盘IO性能的方式/file-20260901155146295.png",
     "assets/改善磁盘IO性能的方式",
-    "408/减少磁盘延迟时间的方法.md",
-    "改善磁盘IO性能的方式.md",
-    "408/磁盘调度算法.md",
-    "408/固态硬盘.md",
-    "408/磁盘的管理.md",
     "408/assets/磁盘调度算法/file-20260901150110030.png",
     "408/assets/磁盘调度算法/file-20260901145800321.png",
-    "408/磁盘的结构.md",
     "408/assets/固态硬盘",
     "408/assets/减少磁盘延迟时间的方法",
     "高等数学/基本积分公式.md",
@@ -292,7 +296,6 @@
     "408/assets/减少磁盘延迟时间的方法/file-20260831225234126.png",
     "408/assets/减少磁盘延迟时间的方法/file-20260831225234119.png",
     "408/assets/减少磁盘延迟时间的方法/file-20260831225234128.png",
-    "408/assets/减少磁盘延迟时间的方法/file-20260831225234151.png",
     "assets/减少磁盘延迟时间的方法",
     "高等数学/有理函数的积分.md",
     "高等数学/三角函数公式.md",
@@ -312,9 +315,6 @@
     "高等数学/定积分求值积累.md",
     "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
     "Excalidraw/Cache TLB的访存过程图.md",
-    "Excalidraw/主存层次图.md",
-    "Excalidraw/指令到微操作图.md",
-    "Excalidraw/多元函数微分复合结构图.md",
     "未命名.canvas"
   ]
 }
