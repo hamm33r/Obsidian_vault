@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "18c8080978259b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络的组成和功能.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络的组成和功能"
+            }
+          },
+          {
             "id": "f3f055f77a90d530",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络的概念.md",
+                "file": "计算机网络的组成和功能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,8 +295,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b2c94e254bc2450",
+  "active": "18c8080978259b69",
   "lastOpenFiles": [
+    "assets/计算机网络的组成和功能/file-20260901165956829.png",
+    "assets/计算机网络的组成和功能/file-20260901165859353.png",
+    "assets/计算机网络的组成和功能/file-20260901165819393.png",
+    "assets/计算机网络的组成和功能",
+    "计算机网络的概念.md",
+    "计算机网络的组成和功能.md",
     "assets/计算机网络的概念/file-20260901165224485.png",
     "assets/计算机网络的概念/file-20260901165022795.png",
     "assets/计算机网络的概念/file-20260901164831983.png",
@@ -291,7 +311,6 @@
     "assets/计算机网络的概念/file-20260901164426949.png",
     "assets/计算机网络的概念",
     "408/改善磁盘IO性能的方式.md",
-    "计算机网络的概念.md",
     "408/磁盘的管理.md",
     "408/assets/改善磁盘IO性能的方式",
     "408/磁盘调度算法.md",
@@ -303,10 +322,7 @@
     "408/设备的分配与回收.md",
     "408/减少磁盘延迟时间的方法.md",
     "408/assets/改善磁盘IO性能的方式/file-20260901164344787.png",
-    "408/assets/改善磁盘IO性能的方式/file-20260901164344790.png",
-    "408/assets/改善磁盘IO性能的方式/file-20260901164344791.png",
     "assets/改善磁盘IO性能的方式",
-    "408/assets/磁盘调度算法/file-20260901150110030.png",
     "408/assets/固态硬盘",
     "408/assets/减少磁盘延迟时间的方法",
     "高等数学/基本积分公式.md",
@@ -318,7 +334,6 @@
     "高等数学/三角函数公式.md",
     "408/assets/磁盘调度算法",
     "408/assets/磁盘的管理",
-    "408/assets/磁盘的结构",
     "408/带符号整数的乘法运算.md",
     "408/无符号整数的乘法运算.md",
     "408/无符号数和有符号数的加减运算.md",
@@ -328,7 +343,6 @@
     "408/定点数的移位运算.md",
     "高等数学/区间再现公式.md",
     "高等数学/定积分求值积累.md",
-    "Excalidraw/Drawing 2026-08-16 17.47.07.excalidraw.md",
     "未命名.canvas"
   ]
 }
