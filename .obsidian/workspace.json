@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "a3eadd91d327d496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路交换，报文交换，分组交换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "电路交换，报文交换，分组交换"
+            }
+          },
+          {
             "id": "f3f055f77a90d530",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络的组成和功能.md",
+                "file": "电路交换，报文交换，分组交换.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,8 +309,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "18c8080978259b69",
+  "active": "a3eadd91d327d496",
   "lastOpenFiles": [
+    "assets/电路交换，报文交换，分组交换/file-20260901172013279.png",
+    "assets/电路交换，报文交换，分组交换",
+    "计算机网络的组成和功能.md",
+    "电路交换，报文交换，分组交换.md",
     "assets/计算机网络的组成和功能/file-20260901171156213.png",
     "assets/计算机网络的组成和功能/file-20260901171106372.png",
     "assets/计算机网络的组成和功能/file-20260901171047108.png",
@@ -307,10 +325,8 @@
     "assets/计算机网络的组成和功能/file-20260901170653442.png",
     "assets/计算机网络的组成和功能/file-20260901170510575.png",
     "assets/计算机网络的组成和功能/file-20260901170422239.png",
-    "assets/计算机网络的组成和功能/file-20260901170345892.png",
     "assets/计算机网络的组成和功能",
     "计算机网络的概念.md",
-    "计算机网络的组成和功能.md",
     "assets/计算机网络的概念",
     "408/改善磁盘IO性能的方式.md",
     "408/磁盘的管理.md",
@@ -333,7 +349,6 @@
     "高等数学/有理函数的积分.md",
     "高等数学/三角函数公式.md",
     "408/assets/磁盘调度算法",
-    "408/assets/磁盘的管理",
     "408/带符号整数的乘法运算.md",
     "408/无符号整数的乘法运算.md",
     "408/无符号数和有符号数的加减运算.md",
@@ -342,7 +357,6 @@
     "408/算术逻辑单元（ALU）.md",
     "408/定点数的移位运算.md",
     "高等数学/区间再现公式.md",
-    "高等数学/定积分求值积累.md",
     "未命名.canvas"
   ]
 }
