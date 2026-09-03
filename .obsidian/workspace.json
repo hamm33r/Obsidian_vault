@@ -253,8 +253,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c572f0b1978ac9f",
+  "active": "35ccf4f4cdc99f2c",
   "lastOpenFiles": [
+    "408/assets/OSI参考模型/file-20260903154109565.png",
     "assets/两级页表/两级页表地址变换图.md",
     "408/卡特兰数.md",
     "408/assets/OSI参考模型",
@@ -300,7 +301,6 @@
     "408/改善磁盘IO性能的方式.md",
     "408/磁盘的管理.md",
     "408/磁盘调度算法.md",
-    "408/固态硬盘.md",
     "未命名.canvas"
   ]
 }
