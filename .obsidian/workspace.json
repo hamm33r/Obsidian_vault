@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络的性能指标.md",
+                "file": "408/计算机网络的性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "计算机网络的性能指标"
             }
+          },
+          {
+            "id": "a35c6a1322e60866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/电路交换，报文交换，分组交换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "电路交换，报文交换，分组交换"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络的性能指标.md",
+                "file": "408/电路交换，报文交换，分组交换.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,22 +239,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "856d247ae281e0be",
+  "active": "a35c6a1322e60866",
   "lastOpenFiles": [
+    "408/计算机网络的性能指标.md",
+    "408/assets/计算机网络的性能指标",
     "408/三种交换方式的性能分析.md",
     "408/计算机网络的分类.md",
     "408/电路交换，报文交换，分组交换.md",
-    "计算机网络的性能指标.md",
-    "assets/计算机网络的性能指标/file-20260902211226452.png",
-    "assets/计算机网络的性能指标/file-20260902211010182.png",
-    "assets/计算机网络的性能指标/file-20260902210856110.png",
-    "assets/计算机网络的性能指标/file-20260902210547546.png",
-    "assets/计算机网络的性能指标/file-20260902210126590.png",
-    "assets/计算机网络的性能指标/file-20260902205656137.png",
-    "assets/计算机网络的性能指标/file-20260902205412891.png",
-    "assets/计算机网络的性能指标/file-20260902204719593.png",
-    "assets/计算机网络的性能指标/file-20260902204250367.png",
-    "assets/计算机网络的性能指标/file-20260902204110932.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959447.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959453.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959461.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959469.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959462.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959487.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959489.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959491.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959492.png",
+    "408/assets/计算机网络的性能指标/file-20260903140959488.png",
     "assets/计算机网络的性能指标",
     "高等数学/分部积分法.md",
     "高等数学/定积分求值积累.md",
@@ -262,7 +277,6 @@
     "assets/三种交换方式的性能分析",
     "assets/电路交换，报文交换，分组交换",
     "408/计算机网络的组成和功能.md",
-    "assets/计算机网络的组成和功能",
     "408/计算机网络的概念.md",
     "408/改善磁盘IO性能的方式.md",
     "408/磁盘的管理.md",
