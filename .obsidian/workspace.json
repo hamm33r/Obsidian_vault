@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "dd8264821d4d3473",
+            "id": "652f598503ab888a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,21 +76,9 @@
               "icon": "lucide-file",
               "title": "OSI参考模型"
             }
-          },
-          {
-            "id": "652f598503ab888a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/OSI参考模型/file-20260903153507801.png"
-              },
-              "icon": "lucide-image",
-              "title": "file-20260903153507801"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/OSI参考模型/file-20260903153507801.png",
+                "file": "OSI参考模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,19 +269,18 @@
   },
   "active": "652f598503ab888a",
   "lastOpenFiles": [
+    "assets/OSI参考模型/file-20260903153626747.png",
+    "OSI参考模型.md",
+    "assets/OSI参考模型/file-20260903153305199.png",
+    "assets/OSI参考模型/file-20260903152519776.png",
+    "assets/OSI参考模型/file-20260903153109266.png",
+    "assets/OSI参考模型/file-20260903153447932.png",
+    "assets/OSI参考模型/file-20260903153446539.png",
+    "assets/OSI参考模型/file-20260903153507801.png",
     "assets/OSI参考模型/file-20260903151216123.png",
     "assets/OSI参考模型/file-20260903150750651.png",
-    "assets/OSI参考模型/file-20260903153447932.png",
-    "OSI参考模型.md",
-    "assets/OSI参考模型/file-20260903153507801.png",
-    "assets/OSI参考模型/file-20260903153446539.png",
-    "assets/OSI参考模型/file-20260903153305199.png",
-    "assets/OSI参考模型/file-20260903153109266.png",
     "408/电路交换，报文交换，分组交换.md",
-    "assets/OSI参考模型/file-20260903152519776.png",
     "assets/OSI参考模型/file-20260903152508230.png",
-    "assets/OSI参考模型/file-20260903152011041.png",
-    "assets/OSI参考模型/file-20260903151525060.png",
     "assets/OSI参考模型",
     "计算机网络分层结构.md",
     "assets/计算机网络分层结构",
