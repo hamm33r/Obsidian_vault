@@ -7,3 +7,6 @@ tags:
 
 # 应用层
 ![](assets/TCP%20IP模型/file-20260903160747738.png)
+
+# 网络接口层
+![](assets/TCP%20IP模型/file-20260903160956317.png)
