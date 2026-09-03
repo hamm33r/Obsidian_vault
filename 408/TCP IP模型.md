@@ -23,3 +23,6 @@ tags:
 
 # 总结
 ![](assets/TCP%20IP模型/file-20260903162249724.png)
+
+![](assets/TCP%20IP模型/file-20260903162511650.png)
+>TCP协议和UDP协议
