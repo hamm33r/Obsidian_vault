@@ -15,3 +15,8 @@ tags:
 
 ## 网络层
 ![](assets/TCP%20IP模型/file-20260903161730174.png)
+>两种模型的网络层对比
+>OSI![](assets/TCP%20IP模型/file-20260903161917726.png)
+>TCP![](assets/TCP%20IP模型/file-20260903162006242.png)
+## 传输层
+![](assets/TCP%20IP模型/file-20260903162113245.png)
