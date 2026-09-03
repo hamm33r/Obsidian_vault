@@ -26,3 +26,5 @@ tags:
 
 ![](assets/TCP%20IP模型/file-20260903162511650.png)
 >TCP协议和UDP协议
+>TCP（无连接），UDP（面向连接）
+>
