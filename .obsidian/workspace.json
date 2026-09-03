@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/电路交换，报文交换，分组交换.md",
+                "file": "408/计算机网络分层结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电路交换，报文交换，分组交换"
+              "title": "计算机网络分层结构"
             }
           },
           {
@@ -64,20 +64,6 @@
             }
           },
           {
-            "id": "8664cc8044d65a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/无连接UDP和面向连接TCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无连接UDP和面向连接TCP"
-            }
-          },
-          {
             "id": "1bfde99f89d566c7",
             "type": "leaf",
             "state": {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/TCP IP模型.md",
+                "file": "408/OSI参考模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,12 +267,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "35ccf4f4cdc99f2c",
   "lastOpenFiles": [
-    "408/OSI参考模型.md",
-    "408/无连接UDP和面向连接TCP.md",
-    "408/TCP IP模型.md",
     "408/计算机网络分层结构.md",
+    "408/电路交换，报文交换，分组交换.md",
+    "408/OSI参考模型.md",
+    "408/TCP IP模型.md",
+    "408/无连接UDP和面向连接TCP.md",
     "408/assets/TCP IP模型/file-20260903162511650.png",
     "408/assets/TCP IP模型/file-20260903162249724.png",
     "408/assets/TCP IP模型/file-20260903162113245.png",
@@ -303,7 +290,6 @@
     "408/assets/OSI参考模型",
     "408/assets/计算机网络分层结构",
     "408/408错题.md",
-    "408/电路交换，报文交换，分组交换.md",
     "assets/OSI参考模型",
     "assets/计算机网络分层结构",
     "408/计算机网络的性能指标.md",
