@@ -20,3 +20,6 @@ tags:
 >TCP![](assets/TCP%20IP模型/file-20260903162006242.png)
 ## 传输层
 ![](assets/TCP%20IP模型/file-20260903162113245.png)
+
+# 总结
+![](assets/TCP%20IP模型/file-20260903162249724.png)
