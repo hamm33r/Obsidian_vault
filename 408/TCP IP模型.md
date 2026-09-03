@@ -12,3 +12,6 @@ tags:
 
 ## 网络接口层
 ![](assets/TCP%20IP模型/file-20260903160956317.png)
+
+## 网络层
+![](assets/TCP%20IP模型/file-20260903161730174.png)
