@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编码和调制.md",
+                "file": "408/通信基础基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编码和调制"
+              "title": "通信基础基本概念"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编码和调制.md",
+                "file": "408/通信基础基本概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,20 +212,20 @@
   },
   "active": "83a6ecdda7663bf6",
   "lastOpenFiles": [
-    "assets/编码和调制/file-20260904220155152.png",
-    "assets/编码和调制/file-20260904220123389.png",
-    "assets/编码和调制/file-20260904220120672.png",
-    "assets/编码和调制/file-20260904220114735.png",
-    "assets/编码和调制/file-20260904215923612.png",
-    "assets/编码和调制/file-20260904215740883.png",
-    "assets/编码和调制/file-20260904215552574.png",
-    "assets/编码和调制/file-20260904214930409.png",
-    "assets/编码和调制/file-20260904214758585.png",
-    "assets/编码和调制/file-20260904214610214.png",
-    "assets/编码和调制/file-20260904212145833.png",
+    "408/编码和调制.md",
+    "408/assets/编码和调制",
+    "408/assets/编码和调制/file-20260904220342758.png",
+    "408/assets/编码和调制/file-20260904220342794.png",
+    "408/assets/编码和调制/file-20260904220342796.png",
+    "408/assets/编码和调制/file-20260904220342797.png",
+    "408/assets/编码和调制/file-20260904220342799.png",
+    "408/assets/编码和调制/file-20260904220342800.png",
+    "408/assets/编码和调制/file-20260904220342802.png",
+    "408/assets/编码和调制/file-20260904220342803.png",
+    "408/assets/编码和调制/file-20260904220342804.png",
+    "408/assets/编码和调制/file-20260904220342806.png",
     "assets/编码和调制",
     "408/信道的极限容量.md",
-    "编码和调制.md",
     "高等数学/基本积分公式.md",
     "高等数学/求导公式.md",
     "高等数学/三角函数公式.md",
@@ -249,7 +249,6 @@
     "408/assets/计算机网络分层结构",
     "408/408错题.md",
     "assets/OSI参考模型",
-    "assets/计算机网络分层结构",
     "408/计算机网络的性能指标.md",
     "408/三种交换方式的性能分析.md",
     "408/计算机网络的分类.md",
