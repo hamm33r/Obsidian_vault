@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/三角函数公式.md",
+                "file": "高等数学/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三角函数公式"
+              "title": "泰勒公式"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三角",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/三角函数公式.md",
+                "file": "高等数学/泰勒公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,19 +212,24 @@
   },
   "active": "2ae4faa1edd8705a",
   "lastOpenFiles": [
-    "信道的极限容量.md",
-    "assets/信道的极限容量/file-20260903183107744.png",
-    "assets/信道的极限容量/file-20260903182949647.png",
-    "assets/信道的极限容量/file-20260903182805910.png",
-    "assets/信道的极限容量/file-20260903182758534.png",
-    "assets/信道的极限容量/file-20260903182637850.png",
-    "assets/信道的极限容量/file-20260903182632773.png",
-    "assets/信道的极限容量/file-20260903182555196.png",
-    "assets/信道的极限容量/file-20260903182356903.png",
-    "assets/信道的极限容量/file-20260903182259869.png",
-    "assets/信道的极限容量/file-20260903182033799.png",
+    "高等数学/敛散性判别法.md",
+    "高等数学/两个重要数列极限.md",
+    "408/信道的极限容量.md",
+    "408/assets/信道的极限容量",
+    "高等数学/三角函数公式.md",
+    "408/assets/通信基础基本概念",
+    "408/assets/信道的极限容量/file-20260904140918322.png",
+    "408/assets/信道的极限容量/file-20260904140918329.png",
+    "408/assets/信道的极限容量/file-20260904140918351.png",
+    "408/assets/信道的极限容量/file-20260904140918319.png",
+    "408/assets/信道的极限容量/file-20260904140918323.png",
+    "408/assets/信道的极限容量/file-20260904140918325.png",
+    "408/assets/信道的极限容量/file-20260904140918353.png",
+    "408/assets/信道的极限容量/file-20260904140918352.png",
+    "408/assets/信道的极限容量/file-20260904140918355.png",
+    "408/assets/信道的极限容量/file-20260904140918356.png",
     "assets/信道的极限容量",
-    "通信基础基本概念.md",
+    "408/通信基础基本概念.md",
     "assets/通信基础基本概念",
     "408/TCP IP模型.md",
     "408/OSI参考模型.md",
@@ -244,20 +248,16 @@
     "408/assets/计算机网络的性能指标",
     "408/三种交换方式的性能分析.md",
     "408/计算机网络的分类.md",
-    "assets/计算机网络的性能指标",
     "高等数学/分部积分法.md",
     "高等数学/定积分求值积累.md",
     "高等数学/求导公式.md",
     "高等数学/基本积分公式.md",
-    "高等数学/三角函数公式.md",
     "高等数学/区间再现公式.md",
     "高等数学/定积分求面积,体积,弧长,平均值.md",
     "高等数学/泰勒公式.md",
     "高等数学/函数的周期性.md",
     "高等数学/大观.md",
     "高等数学/导数定义解题.md",
-    "408/assets/计算机网络的分类",
-    "408/计算机网络的组成和功能.md",
     "未命名.canvas"
   ]
 }
