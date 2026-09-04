@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46d8405d79d6e66a",
+        "id": "2c9b9022b945b2de",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae4faa1edd8705a",
+            "id": "83a6ecdda7663bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/泰勒公式.md",
+                "file": "408/信道的极限容量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泰勒公式"
-            }
-          },
-          {
-            "id": "8c15fb39ea3a660c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高等数学/基本积分公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本积分公式"
-            }
-          },
-          {
-            "id": "fa883b2d4b8fd2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高等数学/三角函数公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "三角函数公式"
-            }
-          },
-          {
-            "id": "3afedb74cb3c689c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高等数学/求导公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "求导公式"
+              "title": "信道的极限容量"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,8 +89,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/三角函数公式.md",
+                "file": "408/信道的极限容量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -254,16 +210,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa883b2d4b8fd2d9",
+  "active": "83a6ecdda7663bf6",
   "lastOpenFiles": [
     "高等数学/基本积分公式.md",
     "高等数学/求导公式.md",
+    "高等数学/三角函数公式.md",
     "高等数学/泰勒公式.md",
     "高等数学/敛散性判别法.md",
     "高等数学/两个重要数列极限.md",
     "408/信道的极限容量.md",
     "408/assets/信道的极限容量",
-    "高等数学/三角函数公式.md",
     "408/assets/通信基础基本概念",
     "408/assets/信道的极限容量/file-20260904140918322.png",
     "408/assets/信道的极限容量/file-20260904140918329.png",
