@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/通信基础基本概念.md",
+                "file": "408/编码和调制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通信基础基本概念"
+              "title": "编码和调制"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/通信基础基本概念.md",
+                "file": "408/编码和调制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,6 +212,7 @@
   },
   "active": "83a6ecdda7663bf6",
   "lastOpenFiles": [
+    "408/通信基础基本概念.md",
     "408/编码和调制.md",
     "408/assets/编码和调制",
     "408/assets/编码和调制/file-20260904220342758.png",
@@ -235,7 +236,6 @@
     "408/assets/信道的极限容量",
     "408/assets/通信基础基本概念",
     "assets/信道的极限容量",
-    "408/通信基础基本概念.md",
     "assets/通信基础基本概念",
     "408/TCP IP模型.md",
     "408/OSI参考模型.md",
