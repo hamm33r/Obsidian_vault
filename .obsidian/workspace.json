@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/求导公式.md",
+                "file": "高等数学/三角函数公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求导公式"
+              "title": "三角函数公式"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "积分",
+                "query": "三角",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/求导公式.md",
+                "file": "高等数学/三角函数公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,8 +211,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "422baba3e1ca8f9a",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
+    "高等数学/有理函数的积分.md",
+    "高等数学/三角函数公式.md",
+    "高等数学/求导公式.md",
+    "高等数学/求不定积分时的思路.md",
+    "高等数学/渐近线.md",
+    "高等数学/基本积分公式.md",
+    "高等数学/分部积分法.md",
+    "高等数学/常用泰勒公式.md",
+    "高等数学/常用凑微分公式.md",
+    "高等数学/常见的奇函数.md",
     "408/传输介质.md",
     "408/assets/传输介质",
     "408/assets/传输介质/file-20260906134157699.png",
@@ -225,14 +236,11 @@
     "408/assets/传输介质/file-20260906134157726.png",
     "408/assets/传输介质/file-20260906134157719.png",
     "assets/传输介质",
-    "高等数学/求导公式.md",
-    "高等数学/基本积分公式.md",
     "408/编码和调制.md",
     "408/信道的极限容量.md",
     "408/通信基础基本概念.md",
     "408/assets/编码和调制",
     "assets/编码和调制",
-    "高等数学/三角函数公式.md",
     "高等数学/泰勒公式.md",
     "高等数学/敛散性判别法.md",
     "高等数学/两个重要数列极限.md",
@@ -251,12 +259,6 @@
     "408/assets/OSI参考模型",
     "408/408错题.md",
     "408/计算机网络的性能指标.md",
-    "408/三种交换方式的性能分析.md",
-    "408/计算机网络的分类.md",
-    "高等数学/分部积分法.md",
-    "高等数学/定积分求值积累.md",
-    "高等数学/区间再现公式.md",
-    "高等数学/定积分求面积,体积,弧长,平均值.md",
     "未命名.canvas"
   ]
 }
