@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据链路层的功能.md",
+                "file": "408/数据链路层的功能.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组帧.md",
+                "file": "408/组帧.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "检错编码.md",
+                "file": "408/检错编码.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/泰勒公式.md",
+                "file": "408/检错编码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泰勒公式"
+              "title": "检错编码"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "检错编码.md",
+                "file": "408/检错编码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,24 +281,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2715eacea4c25377",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
-    "组帧.md",
-    "检错编码.md",
-    "assets/组帧/file-20260906174220923.png",
-    "assets/组帧/file-20260906174004819.png",
-    "assets/组帧/file-20260906173701918.png",
-    "assets/组帧/file-20260906173239723.png",
-    "assets/组帧/file-20260906173109138.png",
-    "assets/组帧/file-20260906171019833.png",
-    "assets/组帧/file-20260906171004813.png",
-    "assets/组帧/file-20260906170956570.png",
+    "408/assets/检错编码",
+    "408/assets/组帧",
+    "408/assets/数据链路层的功能",
+    "408/assets/检错编码/file-20260906182653796.png",
+    "408/组帧.md",
+    "408/assets/组帧/file-20260906182652539.png",
+    "高等数学/泰勒公式.md",
+    "408/assets/检错编码/file-20260906182653800.png",
+    "408/检错编码.md",
+    "assets/检错编码",
+    "408/assets/组帧/file-20260906182652561.png",
+    "408/assets/组帧/file-20260906182652567.png",
+    "408/assets/组帧/file-20260906182652594.png",
+    "408/assets/组帧/file-20260906182652601.png",
+    "408/assets/组帧/file-20260906182652607.png",
+    "408/assets/组帧/file-20260906182652616.png",
+    "408/assets/组帧/file-20260906182652622.png",
     "assets/组帧",
-    "数据链路层的功能.md",
-    "assets/数据链路层的功能/file-20260906152630726.png",
+    "408/数据链路层的功能.md",
     "408/OSI参考模型.md",
     "408/计算机网络分层结构.md",
-    "assets/数据链路层的功能/file-20260906152047570.png",
     "assets/数据链路层的功能",
     "408/TCP IP模型.md",
     "408/无连接UDP和面向连接TCP.md",
@@ -309,7 +314,6 @@
     "408/assets/物理层设备",
     "assets/物理层设备",
     "高等数学/三角函数公式.md",
-    "高等数学/泰勒公式.md",
     "高等数学/有理函数的积分.md",
     "高等数学/求导公式.md",
     "高等数学/求不定积分时的思路.md",
@@ -323,12 +327,8 @@
     "assets/传输介质",
     "408/编码和调制.md",
     "408/assets/编码和调制",
-    "assets/编码和调制",
     "高等数学/敛散性判别法.md",
     "高等数学/两个重要数列极限.md",
-    "408/assets/信道的极限容量",
-    "408/assets/通信基础基本概念",
-    "408/电路交换，报文交换，分组交换.md",
     "未命名.canvas"
   ]
 }
