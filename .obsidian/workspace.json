@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "2715eacea4c25377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "检错编码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "检错编码"
+            }
+          },
+          {
             "id": "732ef7adda59b7da",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组帧.md",
+                "file": "检错编码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,8 +281,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af3aecd0a240c0ae",
+  "active": "2715eacea4c25377",
   "lastOpenFiles": [
+    "组帧.md",
+    "检错编码.md",
     "assets/组帧/file-20260906174220923.png",
     "assets/组帧/file-20260906174004819.png",
     "assets/组帧/file-20260906173701918.png",
@@ -279,7 +295,6 @@
     "assets/组帧/file-20260906170956570.png",
     "assets/组帧",
     "数据链路层的功能.md",
-    "组帧.md",
     "assets/数据链路层的功能/file-20260906152630726.png",
     "408/OSI参考模型.md",
     "408/计算机网络分层结构.md",
@@ -292,7 +307,6 @@
     "408/物理层设备.md",
     "408/传输介质.md",
     "408/assets/物理层设备",
-    "408/assets/物理层设备/file-20260906145321431.png",
     "assets/物理层设备",
     "高等数学/三角函数公式.md",
     "高等数学/泰勒公式.md",
