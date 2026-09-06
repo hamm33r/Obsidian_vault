@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "843ca95948771ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理层设备.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "物理层设备"
+            }
+          },
+          {
             "id": "732ef7adda59b7da",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "泰勒公式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/传输介质.md",
+                "file": "物理层设备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,8 +239,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "422baba3e1ca8f9a",
+  "active": "843ca95948771ab0",
   "lastOpenFiles": [
+    "assets/物理层设备/file-20260906141257341.png",
+    "assets/物理层设备",
+    "408/传输介质.md",
+    "物理层设备.md",
     "408/assets/传输介质/file-20260906140912341.png",
     "408/assets/传输介质/file-20260906140747697.png",
     "408/assets/传输介质/file-20260906140724300.png",
@@ -241,7 +260,6 @@
     "高等数学/常用泰勒公式.md",
     "高等数学/常用凑微分公式.md",
     "高等数学/常见的奇函数.md",
-    "408/传输介质.md",
     "408/assets/传输介质",
     "408/assets/传输介质/file-20260906134157699.png",
     "408/assets/传输介质/file-20260906134157706.png",
@@ -249,7 +267,6 @@
     "408/assets/传输介质/file-20260906134157701.png",
     "408/assets/传输介质/file-20260906134157702.png",
     "408/assets/传输介质/file-20260906134157718.png",
-    "408/assets/传输介质/file-20260906134157709.png",
     "assets/传输介质",
     "408/编码和调制.md",
     "408/信道的极限容量.md",
@@ -270,8 +287,6 @@
     "408/assets/TCP IP模型",
     "assets/两级页表/两级页表地址变换图.md",
     "408/卡特兰数.md",
-    "408/assets/OSI参考模型",
-    "408/408错题.md",
     "未命名.canvas"
   ]
 }
