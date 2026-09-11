@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "流量控制，可靠传输与滑动窗口.md",
+                "file": "高等数学/基本积分公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,14 +267,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb3fae6a6d003555",
+  "active": "80ede6c4c32948b4",
   "lastOpenFiles": [
+    "流量控制，可靠传输与滑动窗口.md",
     "assets/流量控制，可靠传输与滑动窗口/file-20260909204037926.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260909203700898.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260909203501679.png",
     "assets/流量控制，可靠传输与滑动窗口",
     "高等数学/基本积分公式.md",
-    "流量控制，可靠传输与滑动窗口.md",
     "高等数学/泰勒公式.md",
     "高等数学/三角函数公式.md",
     "高等数学/华里士公式（点火公式）.md",
@@ -287,7 +287,6 @@
     "408/assets/检错编码/file-20260908173642653.png",
     "408/assets/检错编码/file-20260908173252261.png",
     "408/assets/检错编码/file-20260908172925536.png",
-    "408/assets/检错编码/file-20260907202750774.png",
     "高等数学/区间再现公式.md",
     "高等数学/求导公式.md",
     "高等数学/求不定积分时的思路.md",
