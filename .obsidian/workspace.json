@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三种协议的信道利用率.md",
+                "file": "流量控制，可靠传输与滑动窗口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,15 +239,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7790c671ec7830b8",
+  "active": "e4cd4c21f596a164",
   "lastOpenFiles": [
+    "assets/流量控制，可靠传输与滑动窗口/file-20260913174913476.png",
+    "三种协议的信道利用率.md",
     "assets/三种协议的信道利用率/file-20260913174116113.png",
     "assets/三种协议的信道利用率/file-20260913173815706.png",
     "assets/三种协议的信道利用率/file-20260913173714121.png",
     "assets/三种协议的信道利用率",
     "高等数学/基本积分公式.md",
     "流量控制，可靠传输与滑动窗口.md",
-    "三种协议的信道利用率.md",
     "assets/流量控制，可靠传输与滑动窗口/file-20260911221519117.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260911221427312.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260911221354418.png",
@@ -255,7 +256,6 @@
     "assets/流量控制，可靠传输与滑动窗口/file-20260911221141164.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260911220950316.png",
     "assets/流量控制，可靠传输与滑动窗口/file-20260911220900456.png",
-    "assets/流量控制，可靠传输与滑动窗口/file-20260911220824264.png",
     "assets/流量控制，可靠传输与滑动窗口",
     "高等数学/泰勒公式.md",
     "高等数学/三角函数公式.md",
