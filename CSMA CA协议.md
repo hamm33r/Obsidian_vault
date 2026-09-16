@@ -11,3 +11,6 @@ tags:
 >![](assets/CSMA%20CA协议/file-20260916165107093.png)
 >切换WiFi热点的动作称为漫游
 
+# 为什么不采用[CSMA CD协议](CSMA%20CD协议.md)
+![](assets/CSMA%20CA协议/file-20260916165539963.png)
+
