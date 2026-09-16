@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "c815d6e0496a9ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "令牌传递协议.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "令牌传递协议"
+            }
+          },
+          {
             "id": "1baf750f0015dee3",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "计算机网络的概念"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,8 +118,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSMA CA协议.md",
+                "file": "令牌传递协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,8 +239,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d837933a50504f80",
+  "active": "c815d6e0496a9ca2",
   "lastOpenFiles": [
+    "assets/令牌传递协议/file-20260916171547572.png",
+    "assets/令牌传递协议/file-20260916171524444.png",
+    "assets/令牌传递协议/file-20260916171448569.png",
+    "assets/令牌传递协议/file-20260916171410977.png",
+    "assets/令牌传递协议",
+    "CSMA CA协议.md",
+    "令牌传递协议.md",
     "assets/CSMA CA协议/file-20260916170856651.png",
     "assets/CSMA CA协议/file-20260916170654536.png",
     "assets/CSMA CA协议/file-20260916170517395.png",
@@ -234,12 +255,7 @@
     "assets/CSMA CA协议/file-20260916170126955.png",
     "assets/CSMA CA协议/file-20260916170042609.png",
     "assets/CSMA CA协议/file-20260916165539963.png",
-    "assets/CSMA CA协议/file-20260916165107093.png",
-    "assets/CSMA CA协议/file-20260916165035375.png",
-    "assets/CSMA CA协议/file-20260916165017991.png",
     "408/计算机网络的概念.md",
-    "CSMA CA协议.md",
-    "assets/CSMA CA协议/file-20260916164615155.png",
     "assets/CSMA CA协议",
     "CSMA CD协议.md",
     "assets/CSMA CD协议",
@@ -261,7 +277,6 @@
     "408/计算机网络分层结构.md",
     "408/总线的性能指标.md",
     "assets/三种协议的信道利用率",
-    "assets/流量控制，可靠传输与滑动窗口",
     "高等数学/三角函数公式.md",
     "高等数学/华里士公式（点火公式）.md",
     "高等数学/分部积分法.md",
@@ -272,7 +287,6 @@
     "高等数学/不等式大合集.md",
     "高等数学/定积分求面积,体积,弧长,平均值.md",
     "高等数学/函数的奇偶性.md",
-    "高等数学/常见的奇函数.md",
     "未命名.canvas"
   ]
 }
