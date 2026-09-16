@@ -4,6 +4,8 @@ tags:
 ---
 ![](assets/CSMA%20CD协议/file-20260916161657773.png)
 
+![](assets/CSMA%20CD协议/file-20260916164237021.png)
+>以太网使用的是CSMA/CD协议，规定了最短帧长和最长帧长
 # 发送方
 ![](assets/CSMA%20CD协议/file-20260916162324298.png)
 >![](assets/CSMA%20CD协议/file-20260916162355961.png)
