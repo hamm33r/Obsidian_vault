@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/随机访问介质访问控制.md",
+                "file": "CSMA CD协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随机访问介质访问控制"
+              "title": "CSMA CD协议"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/随机访问介质访问控制.md",
+                "file": "CSMA CD协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,6 +297,8 @@
   },
   "active": "7790c671ec7830b8",
   "lastOpenFiles": [
+    "408/随机访问介质访问控制.md",
+    "CSMA CD协议.md",
     "408/assets/随机访问介质访问控制/file-20260916161120905.png",
     "408/assets/随机访问介质访问控制/file-20260916161113109.png",
     "408/assets/随机访问介质访问控制/file-20260916161106835.png",
@@ -304,7 +306,6 @@
     "408/TCP IP模型.md",
     "408/流量控制，可靠传输与滑动窗口.md",
     "408/三种协议的信道利用率.md",
-    "408/随机访问介质访问控制.md",
     "408/assets/随机访问介质访问控制",
     "408/assets/信道划分介质访问控制",
     "408/信道划分介质访问控制.md",
@@ -315,7 +316,6 @@
     "408/assets/随机访问介质访问控制/file-20260916160013567.png",
     "408/assets/随机访问介质访问控制/file-20260916160013569.png",
     "408/assets/随机访问介质访问控制/file-20260916160013570.png",
-    "408/assets/随机访问介质访问控制/file-20260916160013572.png",
     "assets/随机访问介质访问控制",
     "assets/信道划分介质访问控制",
     "高等数学/基本积分公式.md",
