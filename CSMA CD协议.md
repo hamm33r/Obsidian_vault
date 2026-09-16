@@ -18,3 +18,6 @@ tags:
 
 # 接收方
 ![](assets/CSMA%20CD协议/file-20260916163843545.png)
+
+# 最长帧长
+![](assets/CSMA%20CD协议/file-20260916164022932.png)
