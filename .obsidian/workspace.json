@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "令牌传递协议.md",
+                "file": "408/随机访问介质访问控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "令牌传递协议"
+              "title": "随机访问介质访问控制"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络的概念.md",
+                "file": "令牌传递协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络的概念"
+              "title": "令牌传递协议"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,8 +239,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c815d6e0496a9ca2",
+  "active": "1baf750f0015dee3",
   "lastOpenFiles": [
+    "assets/令牌传递协议/file-20260916173553677.png",
+    "408/计算机网络的概念.md",
+    "408/随机访问介质访问控制.md",
+    "令牌传递协议.md",
     "assets/令牌传递协议/file-20260916172612223.png",
     "assets/令牌传递协议/file-20260916172400713.png",
     "assets/令牌传递协议/file-20260916172306725.png",
@@ -251,15 +255,11 @@
     "assets/令牌传递协议/file-20260916171547572.png",
     "assets/令牌传递协议/file-20260916171524444.png",
     "assets/令牌传递协议/file-20260916171448569.png",
-    "assets/令牌传递协议/file-20260916171410977.png",
     "assets/令牌传递协议",
     "CSMA CA协议.md",
-    "令牌传递协议.md",
-    "408/计算机网络的概念.md",
     "assets/CSMA CA协议",
     "CSMA CD协议.md",
     "assets/CSMA CD协议",
-    "408/随机访问介质访问控制.md",
     "高等数学/导数定义解题.md",
     "408/TCP IP模型.md",
     "408/流量控制，可靠传输与滑动窗口.md",
