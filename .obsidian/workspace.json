@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d10208302fd3eba5",
+        "id": "ffae32ac7daf36ad",
         "type": "tabs",
         "children": [
           {
-            "id": "d837933a50504f80",
+            "id": "6a54e0292e936587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSMA CA协议.md",
+                "file": "高等数学/基本积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSMA CA协议"
-            }
-          },
-          {
-            "id": "c815d6e0496a9ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/随机访问介质访问控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "随机访问介质访问控制"
-            }
-          },
-          {
-            "id": "1baf750f0015dee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "令牌传递协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "令牌传递协议"
+              "title": "基本积分公式"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "令牌传递协议.md",
+                "file": "高等数学/基本积分公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,26 +210,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1baf750f0015dee3",
+  "active": "6a54e0292e936587",
   "lastOpenFiles": [
-    "assets/令牌传递协议/file-20260916173553677.png",
+    "408/assets/令牌传递协议",
+    "408/assets/CSMA CA协议",
+    "408/assets/CSMA CD协议",
+    "408/令牌传递协议.md",
+    "408/assets/令牌传递协议/file-20260916210740462.png",
     "408/计算机网络的概念.md",
     "408/随机访问介质访问控制.md",
-    "令牌传递协议.md",
-    "assets/令牌传递协议/file-20260916172612223.png",
-    "assets/令牌传递协议/file-20260916172400713.png",
-    "assets/令牌传递协议/file-20260916172306725.png",
-    "assets/令牌传递协议/file-20260916172213853.png",
-    "assets/令牌传递协议/file-20260916171920460.png",
-    "assets/令牌传递协议/file-20260916171833093.png",
-    "assets/令牌传递协议/file-20260916171650553.png",
-    "assets/令牌传递协议/file-20260916171547572.png",
-    "assets/令牌传递协议/file-20260916171524444.png",
-    "assets/令牌传递协议/file-20260916171448569.png",
+    "408/assets/令牌传递协议/file-20260916210740480.png",
+    "408/assets/令牌传递协议/file-20260916210740487.png",
+    "408/assets/令牌传递协议/file-20260916210740495.png",
+    "408/assets/令牌传递协议/file-20260916210740502.png",
+    "408/assets/令牌传递协议/file-20260916210740526.png",
+    "408/assets/令牌传递协议/file-20260916210740534.png",
+    "408/assets/令牌传递协议/file-20260916210740541.png",
+    "408/assets/令牌传递协议/file-20260916210740548.png",
+    "408/assets/令牌传递协议/file-20260916210740557.png",
     "assets/令牌传递协议",
-    "CSMA CA协议.md",
+    "408/CSMA CA协议.md",
     "assets/CSMA CA协议",
-    "CSMA CD协议.md",
+    "408/CSMA CD协议.md",
     "assets/CSMA CD协议",
     "高等数学/导数定义解题.md",
     "408/TCP IP模型.md",
@@ -271,12 +244,10 @@
     "assets/信道划分介质访问控制",
     "高等数学/基本积分公式.md",
     "408/assets/三种协议的信道利用率",
-    "408/assets/流量控制，可靠传输与滑动窗口",
     "高等数学/泰勒公式.md",
     "408/计算机网络的性能指标.md",
     "408/计算机网络分层结构.md",
     "408/总线的性能指标.md",
-    "assets/三种协议的信道利用率",
     "高等数学/三角函数公式.md",
     "高等数学/华里士公式（点火公式）.md",
     "高等数学/分部积分法.md",
