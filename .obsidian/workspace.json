@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信道划分介质访问控制.md",
+                "file": "408/信道划分介质访问控制.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信道划分介质访问控制.md",
+                "file": "408/流量控制，可靠传输与滑动窗口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信道划分介质访问控制"
+              "title": "流量控制，可靠传输与滑动窗口"
+            }
+          },
+          {
+            "id": "d1a7ea6bb2fd5174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/TCP IP模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP IP模型"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "导数",
+                "query": "TCP协议",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -174,7 +188,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信道划分介质访问控制.md",
+                "file": "408/TCP IP模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,21 +310,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed93f0470bde4937",
+  "active": "d1a7ea6bb2fd5174",
   "lastOpenFiles": [
-    "随机访问介质访问控制.md",
-    "assets/随机访问介质访问控制/file-20260916155314630.png",
-    "assets/随机访问介质访问控制/file-20260916155052923.png",
-    "assets/随机访问介质访问控制/file-20260916154740514.png",
-    "assets/随机访问介质访问控制/file-20260916154444672.png",
-    "assets/随机访问介质访问控制/file-20260916154158393.png",
-    "assets/随机访问介质访问控制/file-20260916154003685.png",
-    "assets/随机访问介质访问控制/file-20260916153931223.png",
-    "assets/随机访问介质访问控制/file-20260916153712110.png",
-    "assets/随机访问介质访问控制/file-20260916153700038.png",
+    "408/流量控制，可靠传输与滑动窗口.md",
+    "408/三种协议的信道利用率.md",
+    "408/随机访问介质访问控制.md",
+    "408/assets/随机访问介质访问控制",
+    "408/assets/信道划分介质访问控制",
+    "408/信道划分介质访问控制.md",
+    "408/assets/随机访问介质访问控制/file-20260916160013555.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013561.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013564.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013565.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013567.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013569.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013570.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013572.png",
+    "408/assets/随机访问介质访问控制/file-20260916160013573.png",
     "assets/随机访问介质访问控制",
-    "信道划分介质访问控制.md",
-    "assets/信道划分介质访问控制/file-20260916153047335.png",
+    "408/assets/信道划分介质访问控制/file-20260916160012170.png",
     "assets/信道划分介质访问控制",
     "高等数学/基本积分公式.md",
     "408/assets/三种协议的信道利用率",
@@ -317,8 +336,6 @@
     "高等数学/泰勒公式.md",
     "408/计算机网络的性能指标.md",
     "高等数学/导数定义解题.md",
-    "408/三种协议的信道利用率.md",
-    "408/流量控制，可靠传输与滑动窗口.md",
     "408/计算机网络分层结构.md",
     "408/总线的性能指标.md",
     "assets/三种协议的信道利用率",
@@ -339,9 +356,7 @@
     "高等数学/因式分解公式.md",
     "408/assets/检错编码",
     "408/assets/组帧",
-    "408/assets/数据链路层的功能",
     "408/组帧.md",
-    "assets/检错编码",
     "未命名.canvas"
   ]
 }
