@@ -4,7 +4,7 @@ tags:
 ---
 [CSMA协议](408/随机访问介质访问控制.md#CSMA协议)
  ![](assets/CSMA%20CA协议/file-20260916164615155.png)
-
+![](assets/CSMA%20CA协议/file-20260916170856651.png)
 # 先不考虑隐蔽站的问题
 ![](assets/CSMA%20CA协议/file-20260916170042609.png)
 
