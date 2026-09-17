@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "局域网的基本概念和体系结构.md",
+                "file": "408/传输介质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局域网的基本概念和体系结构"
+              "title": "传输介质"
             }
           }
         ],
@@ -111,8 +111,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数列",
-                "matchingCase": true,
+                "query": "同轴",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "局域网的基本概念和体系结构.md",
+                "file": "408/传输介质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,12 +253,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31661f604bcf43f6",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
+    "局域网的基本概念和体系结构.md",
     "assets/局域网的基本概念和体系结构/file-20260917193903491.png",
     "assets/局域网的基本概念和体系结构",
     "408/信道划分介质访问控制.md",
-    "局域网的基本概念和体系结构.md",
     "408/assets/信道划分介质访问控制/file-20260917193431256.png",
     "408/三种协议的信道利用率.md",
     "408/随机访问介质访问控制.md",
@@ -284,7 +284,6 @@
     "408/assets/令牌传递协议/file-20260916210740526.png",
     "408/assets/令牌传递协议/file-20260916210740534.png",
     "408/assets/令牌传递协议/file-20260916210740541.png",
-    "408/assets/令牌传递协议/file-20260916210740548.png",
     "assets/令牌传递协议",
     "408/CSMA CA协议.md",
     "assets/CSMA CA协议",
