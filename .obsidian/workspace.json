@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/OSI参考模型.md",
+                "file": "以太网与IEEE802.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -311,15 +311,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6768563298526f17",
+  "active": "0152c557a7c8be9c",
   "lastOpenFiles": [
+    "assets/以太网与IEEE802.3/file-20260917203830425.png",
+    "408/OSI参考模型.md",
+    "408/计算机网络分层结构.md",
     "408/基本分页存储管理.md",
     "408/流量控制，可靠传输与滑动窗口.md",
     "408/组帧.md",
-    "408/计算机网络分层结构.md",
     "408/计算机网络的性能指标.md",
     "408/通信基础基本概念.md",
-    "408/OSI参考模型.md",
     "408/TCP IP模型.md",
     "408/三种交换方式的性能分析.md",
     "高等数学/求导公式.md",
@@ -347,7 +348,6 @@
     "高等数学/两个重要数列极限.md",
     "高等数学/数列极限.md",
     "高等数学/数列和的极限.md",
-    "高等数学/基本积分公式.md",
     "408/assets/令牌传递协议",
     "408/assets/CSMA CA协议",
     "408/assets/CSMA CD协议",
