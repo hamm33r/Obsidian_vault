@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-custom-attachment-location",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "advanced-rename-and-delete-handler"
 ]
