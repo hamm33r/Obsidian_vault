@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN基本概念和原理.md",
+                "file": "以太网与IEEE802.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLAN基本概念和原理"
+              "title": "以太网与IEEE802.3"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "局域网的基本概念和体系结构.md",
+                "file": "VLAN基本概念和原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局域网的基本概念和体系结构"
+              "title": "VLAN基本概念和原理"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "局域网的基本概念和体系结构.md",
+                "file": "以太网与IEEE802.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,10 +238,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7928f9e98418e15e",
+  "active": "979df67e8b08fe9f",
   "lastOpenFiles": [
-    "408/传输介质.md",
+    "VLAN基本概念和原理.md",
+    "以太网与IEEE802.3.md",
+    "局域网的基本概念和体系结构.md",
     "IEEE 802.11无线局域网.md",
+    "408/传输介质.md",
     "assets/IEEE 802.11无线局域网/file-20260918215101257.png",
     "assets/IEEE 802.11无线局域网/file-20260918214932265.png",
     "assets/IEEE 802.11无线局域网/file-20260918214919288.png",
@@ -254,9 +256,6 @@
     "assets/IEEE 802.11无线局域网/file-20260918211841701.png",
     "assets/IEEE 802.11无线局域网/file-20260918211527107.png",
     "assets/IEEE 802.11无线局域网",
-    "VLAN基本概念和原理.md",
-    "以太网与IEEE802.3.md",
-    "局域网的基本概念和体系结构.md",
     "高等数学/泰勒公式.md",
     "高等数学/基本积分公式.md",
     "assets/VLAN基本概念和原理",
