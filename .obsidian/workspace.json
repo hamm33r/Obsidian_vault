@@ -320,7 +320,6 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
