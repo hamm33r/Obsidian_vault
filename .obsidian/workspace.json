@@ -4,95 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffae32ac7daf36ad",
+        "id": "e64c44118221349c",
         "type": "tabs",
         "children": [
           {
-            "id": "6a54e0292e936587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机网络分层结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机网络分层结构"
-            }
-          },
-          {
-            "id": "6768563298526f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/OSI参考模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSI参考模型"
-            }
-          },
-          {
-            "id": "d713f0119c775980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/传输介质.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传输介质"
-            }
-          },
-          {
-            "id": "f7c9ecf00bb20e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "局域网的基本概念和体系结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "局域网的基本概念和体系结构"
-            }
-          },
-          {
-            "id": "7c5c0fdeafd3fa44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "局域网的基本概念和体系结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "局域网的基本概念和体系结构"
-            }
-          },
-          {
-            "id": "0152c557a7c8be9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "以太网与IEEE802.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "以太网与IEEE802.3"
-            }
-          },
-          {
-            "id": "ae0417d75fde0870",
+            "id": "979df67e8b08fe9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,37 +20,8 @@
               "icon": "lucide-file",
               "title": "VLAN基本概念和原理"
             }
-          },
-          {
-            "id": "7227996203a17acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "局域网的基本概念和体系结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "局域网的基本概念和体系结构"
-            }
-          },
-          {
-            "id": "31661f604bcf43f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/传输介质.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传输介质"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,12 +210,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ae0417d75fde0870",
+  "active": "979df67e8b08fe9f",
   "lastOpenFiles": [
-    "assets/VLAN基本概念和原理/file-20260917205413426.png",
-    "assets/VLAN基本概念和原理",
     "以太网与IEEE802.3.md",
     "VLAN基本概念和原理.md",
+    "局域网的基本概念和体系结构.md",
+    "高等数学/泰勒公式.md",
+    "高等数学/基本积分公式.md",
+    "assets/VLAN基本概念和原理/file-20260917205413426.png",
+    "assets/VLAN基本概念和原理",
     "assets/以太网与IEEE802.3/file-20260917205129389.png",
     "assets/以太网与IEEE802.3/file-20260917205038610.png",
     "assets/以太网与IEEE802.3/file-20260917204740014.png",
@@ -347,10 +237,8 @@
     "assets/以太网与IEEE802.3/file-20260917202314290.png",
     "assets/以太网与IEEE802.3/file-20260917202145585.png",
     "408/物理层设备.md",
-    "局域网的基本概念和体系结构.md",
     "assets/以太网与IEEE802.3/file-20260917201919903.png",
     "assets/以太网与IEEE802.3/file-20260917201758481.png",
-    "assets/以太网与IEEE802.3/file-20260917201447057.png",
     "assets/以太网与IEEE802.3",
     "408/CSMA CD协议.md",
     "408/传输介质.md",
@@ -363,7 +251,6 @@
     "高等数学/三角函数公式.md",
     "高等数学/分部积分法.md",
     "高等数学/两个重要数列极限.md",
-    "高等数学/数列极限.md",
     "408/assets/令牌传递协议",
     "408/assets/CSMA CA协议",
     "408/assets/CSMA CD协议",
