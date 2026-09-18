@@ -14,4 +14,5 @@ tags:
 ## 基于MAC地址
 ![](assets/VLAN基本概念和原理/file-20260918205341882.png)
 
-## 
+## 基于IP地址
+![](assets/VLAN基本概念和原理/file-20260918205520035.png)
