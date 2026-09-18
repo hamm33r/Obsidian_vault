@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "IEEE 802.11无线局域网"
             }
+          },
+          {
+            "id": "7928f9e98418e15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/传输介质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传输介质"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "帧",
+                "query": "Base",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -104,7 +118,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IEEE 802.11无线局域网.md",
+                "file": "408/传输介质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,12 +240,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f935d796f88068d0",
+  "active": "7928f9e98418e15e",
   "lastOpenFiles": [
+    "IEEE 802.11无线局域网.md",
     "assets/IEEE 802.11无线局域网/file-20260918215101257.png",
     "assets/IEEE 802.11无线局域网/file-20260918214932265.png",
     "assets/IEEE 802.11无线局域网/file-20260918214919288.png",
-    "IEEE 802.11无线局域网.md",
     "assets/IEEE 802.11无线局域网/file-20260918214725959.png",
     "assets/IEEE 802.11无线局域网/file-20260918214339457.png",
     "assets/IEEE 802.11无线局域网/file-20260918212248987.png",
@@ -240,7 +255,6 @@
     "assets/IEEE 802.11无线局域网/file-20260918211527107.png",
     "assets/IEEE 802.11无线局域网",
     "VLAN基本概念和原理.md",
-    "assets/VLAN基本概念和原理/file-20260918205910802.png",
     "以太网与IEEE802.3.md",
     "局域网的基本概念和体系结构.md",
     "高等数学/泰勒公式.md",

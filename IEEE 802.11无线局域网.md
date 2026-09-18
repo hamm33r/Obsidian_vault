@@ -6,7 +6,7 @@ tags:
 
 # 基本概念
 ![](assets/IEEE%20802.11无线局域网/file-20260918211841701.png)
->![](assets/IEEE%20802.11无线局域网/file-20260918212020079.png)
+>AP,WAP,BSS,SSID,BSA![](assets/IEEE%20802.11无线局域网/file-20260918212020079.png)
 
 ![](assets/IEEE%20802.11无线局域网/file-20260918212133017.png)
 
