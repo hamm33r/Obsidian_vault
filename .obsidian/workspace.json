@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN基本概念和原理.md",
+                "file": "408/计算机网络的性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLAN基本概念和原理"
+              "title": "计算机网络的性能指标"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN基本概念和原理.md",
+                "file": "408/CSMA CD协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLAN基本概念和原理"
+              "title": "CSMA CD协议"
             }
           }
         ],
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VLAN基本概念和原理.md",
+                "file": "408/CSMA CD协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,13 +255,15 @@
   },
   "active": "7928f9e98418e15e",
   "lastOpenFiles": [
+    "408/assets/CSMA CD协议/file-20260919154302700.png",
     "以太网与IEEE802.3.md",
+    "408/计算机网络的性能指标.md",
     "VLAN基本概念和原理.md",
+    "408/CSMA CD协议.md",
+    "IEEE 802.11无线局域网.md",
+    "局域网的基本概念和体系结构.md",
     "assets/VLAN基本概念和原理/file-20260919151708888.png",
     "assets/VLAN基本概念和原理/file-20260919151704795.png",
-    "IEEE 802.11无线局域网.md",
-    "408/CSMA CD协议.md",
-    "局域网的基本概念和体系结构.md",
     "408/传输介质.md",
     "assets/IEEE 802.11无线局域网/file-20260918215101257.png",
     "assets/IEEE 802.11无线局域网/file-20260918214932265.png",
@@ -280,7 +282,6 @@
     "408/基本分页存储管理.md",
     "408/流量控制，可靠传输与滑动窗口.md",
     "408/组帧.md",
-    "408/计算机网络的性能指标.md",
     "408/通信基础基本概念.md",
     "408/TCP IP模型.md",
     "408/三种交换方式的性能分析.md",
