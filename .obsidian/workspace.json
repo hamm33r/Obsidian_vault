@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "以太网与IEEE802.3.md",
+                "file": "IEEE 802.11无线局域网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "以太网与IEEE802.3"
+              "title": "IEEE 802.11无线局域网"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "以太网与IEEE802.3.md",
+                "file": "IEEE 802.11无线局域网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,9 +297,9 @@
   },
   "active": "7928f9e98418e15e",
   "lastOpenFiles": [
+    "以太网与IEEE802.3.md",
     "IEEE 802.11无线局域网.md",
     "408/CSMA CD协议.md",
-    "以太网与IEEE802.3.md",
     "408/传输介质.md",
     "局域网的基本概念和体系结构.md",
     "408/随机访问介质访问控制.md",
