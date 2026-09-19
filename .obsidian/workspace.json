@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/CSMA CA协议.md",
+                "file": "广域网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSMA CA协议"
+              "title": "广域网"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/无连接UDP和面向连接TCP.md",
+                "file": "广域网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无连接UDP和面向连接TCP"
+              "title": "广域网"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/CSMA CA协议.md",
+                "file": "广域网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,12 +309,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fb1e950f0d053b9c",
+  "active": "ff03caac407b5319",
   "lastOpenFiles": [
+    "assets/广域网/file-20260919202821507.png",
+    "assets/广域网/file-20260919202732166.png",
+    "assets/广域网/file-20260919202634508.png",
+    "assets/广域网",
+    "assets/局域网的基本概念和体系结构/file-20260917193903491.png",
+    "广域网.md",
+    "408/无连接UDP和面向连接TCP.md",
+    "assets/广域网/file-20260919202612452.png",
+    "408/CSMA CA协议.md",
     "408/assets/CSMA CA协议/file-20260919180023454.png",
     "IEEE 802.11无线局域网.md",
     "408/传输介质.md",
-    "408/CSMA CA协议.md",
     "以太网与IEEE802.3.md",
     "408/CSMA CD协议.md",
     "局域网的基本概念和体系结构.md",
@@ -331,17 +339,10 @@
     "408/磁盘调度算法.md",
     "assets/IEEE 802.11无线局域网/file-20260919170755267.png",
     "VLAN基本概念和原理.md",
-    "408/无连接UDP和面向连接TCP.md",
-    "未命名.md",
     "408/assets/CSMA CD协议/file-20260919154302700.png",
     "assets/VLAN基本概念和原理/file-20260919151708888.png",
     "assets/VLAN基本概念和原理/file-20260919151704795.png",
     "assets/IEEE 802.11无线局域网/file-20260918215101257.png",
-    "assets/IEEE 802.11无线局域网/file-20260918214932265.png",
-    "assets/IEEE 802.11无线局域网/file-20260918214919288.png",
-    "assets/IEEE 802.11无线局域网/file-20260918214725959.png",
-    "assets/IEEE 802.11无线局域网/file-20260918214339457.png",
-    "assets/IEEE 802.11无线局域网/file-20260918212248987.png",
     "assets/IEEE 802.11无线局域网",
     "高等数学/泰勒公式.md",
     "高等数学/基本积分公式.md",
@@ -356,7 +357,6 @@
     "408/assets/CSMA CD协议",
     "assets/令牌传递协议",
     "assets/CSMA CA协议",
-    "assets/CSMA CD协议",
     "未命名.canvas"
   ]
 }
