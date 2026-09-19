@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "广域网"
             }
+          },
+          {
+            "id": "5cb49e8d6e5d963c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/组帧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "组帧"
+            }
           }
         ]
       }
@@ -213,10 +227,10 @@
   },
   "active": "fb1e950f0d053b9c",
   "lastOpenFiles": [
-    "assets/广域网/file-20260919203859489.png",
     "408/组帧.md",
-    "408/编码和调制.md",
     "广域网.md",
+    "assets/广域网/file-20260919203859489.png",
+    "408/编码和调制.md",
     "assets/广域网/file-20260919203152973.png",
     "assets/广域网/file-20260919202821507.png",
     "assets/广域网/file-20260919202732166.png",
@@ -245,7 +259,6 @@
     "assets/IEEE 802.11无线局域网/file-20260919170755267.png",
     "VLAN基本概念和原理.md",
     "408/assets/CSMA CD协议/file-20260919154302700.png",
-    "assets/VLAN基本概念和原理/file-20260919151708888.png",
     "assets/IEEE 802.11无线局域网",
     "高等数学/泰勒公式.md",
     "高等数学/基本积分公式.md",
