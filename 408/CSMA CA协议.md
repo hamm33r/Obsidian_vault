@@ -12,6 +12,9 @@ tags:
 ## 发送数据
 ![](assets/CSMA%20CA协议/file-20260916210739579.png)
 
+### NAV
+![](assets/CSMA%20CA协议/file-20260919180023454.png)
+
 # 解决隐蔽站问题
 ![](assets/CSMA%20CA协议/file-20260916210739571.png)
 
