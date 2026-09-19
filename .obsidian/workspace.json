@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "2743ec9e76cb9c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "以太网与IEEE802.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "以太网与IEEE802.3"
-            }
-          },
-          {
             "id": "f935d796f88068d0",
             "type": "leaf",
             "state": {
@@ -64,21 +50,62 @@
             }
           },
           {
+            "id": "ff03caac407b5319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/无连接UDP和面向连接TCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无连接UDP和面向连接TCP"
+            }
+          },
+          {
+            "id": "25c606f09b26af41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/随机访问介质访问控制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机访问介质访问控制"
+            }
+          },
+          {
             "id": "4f25751674a853e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/传输介质.md",
+                "file": "VLAN基本概念和原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传输介质"
+              "title": "VLAN基本概念和原理"
+            }
+          },
+          {
+            "id": "5dd82f8512b71850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/计算机网络的分类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络的分类"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "同轴电缆",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -228,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "以太网与IEEE802.3.md",
+                "file": "IEEE 802.11无线局域网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,16 +294,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f935d796f88068d0",
+  "active": "979df67e8b08fe9f",
   "lastOpenFiles": [
-    "IEEE 802.11无线局域网.md",
+    "VLAN基本概念和原理.md",
+    "408/随机访问介质访问控制.md",
     "以太网与IEEE802.3.md",
+    "IEEE 802.11无线局域网.md",
+    "408/信道划分介质访问控制.md",
+    "408/无连接UDP和面向连接TCP.md",
+    "408/CSMA CD协议.md",
+    "408/计算机网络的分类.md",
+    "408/传输介质.md",
     "未命名.md",
     "408/CSMA CA协议.md",
-    "VLAN基本概念和原理.md",
     "408/计算机网络的性能指标.md",
-    "408/传输介质.md",
-    "408/CSMA CD协议.md",
     "408/assets/CSMA CD协议/file-20260919154302700.png",
     "局域网的基本概念和体系结构.md",
     "assets/VLAN基本概念和原理/file-20260919151708888.png",
@@ -303,12 +334,8 @@
     "高等数学/求导公式.md",
     "408/物理层设备.md",
     "assets/以太网与IEEE802.3",
-    "408/信道划分介质访问控制.md",
     "高等数学/大观.md",
     "assets/局域网的基本概念和体系结构",
-    "408/三种协议的信道利用率.md",
-    "408/随机访问介质访问控制.md",
-    "408/令牌传递协议.md",
     "408/assets/令牌传递协议",
     "408/assets/CSMA CA协议",
     "408/assets/CSMA CD协议",
