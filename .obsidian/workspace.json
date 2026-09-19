@@ -77,7 +77,8 @@
               "title": "传输介质"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IEEE 802.11无线局域网.md",
+                "file": "以太网与IEEE802.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,11 +267,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "979df67e8b08fe9f",
+  "active": "f935d796f88068d0",
   "lastOpenFiles": [
+    "IEEE 802.11无线局域网.md",
     "以太网与IEEE802.3.md",
     "未命名.md",
-    "IEEE 802.11无线局域网.md",
     "408/CSMA CA协议.md",
     "VLAN基本概念和原理.md",
     "408/计算机网络的性能指标.md",
