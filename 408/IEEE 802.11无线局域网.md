@@ -2,7 +2,7 @@
 tags:
   - 计算机网络
 ---
-使用[CSMA CA协议](408/CSMA%20CA协议.md)
+使用[CSMA CA协议](CSMA%20CA协议.md)
 
 ![](assets/IEEE%20802.11无线局域网/file-20260918211527107.png)
 
