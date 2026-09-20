@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb1e950f0d053b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/广域网.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "广域网"
-            }
-          },
-          {
             "id": "1dd27cce7a6b478b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/无连接UDP和面向连接TCP.md",
+                "file": "以太网交换机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无连接UDP和面向连接TCP"
-            }
-          },
-          {
-            "id": "5cb49e8d6e5d963c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/组帧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "组帧"
+              "title": "以太网交换机"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "零比特",
+                "query": "三角",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -200,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/无连接UDP和面向连接TCP.md",
+                "file": "以太网交换机.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,8 +212,13 @@
   },
   "active": "1dd27cce7a6b478b",
   "lastOpenFiles": [
-    "408/广域网.md",
+    "高等数学/三角函数公式.md",
+    "以太网交换机.md",
+    "高等数学/凹凸函数的定义.md",
+    "高等数学/曲率.md",
+    "高等数学/泰勒公式.md",
     "408/无连接UDP和面向连接TCP.md",
+    "408/广域网.md",
     "408/assets/广域网",
     "408/assets/IEEE 802.11无线局域网",
     "408/assets/VLAN基本概念和原理",
@@ -279,11 +255,7 @@
     "408/VLAN基本概念和原理.md",
     "408/assets/CSMA CD协议/file-20260919154302700.png",
     "assets/IEEE 802.11无线局域网",
-    "高等数学/泰勒公式.md",
-    "高等数学/基本积分公式.md",
     "assets/VLAN基本概念和原理",
-    "408/OSI参考模型.md",
-    "408/基本分页存储管理.md",
     "assets/以太网与IEEE802.3",
     "assets/局域网的基本概念和体系结构",
     "未命名.canvas"
