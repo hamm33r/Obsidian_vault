@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "以太网交换机.md",
+                "file": "408/计算机网络分层结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "以太网交换机"
+              "title": "计算机网络分层结构"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三角",
+                "query": "PDU",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "以太网交换机.md",
+                "file": "408/计算机网络分层结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,20 +210,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1dd27cce7a6b478b",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
+    "408/计算机网络的性能指标.md",
+    "408/电路交换，报文交换，分组交换.md",
+    "408/广域网.md",
+    "408/计算机网络的概念.md",
+    "以太网交换机.md",
+    "408/物理层设备.md",
+    "408/VLAN基本概念和原理.md",
     "assets/以太网交换机/file-20260920211244370.png",
     "assets/以太网交换机/file-20260920211058174.png",
     "assets/以太网交换机/file-20260920210913736.png",
     "assets/以太网交换机/file-20260920210451080.png",
     "assets/以太网交换机",
     "高等数学/三角函数公式.md",
-    "以太网交换机.md",
     "高等数学/凹凸函数的定义.md",
     "高等数学/曲率.md",
     "高等数学/泰勒公式.md",
     "408/无连接UDP和面向连接TCP.md",
-    "408/广域网.md",
     "408/assets/广域网",
     "408/assets/IEEE 802.11无线局域网",
     "408/assets/VLAN基本概念和原理",
@@ -238,7 +243,6 @@
     "408/assets/广域网/file-20260919202634508.png",
     "assets/广域网",
     "408/assets/局域网的基本概念和体系结构/file-20260917193903491.png",
-    "assets/广域网/file-20260919202612452.png",
     "408/CSMA CA协议.md",
     "408/IEEE 802.11无线局域网.md",
     "408/传输介质.md",
@@ -251,10 +255,6 @@
     "408/TCP IP模型.md",
     "408/计算机网络分层结构.md",
     "408/检错编码.md",
-    "408/计算机网络的性能指标.md",
-    "408/计算机网络的分类.md",
-    "408/三种交换方式的性能分析.md",
-    "408/磁盘调度算法.md",
     "assets/IEEE 802.11无线局域网",
     "assets/VLAN基本概念和原理",
     "assets/以太网与IEEE802.3",
