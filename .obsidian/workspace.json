@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IP地址.md",
+                "file": "子网划分与子网掩码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,12 +267,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2e7204f6a05a4c17",
+  "active": "76357afc443476fa",
   "lastOpenFiles": [
+    "IP地址.md",
     "子网划分与子网掩码.md",
     "assets/子网划分与子网掩码/file-20260921210121991.png",
     "assets/子网划分与子网掩码",
-    "IP地址.md",
     "assets/IP地址/file-20260921204527765.png",
     "assets/IP地址/file-20260921191217858.png",
     "assets/IP地址/file-20260921185748697.png",
