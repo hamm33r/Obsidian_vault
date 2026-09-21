@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dd27cce7a6b478b",
+            "id": "6ea8b54b27603c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "6ea8b54b27603c77",
+            "id": "b8bb118e9e5ea971",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,9 +226,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6ea8b54b27603c77",
+  "active": "b8bb118e9e5ea971",
   "lastOpenFiles": [
     "网络层的功能.md",
+    "408/OSI参考模型.md",
     "assets/网络层的功能/file-20260921163721133.png",
     "assets/网络层的功能/file-20260921163637289.png",
     "assets/网络层的功能",
