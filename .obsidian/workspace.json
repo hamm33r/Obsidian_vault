@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络层的功能.md",
+                "file": "408/电路交换，报文交换，分组交换.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d1c26e6728968cd1",
+  "active": "1ff791fb68a0af7d",
   "lastOpenFiles": [
+    "408/assets/电路交换，报文交换，分组交换/file-20260921215009204.png",
+    "网络层的功能.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/assets/电路交换，报文交换，分组交换/file-20260921214003427.png",
     "子网划分与子网掩码.md",
@@ -300,7 +302,6 @@
     "assets/IP地址/file-20260921204527765.png",
     "assets/IP地址/file-20260921191217858.png",
     "assets/IP地址",
-    "网络层的功能.md",
     "assets/IPv4分组",
     "408/无连接UDP和面向连接TCP.md",
     "408/OSI参考模型.md",
