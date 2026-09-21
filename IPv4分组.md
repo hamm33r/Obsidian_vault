@@ -26,5 +26,6 @@ tags:
 >根据标识还有片偏移进行组装![](assets/IPv4分组/file-20260921172741961.png)
 
 ## IP数据报的生存时间TTL
+![](assets/IPv4分组/file-20260921182203995.png)
 ![](assets/IPv4分组/file-20260921181937085.png)
 ![](assets/IPv4分组/file-20260921182023859.png)
