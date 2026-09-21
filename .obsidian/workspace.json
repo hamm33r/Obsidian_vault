@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/电路交换，报文交换，分组交换.md",
+                "file": "网络层的功能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1ff791fb68a0af7d",
+  "active": "d1c26e6728968cd1",
   "lastOpenFiles": [
+    "408/电路交换，报文交换，分组交换.md",
     "408/assets/电路交换，报文交换，分组交换/file-20260921214003427.png",
     "子网划分与子网掩码.md",
     "assets/子网划分与子网掩码/file-20260921212723234.png",
@@ -298,7 +299,6 @@
     "assets/子网划分与子网掩码",
     "assets/IP地址/file-20260921204527765.png",
     "assets/IP地址/file-20260921191217858.png",
-    "assets/IP地址/file-20260921185748697.png",
     "assets/IP地址",
     "网络层的功能.md",
     "assets/IPv4分组",
@@ -308,7 +308,6 @@
     "以太网交换机.md",
     "408/计算机网络分层结构.md",
     "408/计算机网络的性能指标.md",
-    "408/电路交换，报文交换，分组交换.md",
     "408/广域网.md",
     "408/计算机网络的概念.md",
     "408/物理层设备.md",
