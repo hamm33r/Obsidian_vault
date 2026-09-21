@@ -13,3 +13,6 @@ tags:
 ![](assets/IPv4分组/file-20260921165756032.png)
 >最大传送单元（MTU）
 
+例子
+![](assets/IPv4分组/file-20260921170046392.png)
+>
