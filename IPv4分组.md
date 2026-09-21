@@ -29,3 +29,18 @@ tags:
 ![](assets/IPv4分组/file-20260921182203995.png)
 ![](assets/IPv4分组/file-20260921181937085.png)
 ![](assets/IPv4分组/file-20260921182023859.png)
+
+# 总结
+第一行
+![](assets/IPv4分组/file-20260921165355179.png)
+
+第二行![](assets/IPv4分组/file-20260921172511503.png)
+
+第三行![](assets/IPv4分组/file-20260921182203995.png)
+
+第4,5行![](assets/IPv4分组/file-20260921182406106.png)
+>IP地址
+
+![](assets/IPv4分组/file-20260921182602060.png)
+>418首总偏![](assets/IPv4分组/file-20260921182652547.png)
+>首部长度是以4B为单位，总长度是1B为单位，片偏移是8B为单位
