@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "无分类编址CIDR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "无分类编址CIDR"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "无分类编址CIDR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,8 +227,11 @@
   },
   "active": "8c074f1c93e7d43e",
   "lastOpenFiles": [
+    "assets/无分类编址CIDR/file-20260922135905431.png",
+    "assets/无分类编址CIDR/file-20260922135900282.png",
+    "assets/无分类编址CIDR",
     "高等数学/曲率.md",
-    "未命名.md",
+    "无分类编址CIDR.md",
     "高等数学/因式分解公式.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/assets/电路交换，报文交换，分组交换/file-20260921215009204.png",
@@ -245,7 +248,6 @@
     "assets/子网划分与子网掩码/file-20260921211321801.png",
     "assets/子网划分与子网掩码/file-20260921210121991.png",
     "assets/子网划分与子网掩码",
-    "assets/IP地址/file-20260921204527765.png",
     "assets/IP地址",
     "assets/IPv4分组",
     "408/无连接UDP和面向连接TCP.md",
@@ -266,13 +268,11 @@
     "408/assets/IEEE 802.11无线局域网",
     "408/assets/VLAN基本概念和原理",
     "408/assets/以太网与IEEE802.3",
-    "408/assets/局域网的基本概念和体系结构",
     "408/组帧.md",
     "408/编码和调制.md",
     "408/CSMA CA协议.md",
     "408/IEEE 802.11无线局域网.md",
     "408/传输介质.md",
-    "408/以太网与IEEE802.3.md",
     "未命名.canvas"
   ]
 }
