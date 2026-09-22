@@ -3,7 +3,7 @@ tags:
   - 计算机网络
 ---
 ![](assets/无分类编址CIDR/file-20260922135905431.png)
-
+![](assets/无分类编址CIDR/file-20260922142707483.png)
 # 定长子网划分
 ![](assets/无分类编址CIDR/file-20260922140119575.png)
 >例题![](assets/无分类编址CIDR/file-20260922142220340.png)
