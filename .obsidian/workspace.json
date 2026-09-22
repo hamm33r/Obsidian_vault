@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "曲率",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -225,13 +225,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8c074f1c93e7d43e",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
+    "assets/无分类编址CIDR/file-20260922140119575.png",
+    "无分类编址CIDR.md",
     "assets/无分类编址CIDR/file-20260922135905431.png",
     "assets/无分类编址CIDR/file-20260922135900282.png",
     "assets/无分类编址CIDR",
     "高等数学/曲率.md",
-    "无分类编址CIDR.md",
     "高等数学/因式分解公式.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/assets/电路交换，报文交换，分组交换/file-20260921215009204.png",
@@ -245,8 +246,6 @@
     "assets/子网划分与子网掩码/file-20260921212142592.png",
     "assets/子网划分与子网掩码/file-20260921211904659.png",
     "assets/子网划分与子网掩码/file-20260921211650369.png",
-    "assets/子网划分与子网掩码/file-20260921211321801.png",
-    "assets/子网划分与子网掩码/file-20260921210121991.png",
     "assets/子网划分与子网掩码",
     "assets/IP地址",
     "assets/IPv4分组",
