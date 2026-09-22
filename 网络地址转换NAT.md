@@ -15,3 +15,6 @@ tags:
 >一个局域网对外暴露出的IP地址称为外网IP（公网IP）
 >![](assets/网络地址转换NAT/file-20260922152647410.png)
 >![](assets/网络地址转换NAT/file-20260922152740576.png)
+
+# NAT 原理
+![](assets/网络地址转换NAT/file-20260922162034342.png)
