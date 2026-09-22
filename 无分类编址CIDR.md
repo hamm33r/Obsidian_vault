@@ -6,7 +6,7 @@ tags:
 
 # 定长子网划分
 ![](assets/无分类编址CIDR/file-20260922140119575.png)
-
+>例题![](assets/无分类编址CIDR/file-20260922142220340.png)
 # 变长子网划分
 ![](assets/无分类编址CIDR/file-20260922140619558.png)
 
