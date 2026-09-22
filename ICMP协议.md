@@ -30,3 +30,6 @@ tags:
 
 ## 参数问题
 ![](assets/ICMP协议/file-20260922204950975.png)
+
+## 改变路由
+![](assets/ICMP协议/file-20260922205205990.png)
