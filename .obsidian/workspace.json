@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "无分类",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +118,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8c074f1c93e7d43e",
+  "active": "4af916ad6081a372",
   "lastOpenFiles": [
     "408/无分类编址CIDR.md",
     "408/路由聚合.md",
