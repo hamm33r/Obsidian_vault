@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "路由聚合.md",
+                "file": "408/子网划分与子网掩码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "路由聚合"
+              "title": "子网划分与子网掩码"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "路由聚合.md",
+                "file": "408/子网划分与子网掩码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,16 +241,17 @@
   },
   "active": "8c074f1c93e7d43e",
   "lastOpenFiles": [
+    "408/无分类编址CIDR.md",
+    "路由聚合.md",
+    "assets/路由聚合/file-20260922145128427.png",
     "assets/路由聚合/file-20260922144333662.png",
     "assets/路由聚合/file-20260922144118727.png",
     "assets/路由聚合/file-20260922144027684.png",
     "408/子网划分与子网掩码.md",
     "408/IP地址.md",
-    "路由聚合.md",
     "assets/路由聚合/file-20260922143510344.png",
     "assets/路由聚合",
     "408/VLAN基本概念和原理.md",
-    "408/无分类编址CIDR.md",
     "408/assets/无分类编址CIDR",
     "408/assets/子网划分与子网掩码",
     "408/assets/IP地址",
@@ -262,9 +263,7 @@
     "408/assets/无分类编址CIDR/file-20260922142220340.png",
     "408/assets/无分类编址CIDR/file-20260922142040959.png",
     "408/assets/无分类编址CIDR/file-20260922141851987.png",
-    "408/assets/无分类编址CIDR/file-20260922141819092.png",
     "408/IPv4分组.md",
-    "408/assets/无分类编址CIDR/file-20260922140619558.png",
     "assets/无分类编址CIDR",
     "高等数学/曲率.md",
     "高等数学/因式分解公式.md",
