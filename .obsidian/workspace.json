@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/网络层的功能.md",
+                "file": "408/IPv4分组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络层的功能"
+              "title": "IPv4分组"
+            }
+          },
+          {
+            "id": "bb69b9c4e1b741a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP协议.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHCP协议"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/网络层的功能.md",
+                "file": "DHCP协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,8 +267,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "787dc038caa65160",
+  "active": "bb69b9c4e1b741a1",
   "lastOpenFiles": [
+    "assets/DHCP协议/file-20260922171809221.png",
+    "assets/DHCP协议/file-20260922171805155.png",
+    "assets/DHCP协议/file-20260922171716685.png",
+    "assets/DHCP协议/file-20260922171659411.png",
+    "assets/DHCP协议",
+    "408/IPv4分组.md",
+    "DHCP协议.md",
+    "408/网络层的功能.md",
     "ARP协议.md",
     "assets/ARP协议/file-20260922171418709.png",
     "assets/ARP协议/file-20260922171310509.png",
@@ -262,8 +284,6 @@
     "网络地址转换NAT.md",
     "408/以太网与IEEE802.3.md",
     "assets/ARP协议/file-20260922165709428.png",
-    "408/IPv4分组.md",
-    "408/网络层的功能.md",
     "408/以太网交换机.md",
     "408/广域网.md",
     "408/IEEE 802.11无线局域网.md",
@@ -274,9 +294,6 @@
     "408/计算机网络分层结构.md",
     "408/assets/以太网与IEEE802.3/file-20260922164048904.png",
     "408/assets/以太网与IEEE802.3/file-20260922163943989.png",
-    "408/assets/以太网与IEEE802.3/file-20260922163852387.png",
-    "assets/网络地址转换NAT/file-20260922163626184.png",
-    "assets/网络地址转换NAT/file-20260922162642050.png",
     "408/TCP IP模型.md",
     "408/OSI参考模型.md",
     "408/IP地址.md",
@@ -294,12 +311,10 @@
     "408/assets/子网划分与子网掩码",
     "408/assets/IP地址",
     "408/assets/IPv4分组",
-    "408/assets/网络层的功能",
     "高等数学/曲率.md",
     "高等数学/因式分解公式.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/计算机网络的性能指标.md",
-    "408/计算机网络的概念.md",
     "未命名.canvas"
   ]
 }
