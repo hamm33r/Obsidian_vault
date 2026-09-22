@@ -25,3 +25,8 @@ tags:
 ![](assets/ICMP协议/file-20260922180646509.png)
 >[IP数据报的生存时间TTL](408/IPv4分组.md#IP数据报的生存时间TTL)
 
+### 分片未到齐
+![](assets/ICMP协议/file-20260922204851158.png)
+
+## 参数问题
+![](assets/ICMP协议/file-20260922204950975.png)
