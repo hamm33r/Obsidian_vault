@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "生存",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,7 +160,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,23 +284,23 @@
   },
   "active": "9ba81d78212a8feb",
   "lastOpenFiles": [
+    "408/IP地址.md",
+    "408/子网划分与子网掩码.md",
+    "408/IPv4分组.md",
+    "ICMP协议.md",
+    "assets/ICMP协议/file-20260922180646509.png",
     "assets/ICMP协议/file-20260922180449390.png",
     "assets/ICMP协议/file-20260922180240778.png",
     "assets/ICMP协议/file-20260922180118897.png",
     "assets/ICMP协议/file-20260922175831044.png",
     "assets/ICMP协议/file-20260922175824914.png",
-    "408/IPv4分组.md",
-    "ICMP协议.md",
     "assets/ICMP协议/file-20260922175650067.png",
     "assets/ICMP协议",
     "DHCP协议.md",
     "assets/DHCP协议/file-20260922175115947.png",
     "assets/DHCP协议/file-20260922174637161.png",
     "assets/DHCP协议/file-20260922174541781.png",
-    "assets/DHCP协议/file-20260922174231343.png",
-    "408/IP地址.md",
     "高等数学/曲率.md",
-    "assets/DHCP协议/file-20260922173442623.png",
     "assets/DHCP协议",
     "408/网络层的功能.md",
     "ARP协议.md",
@@ -319,7 +320,6 @@
     "assets/SDN",
     "408/无连接UDP和面向连接TCP.md",
     "SDN 1.md",
-    "408/子网划分与子网掩码.md",
     "408/无分类编址CIDR.md",
     "408/路由聚合.md",
     "408/assets/路由聚合",
