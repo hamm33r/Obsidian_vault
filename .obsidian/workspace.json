@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/VLAN基本概念和原理.md",
+                "file": "路由聚合.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLAN基本概念和原理"
+              "title": "路由聚合"
+            }
+          },
+          {
+            "id": "caccafcd4bd0fd41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/子网划分与子网掩码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "子网划分与子网掩码"
             }
           }
         ],
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/VLAN基本概念和原理.md",
+                "file": "路由聚合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,6 +241,12 @@
   },
   "active": "8c074f1c93e7d43e",
   "lastOpenFiles": [
+    "408/子网划分与子网掩码.md",
+    "408/IP地址.md",
+    "路由聚合.md",
+    "assets/路由聚合/file-20260922143510344.png",
+    "assets/路由聚合",
+    "408/VLAN基本概念和原理.md",
     "408/无分类编址CIDR.md",
     "408/assets/无分类编址CIDR",
     "408/assets/子网划分与子网掩码",
@@ -240,21 +260,17 @@
     "408/assets/无分类编址CIDR/file-20260922142040959.png",
     "408/assets/无分类编址CIDR/file-20260922141851987.png",
     "408/assets/无分类编址CIDR/file-20260922141819092.png",
-    "408/IP地址.md",
     "408/IPv4分组.md",
     "408/assets/无分类编址CIDR/file-20260922140619558.png",
     "408/assets/无分类编址CIDR/file-20260922140119575.png",
     "408/assets/无分类编址CIDR/file-20260922135905431.png",
-    "408/assets/无分类编址CIDR/file-20260922135900282.png",
     "assets/无分类编址CIDR",
     "高等数学/曲率.md",
     "高等数学/因式分解公式.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/网络层的功能.md",
-    "408/子网划分与子网掩码.md",
     "assets/子网划分与子网掩码",
     "assets/IP地址",
-    "assets/IPv4分组",
     "408/无连接UDP和面向连接TCP.md",
     "408/OSI参考模型.md",
     "408/以太网交换机.md",
@@ -263,7 +279,6 @@
     "408/广域网.md",
     "408/计算机网络的概念.md",
     "408/物理层设备.md",
-    "408/VLAN基本概念和原理.md",
     "高等数学/三角函数公式.md",
     "高等数学/凹凸函数的定义.md",
     "高等数学/泰勒公式.md",
@@ -271,7 +286,6 @@
     "408/编码和调制.md",
     "408/CSMA CA协议.md",
     "408/IEEE 802.11无线局域网.md",
-    "408/传输介质.md",
     "未命名.canvas"
   ]
 }
