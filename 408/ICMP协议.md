@@ -24,6 +24,7 @@ tags:
 ### 路程太远
 ![](assets/ICMP协议/file-20260922180646509.png)
 >[IP数据报的生存时间TTL](IPv4分组.md#IP数据报的生存时间TTL)
+>![](assets/ICMP协议/file-20260926215509460.png)
 
 ### 分片未到齐
 ![](assets/ICMP协议/file-20260922204851158.png)
