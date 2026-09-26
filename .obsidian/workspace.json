@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b64a34ac4da0aee9",
+        "id": "031e4dc9c8ba4fad",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2d88bbbad5dc38",
+            "id": "2b097e970208f163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/IP地址.md",
+                "file": "高等数学/三角函数公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP地址"
-            }
-          },
-          {
-            "id": "787dc038caa65160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/IPv4分组.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPv4分组"
-            }
-          },
-          {
-            "id": "bb69b9c4e1b741a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDN"
-            }
-          },
-          {
-            "id": "9ba81d78212a8feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICMP协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICMP协议"
-            }
-          },
-          {
-            "id": "d0c261096dc1541b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARP协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARP协议"
-            }
-          },
-          {
-            "id": "caccafcd4bd0fd41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/子网划分与子网掩码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "子网划分与子网掩码"
+              "title": "三角函数公式"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "生存",
+                "query": "arcsin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,7 +89,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARP协议.md",
+                "file": "高等数学/三角函数公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,15 +211,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d0c261096dc1541b",
+  "active": "2b097e970208f163",
   "lastOpenFiles": [
+    "ARP协议.md",
     "SDN.md",
     "网络地址转换NAT.md",
     "408/IPv4分组.md",
     "408/无分类编址CIDR.md",
     "DHCP协议.md",
     "ICMP协议.md",
-    "ARP协议.md",
     "408/IP地址.md",
     "assets/ICMP协议/file-20260922210200275.png",
     "assets/ICMP协议/file-20260922205923170.png",
