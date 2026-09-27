@@ -2,7 +2,7 @@
 tags:
   - 计算机网络
 ---
-网际控制报文协议ICMP
+  网际控制报文协议ICMP
 ![](assets/ICMP协议/file-20260922175831044.png)
 # ICMP报文和IP数据报的关系
 ![](assets/ICMP协议/file-20260922175650067.png)
