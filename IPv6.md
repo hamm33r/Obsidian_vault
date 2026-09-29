@@ -10,4 +10,6 @@ tags:
 >![](assets/IPv6/file-20260929145613173.png)
 >![](assets/IPv6/file-20260929145732477.png)
 >![](assets/IPv6/file-20260929145827812.png)
->
+
+# IPv6地址资源的分配
+![](assets/IPv6/file-20260929150023579.png)
