@@ -18,4 +18,6 @@ tags:
 # IPv6地址的分类
 ![](assets/IPv6/file-20260929150644748.png)
 >![](assets/IPv6/file-20260929150751534.png)
->
+
+# 总结
+![](assets/IPv6/file-20260929150942179.png)
