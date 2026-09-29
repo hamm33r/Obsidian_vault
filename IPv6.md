@@ -7,4 +7,5 @@ tags:
 
 ## 压缩记法
 ![](assets/IPv6/file-20260929145435399.png)
-
+>![](assets/IPv6/file-20260929145613173.png)
+>
