@@ -21,3 +21,6 @@ tags:
 
 # 总结
 ![](assets/IPv6/file-20260929150942179.png)
+
+# IPv6数据报
+![](assets/IPv6/file-20260929152341834.png)
