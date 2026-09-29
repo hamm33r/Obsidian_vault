@@ -25,3 +25,4 @@ tags:
 # IPv6数据报
 ![](assets/IPv6/file-20260929152341834.png)
 ![](assets/IPv6/file-20260929152619277.png)
+![](assets/IPv6/file-20260929152758736.png)
