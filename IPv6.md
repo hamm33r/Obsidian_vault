@@ -14,3 +14,6 @@ tags:
 # IPv6地址资源的分配
 ![](assets/IPv6/file-20260929150023579.png)
 ![](assets/IPv6/file-20260929150242760.png)
+
+# IPv6地址的分类
+![](assets/IPv6/file-20260929150644748.png)
