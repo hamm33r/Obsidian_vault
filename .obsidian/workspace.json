@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "路由算法.md",
+                "file": "RIP协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "路由算法"
+              "title": "RIP协议"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "路由算法.md",
+                "file": "RIP协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,6 +283,10 @@
   },
   "active": "135291ac6698f7db",
   "lastOpenFiles": [
+    "assets/RIP协议/file-20261007175610626.png",
+    "assets/RIP协议",
+    "路由算法.md",
+    "RIP协议.md",
     "assets/路由算法/file-20261007173444295.png",
     "assets/路由算法/file-20261007173246908.png",
     "assets/路由算法/file-20261007173102342.png",
@@ -293,10 +297,8 @@
     "assets/路由算法/file-20261007164756898.png",
     "assets/路由算法/file-20261007163908712.png",
     "assets/路由算法/file-20261007163704285.png",
-    "assets/路由算法/file-20261007163144893.png",
     "assets/路由算法",
     "408/计算机网络的性能指标.md",
-    "路由算法.md",
     "408/计算机网络的概念.md",
     "408/ICMP协议.md",
     "IPv6.md",
@@ -327,8 +329,6 @@
     "assets/DHCP协议",
     "408/广域网.md",
     "408/IEEE 802.11无线局域网.md",
-    "408/局域网的基本概念和体系结构.md",
-    "assets/ARP协议",
     "未命名.canvas"
   ]
 }
