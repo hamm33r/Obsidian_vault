@@ -9,3 +9,5 @@ tags:
 ![](assets/RIP协议/file-20261007175805933.png)
 >RIP属于应用层
 
+# RIP的规定
+![](assets/RIP协议/file-20261007180828223.png)
