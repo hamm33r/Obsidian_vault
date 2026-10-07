@@ -11,3 +11,6 @@ tags:
 
 # RIP的规定
 ![](assets/RIP协议/file-20261007180828223.png)
+
+# RIP路由器之间如何交换信息
+![](assets/RIP协议/file-20261007181224546.png)
