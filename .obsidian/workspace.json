@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络的性能指标.md",
+                "file": "路由算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络的性能指标"
+              "title": "路由算法"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机网络的性能指标.md",
+                "file": "路由算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,6 +283,10 @@
   },
   "active": "135291ac6698f7db",
   "lastOpenFiles": [
+    "assets/路由算法/file-20261007163144893.png",
+    "assets/路由算法",
+    "408/计算机网络的性能指标.md",
+    "路由算法.md",
     "408/计算机网络的概念.md",
     "408/ICMP协议.md",
     "IPv6.md",
@@ -325,10 +329,6 @@
     "408/IEEE 802.11无线局域网.md",
     "408/局域网的基本概念和体系结构.md",
     "assets/ARP协议",
-    "408/计算机网络分层结构.md",
-    "408/TCP IP模型.md",
-    "408/OSI参考模型.md",
-    "assets/网络地址转换NAT",
     "未命名.canvas"
   ]
 }
