@@ -31,3 +31,6 @@ tags:
 ![](assets/OSPF协议/file-20261008191101652.png)
 >LSDB链路状态数据库
 
+![](assets/OSPF协议/file-20261008191447229.png)
+>构造路由表
+
