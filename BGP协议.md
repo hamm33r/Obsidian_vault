@@ -28,3 +28,6 @@ tags:
 
 # BGP路由选择
 ![](assets/BGP协议/file-20261008222801406.png)
+
+## 本地偏好值
+![](assets/BGP协议/file-20261008222947241.png)
