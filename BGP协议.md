@@ -10,3 +10,8 @@ tags:
 
 ![](assets/BGP协议/file-20261008212825897.png)
 >BGP是应用层协议
+
+# BGP相关概念
+哪些路由器需要运行BGP
+![](assets/BGP协议/file-20261008220934241.png)
+
