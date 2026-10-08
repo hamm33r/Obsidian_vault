@@ -59,4 +59,5 @@ tags:
 ## DD分组
 ![](assets/OSPF协议/file-20261008193620126.png)
 
-## 
+## LSR分组
+![](assets/OSPF协议/file-20261008193723221.png)
