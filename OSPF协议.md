@@ -40,3 +40,7 @@ tags:
 ![](assets/OSPF协议/file-20261008191851639.png)
 
 ![](assets/OSPF协议/file-20261008192048263.png)
+>ASBR自治系统路由器
+>ABR区域边界路由器
+>![](assets/OSPF协议/file-20261008192220618.png)
+>
