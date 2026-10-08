@@ -8,3 +8,5 @@ tags:
 ![](assets/BGP协议/file-20261008212654994.png)
 >BGP采用路径向量路由算法
 
+![](assets/BGP协议/file-20261008212825897.png)
+>BGP是应用层协议
