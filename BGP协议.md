@@ -44,4 +44,5 @@ tags:
 
 # BGP的四种报文
 ![](assets/BGP协议/file-20261008223930193.png)
+>keepalive
 ![](assets/BGP协议/file-20261008224029199.png)
