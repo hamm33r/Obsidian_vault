@@ -50,3 +50,6 @@ tags:
 
 ## RIP的缺点
 ![](assets/RIP协议/file-20261008150617143.png)
+
+### 330时刻
+![](assets/RIP协议/file-20261008150914566.png)
