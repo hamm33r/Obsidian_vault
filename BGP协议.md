@@ -34,3 +34,7 @@ tags:
 
 ## AS跳数最少
 ![](assets/BGP协议/file-20261008223104947.png)
+
+## 热土豆路由
+![](assets/BGP协议/file-20261008223314455.png)
+![](assets/BGP协议/file-20261008223407694.png)
