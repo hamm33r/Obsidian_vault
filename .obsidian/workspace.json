@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/ICMP协议.md",
+                "file": "OSPF协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICMP协议"
+              "title": "OSPF协议"
             }
           },
           {
@@ -281,14 +281,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "97f88209048217d1",
   "lastOpenFiles": [
     "OSPF协议.md",
+    "408/ICMP协议.md",
     "BGP协议.md",
     "408/计算机网络分层结构.md",
     "RIP协议.md",
     "408/网络地址转换NAT.md",
-    "408/ICMP协议.md",
     "路由算法.md",
     "408/子网划分与子网掩码.md",
     "assets/BGP协议/file-20261008224029199.png",
