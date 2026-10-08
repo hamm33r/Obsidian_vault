@@ -22,5 +22,6 @@ tags:
 ## BGP会话
 ![](assets/BGP协议/file-20261008221418920.png)
 
-## BGP工作原理
+# BGP路由信息和工作原理
+![](assets/BGP协议/file-20261008222648586.png)
 ![](assets/BGP协议/file-20261008222210805.png)
