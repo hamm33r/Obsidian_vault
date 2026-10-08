@@ -47,3 +47,6 @@ tags:
 
 ### 150时刻
 ![](assets/RIP协议/file-20261008150218308.png)
+
+## RIP的缺点
+![](assets/RIP协议/file-20261008150617143.png)
