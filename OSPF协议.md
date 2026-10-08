@@ -65,6 +65,7 @@ tags:
 ## LSU分组
 ![](assets/OSPF协议/file-20261008193853062.png)
 >![](assets/OSPF协议/file-20261008193941371.png)
+>引发全网洪泛![](assets/OSPF协议/file-20261008194402581.png)
 
 ## LSAck分组
 ![](assets/OSPF协议/file-20261008194151725.png)
