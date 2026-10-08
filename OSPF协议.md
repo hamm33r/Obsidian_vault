@@ -16,3 +16,9 @@ tags:
 ![](assets/OSPF协议/file-20261008185216720.png)
 2
 ![](assets/OSPF协议/file-20261008185348669.png)
+>负载均衡
+3
+![](assets/OSPF协议/file-20261008185519256.png)
+>具有鉴别功能
+4
+![](assets/OSPF协议/file-20261008185615176.png)
