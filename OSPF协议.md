@@ -51,3 +51,6 @@ tags:
 
 # OSPF的分组类型
 ![](assets/OSPF协议/file-20261008192947993.png)
+
+## hello分组
+![](assets/OSPF协议/file-20261008193225610.png)
