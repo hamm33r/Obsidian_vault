@@ -22,3 +22,6 @@ tags:
 >具有鉴别功能
 4
 ![](assets/OSPF协议/file-20261008185615176.png)
+
+5
+![](assets/OSPF协议/file-20261008185758512.png)
