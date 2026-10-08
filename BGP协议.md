@@ -31,3 +31,6 @@ tags:
 
 ## 本地偏好值
 ![](assets/BGP协议/file-20261008222947241.png)
+
+## AS跳数最少
+![](assets/BGP协议/file-20261008223104947.png)
