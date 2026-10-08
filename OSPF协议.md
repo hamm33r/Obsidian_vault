@@ -66,3 +66,5 @@ tags:
 ![](assets/OSPF协议/file-20261008193853062.png)
 >![](assets/OSPF协议/file-20261008193941371.png)
 
+## LSAck分组
+![](assets/OSPF协议/file-20261008194151725.png)
