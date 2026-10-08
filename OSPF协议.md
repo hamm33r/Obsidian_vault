@@ -27,7 +27,8 @@ tags:
 5
 ![](assets/OSPF协议/file-20261008185758512.png)
 
-# OSPF 的基本原理
+# OSPF 的基本工作原理
+![](assets/OSPF协议/file-20261008192353866.png)
 ![](assets/OSPF协议/file-20261008191101652.png)
 >LSDB链路状态数据库
 
