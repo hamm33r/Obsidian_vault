@@ -48,3 +48,6 @@ tags:
 
 ## LSDB，LSA，LSI
 ![](assets/OSPF协议/file-20261008192538242.png)
+
+# OSPF的分组类型
+![](assets/OSPF协议/file-20261008192947993.png)
