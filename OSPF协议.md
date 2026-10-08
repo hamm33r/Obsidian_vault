@@ -61,3 +61,8 @@ tags:
 
 ## LSR分组
 ![](assets/OSPF协议/file-20261008193723221.png)
+
+## LSU分组
+![](assets/OSPF协议/file-20261008193853062.png)
+>![](assets/OSPF协议/file-20261008193941371.png)
+
