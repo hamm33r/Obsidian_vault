@@ -14,3 +14,5 @@ tags:
 
 其他特点
 ![](assets/OSPF协议/file-20261008185216720.png)
+2
+![](assets/OSPF协议/file-20261008185348669.png)
