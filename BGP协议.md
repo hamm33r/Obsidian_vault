@@ -25,3 +25,6 @@ tags:
 # BGP路由信息和工作原理
 ![](assets/BGP协议/file-20261008222648586.png)
 ![](assets/BGP协议/file-20261008222210805.png)
+
+# BGP路由选择
+![](assets/BGP协议/file-20261008222801406.png)
