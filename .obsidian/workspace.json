@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIP协议.md",
+                "file": "OSPF协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RIP协议"
+              "title": "OSPF协议"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIP协议.md",
+                "file": "OSPF协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,6 +283,9 @@
   },
   "active": "135291ac6698f7db",
   "lastOpenFiles": [
+    "路由算法.md",
+    "OSPF协议.md",
+    "RIP协议.md",
     "assets/RIP协议/file-20261008152434748.png",
     "assets/RIP协议/file-20261008152338230.png",
     "assets/RIP协议/file-20261008152230366.png",
@@ -294,10 +297,7 @@
     "assets/RIP协议/file-20261008151338416.png",
     "assets/RIP协议/file-20261008151151204.png",
     "408/IPv4分组.md",
-    "assets/RIP协议/file-20261008150914566.png",
-    "RIP协议.md",
     "assets/RIP协议",
-    "路由算法.md",
     "assets/路由算法",
     "408/计算机网络的性能指标.md",
     "408/计算机网络的概念.md",
