@@ -56,3 +56,7 @@ tags:
 ![](assets/OSPF协议/file-20261008193225610.png)
 >R2加入后![](assets/OSPF协议/file-20261008193452683.png)
 
+## DD分组
+![](assets/OSPF协议/file-20261008193620126.png)
+
+## 
