@@ -34,3 +34,7 @@ tags:
 ![](assets/OSPF协议/file-20261008191447229.png)
 >构造路由表
 
+## OSPF的区域划分
+![](assets/OSPF协议/file-20261008191817863.png)
+
+![](assets/OSPF协议/file-20261008191851639.png)
