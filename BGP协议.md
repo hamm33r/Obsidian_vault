@@ -38,3 +38,6 @@ tags:
 ## 热土豆路由
 ![](assets/BGP协议/file-20261008223314455.png)
 ![](assets/BGP协议/file-20261008223407694.png)
+
+## BGP标识符
+![](assets/BGP协议/file-20261008223559309.png)
