@@ -41,3 +41,5 @@ tags:
 
 ## BGP标识符
 ![](assets/BGP协议/file-20261008223559309.png)
+
+# BGP的四种报文
