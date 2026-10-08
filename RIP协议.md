@@ -49,6 +49,8 @@ tags:
 ![](assets/RIP协议/file-20261008150218308.png)
 
 ## RIP的缺点
+![](assets/RIP协议/file-20261008151806708.png)
+假设R2此时坏掉
 ![](assets/RIP协议/file-20261008150617143.png)
 
 ### 330时刻
