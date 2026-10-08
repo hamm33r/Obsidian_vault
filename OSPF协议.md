@@ -44,4 +44,6 @@ tags:
 >ASBR自治系统路由器
 >ABR区域边界路由器
 >![](assets/OSPF协议/file-20261008192220618.png)
->
+
+## LSDB，LSA，LSI
+![](assets/OSPF协议/file-20261008192538242.png)
