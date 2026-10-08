@@ -38,3 +38,5 @@ tags:
 ![](assets/OSPF协议/file-20261008191817863.png)
 
 ![](assets/OSPF协议/file-20261008191851639.png)
+
+![](assets/OSPF协议/file-20261008192048263.png)
