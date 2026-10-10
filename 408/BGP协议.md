@@ -22,13 +22,13 @@ tags:
 ## BGP会话
 ![](assets/BGP协议/file-20261008221418920.png)
 
-8# BGP路由信息和工作原理
+# BGP路由信息和工作原理
 ![](assets/BGP协议/file-20261008222648586.png)
 ![](assets/BGP协议/file-20261008222210805.png)
 
 # BGP路由选择
 ![](assets/BGP协议/file-20261008222801406.png)
-
+![](assets/BGP协议/file-20261010153634370.png)
 ## 本地偏好值
 ![](assets/BGP协议/file-20261008222947241.png)
 
@@ -46,3 +46,6 @@ tags:
 ![](assets/BGP协议/file-20261008223930193.png)
 >keepalive
 ![](assets/BGP协议/file-20261008224029199.png)
+
+# 三种路由协议的比较
+![](assets/BGP协议/file-20261010153712743.png)

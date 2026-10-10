@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPF协议.md",
+                "file": "408/BGP协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSPF协议"
+              "title": "BGP协议"
             }
           },
           {
@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/IPv4分组.md",
+                "file": "408/TCP IP模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4分组"
+              "title": "TCP IP模型"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPF协议.md",
+                "file": "408/TCP IP模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,37 +281,43 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97f88209048217d1",
+  "active": "a958284d1079d762",
   "lastOpenFiles": [
-    "BGP协议.md",
-    "OSPF协议.md",
-    "路由算法.md",
-    "408/ICMP协议.md",
     "408/计算机网络分层结构.md",
-    "RIP协议.md",
+    "408/计算机网络的分类.md",
+    "408/IPv4分组.md",
+    "408/BGP协议.md",
+    "408/assets/BGP协议",
+    "408/assets/OSPF协议",
+    "408/assets/RIP协议",
+    "408/assets/路由算法",
+    "408/assets/IPv6",
+    "408/assets/BGP协议/file-20261010153712743.png",
+    "408/assets/BGP协议/file-20261010153634370.png",
+    "408/assets/BGP协议/file-20261010153556270.png",
+    "408/OSPF协议.md",
+    "408/路由算法.md",
+    "408/ICMP协议.md",
+    "408/RIP协议.md",
     "408/网络地址转换NAT.md",
     "408/子网划分与子网掩码.md",
-    "assets/BGP协议/file-20261008224029199.png",
-    "assets/BGP协议/file-20261008223930193.png",
-    "assets/BGP协议/file-20261008223559309.png",
-    "assets/BGP协议/file-20261008223407694.png",
-    "assets/BGP协议/file-20261008223314455.png",
-    "assets/BGP协议/file-20261008223104947.png",
-    "assets/BGP协议/file-20261008222947241.png",
-    "assets/BGP协议/file-20261008222801406.png",
-    "assets/BGP协议/file-20261008222648586.png",
-    "assets/BGP协议/file-20261008222210805.png",
+    "408/assets/BGP协议/file-20261008224029199.png",
+    "408/assets/BGP协议/file-20261008223930193.png",
+    "408/assets/BGP协议/file-20261008223559309.png",
+    "408/assets/BGP协议/file-20261008223407694.png",
+    "408/assets/BGP协议/file-20261008223314455.png",
+    "408/assets/BGP协议/file-20261008223104947.png",
+    "408/assets/BGP协议/file-20261008222947241.png",
     "assets/BGP协议",
     "assets/OSPF协议",
-    "408/IPv4分组.md",
     "assets/RIP协议",
     "assets/路由算法",
     "408/计算机网络的性能指标.md",
     "408/计算机网络的概念.md",
-    "IPv6.md",
+    "408/IPv6.md",
     "408/ARP协议.md",
     "408/IP地址.md",
-    "路由表和转发表.md",
+    "408/路由表和转发表.md",
     "assets/IPv6",
     "408/DHCP协议.md",
     "408/无分类编址CIDR.md",
@@ -321,14 +327,8 @@
     "408/VLAN基本概念和原理.md",
     "408/以太网与IEEE802.3.md",
     "408/CSMA CD协议.md",
-    "408/assets/ICMP协议",
-    "408/assets/DHCP协议",
-    "408/assets/ARP协议",
-    "408/assets/网络地址转换NAT",
-    "408/assets/SDN",
     "408/SDN.md",
     "高等数学/三角函数公式.md",
-    "高等数学/曲率.md",
     "未命名.canvas"
   ]
 }
