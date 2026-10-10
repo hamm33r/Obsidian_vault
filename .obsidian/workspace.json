@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP多播.md",
+                "file": "移动IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP多播"
+              "title": "移动IP"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IP多播.md",
+                "file": "移动IP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,12 +297,15 @@
   },
   "active": "5fa263cba91de05c",
   "lastOpenFiles": [
+    "assets/移动IP/file-20261010174331673.png",
+    "assets/移动IP",
+    "IP多播.md",
+    "移动IP.md",
     "assets/IP多播/file-20261010173617797.png",
     "assets/IP多播/file-20261010173255241.png",
     "assets/IP多播/file-20261010172305436.png",
     "408/IP地址.md",
     "408/RIP协议.md",
-    "IP多播.md",
     "assets/IP多播/file-20261010171848407.png",
     "assets/IP多播/file-20261010171811970.png",
     "assets/IP多播",
@@ -328,7 +331,6 @@
     "408/IEEE 802.11无线局域网.md",
     "408/VLAN基本概念和原理.md",
     "408/令牌传递协议.md",
-    "408/CSMA CA协议.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
     "408/assets/RIP协议",
@@ -338,11 +340,9 @@
     "408/assets/BGP协议/file-20261010153634370.png",
     "408/assets/BGP协议/file-20261010153556270.png",
     "408/assets/BGP协议/file-20261008224029199.png",
-    "408/assets/BGP协议/file-20261008223930193.png",
     "assets/BGP协议",
     "assets/OSPF协议",
     "assets/RIP协议",
-    "assets/路由算法",
     "未命名.canvas"
   ]
 }
