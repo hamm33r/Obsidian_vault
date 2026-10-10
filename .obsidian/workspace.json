@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/IPv4分组.md",
+                "file": "UDP数据报.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4分组"
+              "title": "UDP数据报"
             }
           },
           {
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,8 +216,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/IPv4分组.md",
+                "file": "UDP数据报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -338,10 +337,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e8585e7f765c4df4",
+  "active": "b29ba3c37b85855b",
   "lastOpenFiles": [
-    "408/网络地址转换NAT.md",
+    "assets/UDP数据报/file-20261010230122540.png",
+    "assets/UDP数据报/file-20261010230108588.png",
     "408/IPv4分组.md",
+    "408/网络地址转换NAT.md",
     "UDP数据报.md",
     "assets/UDP数据报/file-20261010224115257.png",
     "assets/UDP数据报/file-20261010223057927.png",
@@ -352,7 +353,6 @@
     "assets/UDP数据报/file-20261010221629971.png",
     "assets/UDP数据报/file-20261010221308665.png",
     "assets/UDP数据报/file-20261010221209723.png",
-    "assets/UDP数据报/file-20261010221016545.png",
     "assets/UDP数据报",
     "传输层提供的服务.md",
     "408/无连接UDP和面向连接TCP.md",
@@ -383,7 +383,6 @@
     "408/物理层设备.md",
     "408/网络层的功能.md",
     "408/以太网交换机.md",
-    "408/广域网.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
     "未命名.canvas"
