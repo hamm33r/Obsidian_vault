@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/RIP协议.md",
+                "file": "IP多播.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RIP协议"
+              "title": "IP多播"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/OSPF协议.md",
+                "file": "IP多播.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSPF协议"
+              "title": "IP多播"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/OSPF协议.md",
+                "file": "IP多播.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,8 +295,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6659ea9ada27a0bb",
+  "active": "5fa263cba91de05c",
   "lastOpenFiles": [
+    "408/IP地址.md",
+    "408/RIP协议.md",
+    "IP多播.md",
+    "assets/IP多播/file-20261010171848407.png",
+    "assets/IP多播/file-20261010171811970.png",
+    "assets/IP多播",
+    "408/BGP协议.md",
+    "408/OSPF协议.md",
     "408/assets/OSPF协议/file-20261010162721059.png",
     "408/计算机网络的性能指标.md",
     "408/三种交换方式的性能分析.md",
@@ -310,7 +318,6 @@
     "408/通信基础基本概念.md",
     "408/无连接UDP和面向连接TCP.md",
     "408/物理层设备.md",
-    "408/IP地址.md",
     "408/IPv4分组.md",
     "408/网络层的功能.md",
     "408/以太网交换机.md",
@@ -319,10 +326,6 @@
     "408/VLAN基本概念和原理.md",
     "408/令牌传递协议.md",
     "408/CSMA CA协议.md",
-    "408/CSMA CD协议.md",
-    "408/随机访问介质访问控制.md",
-    "408/信道划分介质访问控制.md",
-    "408/三种协议的信道利用率.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
     "408/assets/RIP协议",
@@ -335,14 +338,10 @@
     "408/assets/BGP协议/file-20261008223930193.png",
     "408/assets/BGP协议/file-20261008223559309.png",
     "408/assets/BGP协议/file-20261008223407694.png",
-    "408/assets/BGP协议/file-20261008223314455.png",
-    "408/assets/BGP协议/file-20261008223104947.png",
-    "408/assets/BGP协议/file-20261008222947241.png",
     "assets/BGP协议",
     "assets/OSPF协议",
     "assets/RIP协议",
     "assets/路由算法",
-    "assets/IPv6",
     "未命名.canvas"
   ]
 }
