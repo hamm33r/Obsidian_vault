@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP多播.md",
+                "file": "网络层设备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP多播"
+              "title": "网络层设备"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,8 +295,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5fa263cba91de05c",
+  "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
+    "IP多播.md",
+    "assets/网络层设备/file-20261010201540156.png",
+    "网络层设备.md",
     "assets/网络层设备/file-20261010201018373.png",
     "assets/网络层设备/file-20261010200909951.png",
     "assets/网络层设备/file-20261010200401173.png",
@@ -306,13 +309,9 @@
     "assets/网络层设备/file-20261010195911762.png",
     "assets/网络层设备",
     "移动IP.md",
-    "网络层设备.md",
     "assets/移动IP/file-20261010180416527.png",
     "assets/移动IP/file-20261010180232848.png",
-    "assets/移动IP/file-20261010180052530.png",
-    "assets/移动IP/file-20261010175923875.png",
     "assets/移动IP",
-    "IP多播.md",
     "408/IP地址.md",
     "408/RIP协议.md",
     "assets/IP多播",
