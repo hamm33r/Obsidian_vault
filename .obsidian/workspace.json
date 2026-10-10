@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "传输层提供的服务.md",
+                "file": "UDP数据报.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传输层提供的服务"
+              "title": "UDP数据报"
             }
           },
           {
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "传输层提供的服务.md",
+                "file": "UDP数据报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -311,8 +311,12 @@
   },
   "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
-    "408/无连接UDP和面向连接TCP.md",
+    "assets/UDP数据报/file-20261010220620581.png",
+    "assets/UDP数据报/file-20261010220529555.png",
+    "assets/UDP数据报",
     "传输层提供的服务.md",
+    "UDP数据报.md",
+    "408/无连接UDP和面向连接TCP.md",
     "assets/传输层提供的服务/file-20261010205912513.png",
     "assets/传输层提供的服务/file-20261010205747046.png",
     "assets/传输层提供的服务/file-20261010205631281.png",
@@ -327,7 +331,6 @@
     "408/assets/移动IP",
     "408/assets/IP多播",
     "408/assets/网络层设备/file-20261010203750426.png",
-    "408/assets/网络层设备/file-20261010203447486.png",
     "408/IP多播.md",
     "assets/网络层设备",
     "408/移动IP.md",
@@ -352,10 +355,8 @@
     "408/网络层的功能.md",
     "408/以太网交换机.md",
     "408/广域网.md",
-    "408/IEEE 802.11无线局域网.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
-    "408/assets/RIP协议",
     "未命名.canvas"
   ]
 }
