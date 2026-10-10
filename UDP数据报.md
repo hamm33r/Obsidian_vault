@@ -8,3 +8,8 @@ UDP
 
 TCP
 ![](assets/UDP数据报/file-20261010220620581.png)
+
+# UDP数据报格式
+![](assets/UDP数据报/file-20261010220932544.png)
+>实际最大长度受限于IP数据报![](assets/UDP数据报/file-20261010221016545.png)
+>实际长度最多为65515
