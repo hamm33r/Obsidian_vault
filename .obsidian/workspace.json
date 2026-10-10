@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP数据报.md",
+                "file": "408/以太网与IEEE802.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDP数据报"
+              "title": "以太网与IEEE802.3"
             }
           },
           {
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分片",
+                "query": "MAC帧",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -216,7 +216,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -298,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP数据报.md",
+                "file": "408/IPv4分组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -337,13 +338,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b29ba3c37b85855b",
+  "active": "e8585e7f765c4df4",
   "lastOpenFiles": [
+    "408/以太网与IEEE802.3.md",
+    "UDP数据报.md",
+    "assets/UDP数据报/file-20261010230423344.png",
     "assets/UDP数据报/file-20261010230122540.png",
     "assets/UDP数据报/file-20261010230108588.png",
     "408/IPv4分组.md",
     "408/网络地址转换NAT.md",
-    "UDP数据报.md",
     "assets/UDP数据报/file-20261010224115257.png",
     "assets/UDP数据报/file-20261010223057927.png",
     "assets/UDP数据报/file-20261010223033750.png",
@@ -351,8 +354,6 @@
     "assets/UDP数据报/file-20261010222127869.png",
     "assets/UDP数据报/file-20261010221924842.png",
     "assets/UDP数据报/file-20261010221629971.png",
-    "assets/UDP数据报/file-20261010221308665.png",
-    "assets/UDP数据报/file-20261010221209723.png",
     "assets/UDP数据报",
     "传输层提供的服务.md",
     "408/无连接UDP和面向连接TCP.md",
@@ -373,7 +374,6 @@
     "408/计算机网络的性能指标.md",
     "408/三种交换方式的性能分析.md",
     "408/子网划分与子网掩码.md",
-    "408/以太网与IEEE802.3.md",
     "408/计算机网络的分类.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/编码和调制.md",
