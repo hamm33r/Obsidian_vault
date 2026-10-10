@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "e8585e7f765c4df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/IPv4分组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPv4分组"
+            }
+          },
+          {
             "id": "b29ba3c37b85855b",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分组",
+                "query": "分片",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -202,7 +216,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -284,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP数据报.md",
+                "file": "408/IPv4分组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -323,13 +338,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6659ea9ada27a0bb",
+  "active": "e8585e7f765c4df4",
   "lastOpenFiles": [
+    "408/网络地址转换NAT.md",
+    "408/IPv4分组.md",
+    "UDP数据报.md",
     "assets/UDP数据报/file-20261010224115257.png",
     "assets/UDP数据报/file-20261010223057927.png",
     "assets/UDP数据报/file-20261010223033750.png",
-    "408/IPv4分组.md",
-    "UDP数据报.md",
     "assets/UDP数据报/file-20261010222850210.png",
     "assets/UDP数据报/file-20261010222127869.png",
     "assets/UDP数据报/file-20261010221924842.png",
@@ -337,7 +353,6 @@
     "assets/UDP数据报/file-20261010221308665.png",
     "assets/UDP数据报/file-20261010221209723.png",
     "assets/UDP数据报/file-20261010221016545.png",
-    "assets/UDP数据报/file-20261010220932544.png",
     "assets/UDP数据报",
     "传输层提供的服务.md",
     "408/无连接UDP和面向连接TCP.md",
