@@ -35,3 +35,4 @@ tags:
 # 一些补充
 ![](assets/移动IP/file-20261010180052530.png)
 
+![](assets/移动IP/file-20261010180232848.png)
