@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络层设备.md",
+                "file": "408/网络层设备.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络层设备.md",
+                "file": "传输层提供的服务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络层设备"
+              "title": "传输层提供的服务"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络层设备.md",
+                "file": "传输层提供的服务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,21 +297,26 @@
   },
   "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
-    "assets/网络层设备/file-20261010203750426.png",
-    "assets/网络层设备/file-20261010203447486.png",
-    "assets/网络层设备/file-20261010202748883.png",
-    "IP多播.md",
-    "assets/网络层设备/file-20261010201540156.png",
-    "网络层设备.md",
-    "assets/网络层设备/file-20261010201018373.png",
-    "assets/网络层设备/file-20261010200909951.png",
-    "assets/网络层设备/file-20261010200401173.png",
-    "assets/网络层设备/file-20261010200235717.png",
-    "assets/网络层设备/file-20261010200034513.png",
-    "assets/网络层设备/file-20261010195922063.png",
-    "assets/网络层设备/file-20261010195911762.png",
+    "assets/传输层提供的服务/file-20261010204405041.png",
+    "assets/传输层提供的服务",
+    "408/网络层设备.md",
+    "传输层提供的服务.md",
+    "408/assets/网络层设备",
+    "408/assets/移动IP",
+    "408/assets/IP多播",
+    "408/assets/网络层设备/file-20261010203750426.png",
+    "408/assets/网络层设备/file-20261010203447486.png",
+    "408/assets/网络层设备/file-20261010202748883.png",
+    "408/IP多播.md",
+    "408/assets/网络层设备/file-20261010201540156.png",
+    "408/assets/网络层设备/file-20261010201018373.png",
+    "408/assets/网络层设备/file-20261010200909951.png",
+    "408/assets/网络层设备/file-20261010200401173.png",
+    "408/assets/网络层设备/file-20261010200235717.png",
+    "408/assets/网络层设备/file-20261010200034513.png",
+    "408/assets/网络层设备/file-20261010195922063.png",
     "assets/网络层设备",
-    "移动IP.md",
+    "408/移动IP.md",
     "assets/移动IP",
     "408/IP地址.md",
     "408/RIP协议.md",
@@ -335,14 +340,9 @@
     "408/以太网交换机.md",
     "408/广域网.md",
     "408/IEEE 802.11无线局域网.md",
-    "408/VLAN基本概念和原理.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
     "408/assets/RIP协议",
-    "408/assets/路由算法",
-    "408/assets/IPv6",
-    "assets/BGP协议",
-    "assets/OSPF协议",
     "未命名.canvas"
   ]
 }
