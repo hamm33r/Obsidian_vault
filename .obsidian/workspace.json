@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "移动IP.md",
+                "file": "网络层设备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "移动IP"
+              "title": "网络层设备"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "移动IP.md",
+                "file": "网络层设备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,6 +297,11 @@
   },
   "active": "5fa263cba91de05c",
   "lastOpenFiles": [
+    "assets/网络层设备/file-20261010195922063.png",
+    "assets/网络层设备/file-20261010195911762.png",
+    "assets/网络层设备",
+    "移动IP.md",
+    "网络层设备.md",
     "assets/移动IP/file-20261010180416527.png",
     "assets/移动IP/file-20261010180232848.png",
     "assets/移动IP/file-20261010180052530.png",
@@ -306,11 +311,8 @@
     "assets/移动IP/file-20261010175713556.png",
     "assets/移动IP/file-20261010175639775.png",
     "assets/移动IP/file-20261010175613268.png",
-    "assets/移动IP/file-20261010175442392.png",
-    "assets/移动IP/file-20261010175202434.png",
     "assets/移动IP",
     "IP多播.md",
-    "移动IP.md",
     "408/IP地址.md",
     "408/RIP协议.md",
     "assets/IP多播",
@@ -334,7 +336,6 @@
     "408/广域网.md",
     "408/IEEE 802.11无线局域网.md",
     "408/VLAN基本概念和原理.md",
-    "408/令牌传递协议.md",
     "408/assets/BGP协议",
     "408/assets/OSPF协议",
     "408/assets/RIP协议",
@@ -342,7 +343,6 @@
     "408/assets/IPv6",
     "assets/BGP协议",
     "assets/OSPF协议",
-    "assets/RIP协议",
     "未命名.canvas"
   ]
 }
