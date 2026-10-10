@@ -7,3 +7,6 @@ tags:
 # IP多播的作用
 ![](assets/IP多播/file-20261010171811970.png)
 
+# 总结
+![](assets/IP多播/file-20261010172305436.png)
+>IGMP协议，多播路由协议
