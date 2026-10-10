@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "c64668ba7129a91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/无连接UDP和面向连接TCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无连接UDP和面向连接TCP"
+            }
+          },
+          {
             "id": "97f88209048217d1",
             "type": "leaf",
             "state": {
@@ -297,6 +311,8 @@
   },
   "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
+    "408/无连接UDP和面向连接TCP.md",
+    "传输层提供的服务.md",
     "assets/传输层提供的服务/file-20261010205912513.png",
     "assets/传输层提供的服务/file-20261010205747046.png",
     "assets/传输层提供的服务/file-20261010205631281.png",
@@ -307,13 +323,11 @@
     "assets/传输层提供的服务/file-20261010204405041.png",
     "assets/传输层提供的服务",
     "408/网络层设备.md",
-    "传输层提供的服务.md",
     "408/assets/网络层设备",
     "408/assets/移动IP",
     "408/assets/IP多播",
     "408/assets/网络层设备/file-20261010203750426.png",
     "408/assets/网络层设备/file-20261010203447486.png",
-    "408/assets/网络层设备/file-20261010202748883.png",
     "408/IP多播.md",
     "assets/网络层设备",
     "408/移动IP.md",
@@ -333,7 +347,6 @@
     "408/传输介质.md",
     "408/信道的极限容量.md",
     "408/通信基础基本概念.md",
-    "408/无连接UDP和面向连接TCP.md",
     "408/物理层设备.md",
     "408/IPv4分组.md",
     "408/网络层的功能.md",
