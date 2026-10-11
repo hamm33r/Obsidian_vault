@@ -30,3 +30,6 @@ tags:
 
 ![](assets/TCP连接管理/file-20261011211028231.png)
 >![](assets/TCP连接管理/file-20261011211203314.png)
+
+# 总结
+![](assets/TCP连接管理/file-20261011211436335.png)
