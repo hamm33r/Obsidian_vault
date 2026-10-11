@@ -31,3 +31,6 @@ tags:
 >![](assets/TCP报文段/file-20261011162446849.png)
 >rcvwnd=500表示还能接收500B数据
 
+![](assets/TCP报文段/file-20261011162705637.png)
+>![](assets/TCP报文段/file-20261011162746690.png)
+>
