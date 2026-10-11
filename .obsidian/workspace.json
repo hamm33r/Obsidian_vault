@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP连接管理.md",
+                "file": "TCP拥塞控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP连接管理"
+              "title": "TCP拥塞控制"
             }
           },
           {
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP连接管理.md",
+                "file": "TCP拥塞控制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
