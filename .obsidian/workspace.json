@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/流量控制，可靠传输与滑动窗口.md",
+                "file": "TCP报文段.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流量控制，可靠传输与滑动窗口"
+              "title": "TCP报文段"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GBN",
+                "query": "MSS",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/流量控制，可靠传输与滑动窗口.md",
+                "file": "TCP报文段.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,6 +354,8 @@
   },
   "active": "64efb5787469ab99",
   "lastOpenFiles": [
+    "assets/TCP报文段/file-20261012000957280.png",
+    "408/流量控制，可靠传输与滑动窗口.md",
     "TCP连接管理.md",
     "未命名.md",
     "TCP拥塞控制.md",
@@ -398,8 +400,6 @@
     "408/计算机网络的分类.md",
     "408/电路交换，报文交换，分组交换.md",
     "408/编码和调制.md",
-    "408/传输介质.md",
-    "408/信道的极限容量.md",
     "未命名.canvas"
   ]
 }

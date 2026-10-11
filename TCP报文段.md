@@ -45,3 +45,5 @@ tags:
 ![](assets/TCP报文段/file-20261011162937341.png)
 >![](assets/TCP报文段/file-20261011163000463.png)
 >两个进程之间的MSS可以不一样
+>![](assets/TCP报文段/file-20261012000957280.png)
+>以MSS的大小将数据进行分割发送
