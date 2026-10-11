@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/以太网与IEEE802.3.md",
+                "file": "TCP连接管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "以太网与IEEE802.3"
+              "title": "TCP连接管理"
+            }
+          },
+          {
+            "id": "64efb5787469ab99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/流量控制，可靠传输与滑动窗口.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "流量控制，可靠传输与滑动窗口"
             }
           },
           {
@@ -55,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP可靠传输，流量控制.md",
+                "file": "TCP拥塞控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP可靠传输，流量控制"
+              "title": "TCP拥塞控制"
             }
           },
           {
@@ -195,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MAC帧",
+                "query": "GBN",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -216,7 +230,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -298,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP可靠传输，流量控制.md",
+                "file": "408/流量控制，可靠传输与滑动窗口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -337,14 +352,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "64efb5787469ab99",
   "lastOpenFiles": [
-    "TCP报文段.md",
     "TCP连接管理.md",
-    "传输层提供的服务.md",
-    "TCP可靠传输，流量控制.md",
-    "UDP数据报.md",
+    "未命名.md",
     "TCP拥塞控制.md",
+    "TCP报文段.md",
+    "408/以太网与IEEE802.3.md",
+    "TCP可靠传输，流量控制.md",
+    "传输层提供的服务.md",
+    "UDP数据报.md",
     "assets/TCP拥塞控制/file-20261011230922413.png",
     "assets/TCP拥塞控制/file-20261011230806175.png",
     "assets/TCP拥塞控制/file-20261011230456758.png",
@@ -360,7 +377,6 @@
     "408/IPv4分组.md",
     "assets/TCP连接管理",
     "assets/TCP报文段",
-    "408/以太网与IEEE802.3.md",
     "408/网络地址转换NAT.md",
     "assets/UDP数据报",
     "408/无连接UDP和面向连接TCP.md",
