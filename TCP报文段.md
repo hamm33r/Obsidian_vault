@@ -40,7 +40,7 @@ tags:
 ## 检验和
 ![](assets/TCP报文段/file-20261011162705637.png)
 >![](assets/TCP报文段/file-20261011162746690.png)
-
+>TCP的协议字段是6
 ## 选项
 ![](assets/TCP报文段/file-20261011162937341.png)
 >![](assets/TCP报文段/file-20261011163000463.png)
