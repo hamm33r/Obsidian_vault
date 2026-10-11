@@ -33,4 +33,7 @@ tags:
 
 ![](assets/TCP报文段/file-20261011162705637.png)
 >![](assets/TCP报文段/file-20261011162746690.png)
->
+
+![](assets/TCP报文段/file-20261011162937341.png)
+>![](assets/TCP报文段/file-20261011163000463.png)
+>两个进程之间的MSS可以不一样
