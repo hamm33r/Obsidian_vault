@@ -339,6 +339,9 @@
   },
   "active": "b29ba3c37b85855b",
   "lastOpenFiles": [
+    "assets/TCP拥塞控制/file-20261011224220338.png",
+    "assets/TCP拥塞控制/file-20261011224135157.png",
+    "assets/TCP拥塞控制",
     "TCP可靠传输，流量控制.md",
     "TCP拥塞控制.md",
     "assets/TCP可靠传输，流量控制/file-20261011222132203.png",
@@ -350,7 +353,6 @@
     "assets/TCP可靠传输，流量控制/file-20261011220715808.png",
     "assets/TCP可靠传输，流量控制/file-20261011220544896.png",
     "assets/TCP可靠传输，流量控制/file-20261011220104718.png",
-    "assets/TCP可靠传输，流量控制/file-20261011220034160.png",
     "assets/TCP可靠传输，流量控制",
     "TCP连接管理.md",
     "TCP报文段.md",
@@ -371,7 +373,6 @@
     "408/IP多播.md",
     "assets/网络层设备",
     "408/移动IP.md",
-    "assets/移动IP",
     "408/IP地址.md",
     "408/RIP协议.md",
     "408/BGP协议.md",
@@ -384,7 +385,6 @@
     "408/编码和调制.md",
     "408/传输介质.md",
     "408/信道的极限容量.md",
-    "408/通信基础基本概念.md",
     "未命名.canvas"
   ]
 }
