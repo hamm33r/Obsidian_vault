@@ -8,3 +8,8 @@ tags:
 
 # Cookie的作用
 ![](assets/HTTP/file-20261013050154688.png)
+
+# 例题
+![](assets/HTTP/file-20261013050338208.png)
+
+# 总结
