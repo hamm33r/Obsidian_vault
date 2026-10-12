@@ -6,3 +6,7 @@ tags:
 ![](assets/DNS/file-20261013002234734.png)
 
 ![](assets/DNS/file-20261013002423504.png)
+
+# 层次域名空间
+## 书写规则
+![](assets/DNS/file-20261013005230809.png)
