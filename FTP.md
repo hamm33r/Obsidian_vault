@@ -25,6 +25,6 @@ tags:
 
 # 拓展
 ![](assets/FTP/file-20261013030431513.png)
-
+>请求LIST是控制连接，返回LIST是数据连接
 # 总结
 ![](assets/FTP/file-20261013030613138.png)
