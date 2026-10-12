@@ -6,7 +6,7 @@ tags:
 ![](assets/DNS/file-20261013002234734.png)
 
 ![](assets/DNS/file-20261013002423504.png)
-
+>使用的是UDP的服务
 # 层次域名空间
 ## 书写规则
 ![](assets/DNS/file-20261013005230809.png)
@@ -36,4 +36,4 @@ tags:
 ![](assets/DNS/file-20261013012242768.png)
 >用户主机查本地域名服务器默认采用递归查询
 >例题![](assets/DNS/file-20261013012807753.png)
-
+>![](assets/DNS/file-20261013015400561.png)
