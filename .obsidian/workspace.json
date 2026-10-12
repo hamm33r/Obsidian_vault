@@ -353,6 +353,8 @@
   },
   "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
+    "assets/DNS/file-20261013010320271.png",
+    "assets/DNS/file-20261013010223227.png",
     "assets/DNS/file-20261013010004259.png",
     "assets/DNS/file-20261013005230809.png",
     "assets/DNS/file-20261013002423504.png",
@@ -368,8 +370,6 @@
     "TCP拥塞控制.md",
     "assets/TCP拥塞控制/file-20261012040657320.png",
     "TCP连接管理.md",
-    "assets/TCP连接管理/file-20261012040340507.png",
-    "assets/TCP连接管理/file-20261012040312684.png",
     "TCP可靠传输，流量控制.md",
     "TCP报文段.md",
     "408/流量控制，可靠传输与滑动窗口.md",

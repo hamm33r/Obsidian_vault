@@ -13,3 +13,10 @@ tags:
 
 ## 域名的层次结构
 ![](assets/DNS/file-20261013010004259.png)
+
+### 顶级域名（TLD）分类
+![](assets/DNS/file-20261013010223227.png)
+
+### 小结
+![](assets/DNS/file-20261013010320271.png)
+
