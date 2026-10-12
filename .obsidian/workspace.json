@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络应用模型.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络应用模型"
+              "title": "DNS"
             }
           },
           {
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络应用模型.md",
+                "file": "DNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -353,12 +353,15 @@
   },
   "active": "6659ea9ada27a0bb",
   "lastOpenFiles": [
+    "assets/DNS/file-20261013002234734.png",
+    "assets/DNS",
+    "网络应用模型.md",
+    "DNS.md",
     "assets/网络应用模型/file-20261013001351576.png",
     "assets/网络应用模型/file-20261013000817527.png",
     "assets/网络应用模型/file-20261013000602446.png",
     "assets/网络应用模型",
     "TCP拥塞控制.md",
-    "网络应用模型.md",
     "assets/TCP拥塞控制/file-20261012040657320.png",
     "TCP连接管理.md",
     "assets/TCP连接管理/file-20261012040340507.png",
@@ -373,7 +376,6 @@
     "408/以太网与IEEE802.3.md",
     "传输层提供的服务.md",
     "UDP数据报.md",
-    "assets/TCP拥塞控制/file-20261011230922413.png",
     "assets/TCP拥塞控制",
     "assets/TCP可靠传输，流量控制",
     "408/IPv4分组.md",
@@ -386,7 +388,6 @@
     "408/网络层设备.md",
     "408/assets/网络层设备",
     "408/assets/移动IP",
-    "408/assets/IP多播",
     "408/IP多播.md",
     "408/移动IP.md",
     "408/IP地址.md",
@@ -398,7 +399,6 @@
     "408/子网划分与子网掩码.md",
     "408/计算机网络的分类.md",
     "408/电路交换，报文交换，分组交换.md",
-    "408/编码和调制.md",
     "未命名.canvas"
   ]
 }
