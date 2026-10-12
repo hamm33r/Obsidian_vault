@@ -20,3 +20,5 @@ tags:
 ### 小结
 ![](assets/DNS/file-20261013010320271.png)
 
+# 四类域名服务器
+![](assets/DNS/file-20261013011206038.png)
