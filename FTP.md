@@ -7,3 +7,6 @@ tags:
 
 # FTP的工作原理
 ![](assets/FTP/file-20261013024843346.png)
+
+## 登录阶段
+![](assets/FTP/file-20261013025042088.png)
