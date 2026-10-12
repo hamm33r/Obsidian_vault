@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
+                "file": "万维网www.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "万维网www"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP.md",
+                "file": "万维网www.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,8 +227,10 @@
   },
   "active": "344ecc1013cf045f",
   "lastOpenFiles": [
-    "万维网www.md",
+    "assets/万维网www/file-20261013055500225.png",
     "HTTP.md",
+    "万维网www.md",
+    "电子邮件.md",
     "assets/HTTP/file-20261013054345315.png",
     "未命名.md",
     "408/广域网.md",
@@ -250,7 +252,6 @@
     "assets/万维网www/file-20261013044630189.png",
     "assets/万维网www/file-20261013044518948.png",
     "assets/万维网",
-    "电子邮件.md",
     "assets/电子邮件",
     "408/DHCP协议.md",
     "408/OSI参考模型.md",
