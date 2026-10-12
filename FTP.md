@@ -24,3 +24,6 @@ tags:
 
 # 拓展
 ![](assets/FTP/file-20261013030431513.png)
+
+# 总结
+![](assets/FTP/file-20261013030613138.png)
