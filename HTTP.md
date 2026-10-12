@@ -14,6 +14,7 @@ tags:
 
 # 总结
 ![](assets/HTTP/file-20261013050511448.png)
-
+>HEAD方法![](assets/HTTP/file-20261013055726197.png)
+>
 # 常见应用层协议
 ![](assets/HTTP/file-20261013054345315.png)
