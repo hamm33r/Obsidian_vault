@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子邮件.md",
+                "file": "万维网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电子邮件"
+              "title": "万维网"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子邮件.md",
+                "file": "万维网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,6 +227,10 @@
   },
   "active": "344ecc1013cf045f",
   "lastOpenFiles": [
+    "assets/万维网/file-20261013041547470.png",
+    "assets/万维网",
+    "电子邮件.md",
+    "万维网.md",
     "assets/电子邮件/file-20261013035843056.png",
     "assets/电子邮件/file-20261013035714521.png",
     "assets/电子邮件/file-20261013035632865.png",
@@ -237,7 +241,6 @@
     "assets/电子邮件/file-20261013033643831.png",
     "assets/电子邮件",
     "408/DHCP协议.md",
-    "电子邮件.md",
     "FTP.md",
     "408/OSI参考模型.md",
     "408/计算机网络分层结构.md",
@@ -254,7 +257,6 @@
     "408/IO核心子系统.md",
     "assets/FTP/file-20261013030613138.png",
     "assets/FTP/file-20261013030431513.png",
-    "assets/FTP/file-20261013030056865.png",
     "assets/FTP",
     "408/文件的物理结构.md",
     "DNS.md",
@@ -266,13 +268,11 @@
     "408/流量控制，可靠传输与滑动窗口.md",
     "408/以太网与IEEE802.3.md",
     "传输层提供的服务.md",
-    "UDP数据报.md",
     "assets/TCP拥塞控制",
     "assets/TCP可靠传输，流量控制",
     "assets/TCP连接管理",
     "assets/TCP报文段",
     "assets/UDP数据报",
-    "assets/传输层提供的服务",
     "未命名.canvas"
   ]
 }
