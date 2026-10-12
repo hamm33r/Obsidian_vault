@@ -4,3 +4,6 @@ tags:
 ---
 # FTP的功能
 ![](assets/FTP/file-20261013024509618.png)
+
+# FTP的工作原理
+![](assets/FTP/file-20261013024843346.png)
