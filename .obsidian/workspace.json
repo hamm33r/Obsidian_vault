@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "031e4dc9c8ba4fad",
+        "id": "92862af5488e3aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "2b097e970208f163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/路由聚合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "路由聚合"
-            }
-          },
-          {
-            "id": "5fa263cba91de05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/网络层设备.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "网络层设备"
-            }
-          },
-          {
-            "id": "6659ea9ada27a0bb",
+            "id": "3c7f890f95db83ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,119 +22,21 @@
             }
           },
           {
-            "id": "64efb5787469ab99",
+            "id": "344ecc1013cf045f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP可靠传输，流量控制.md",
+                "file": "电子邮件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP可靠传输，流量控制"
-            }
-          },
-          {
-            "id": "e8585e7f765c4df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP拥塞控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP拥塞控制"
-            }
-          },
-          {
-            "id": "b29ba3c37b85855b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP可靠传输，流量控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP可靠传输，流量控制"
-            }
-          },
-          {
-            "id": "c64668ba7129a91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/无连接UDP和面向连接TCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无连接UDP和面向连接TCP"
-            }
-          },
-          {
-            "id": "97f88209048217d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/BGP协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BGP协议"
-            }
-          },
-          {
-            "id": "ba00ef6e22b6460d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机网络的性能指标.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机网络的性能指标"
-            }
-          },
-          {
-            "id": "135291ac6698f7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/OSPF协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSPF协议"
-            }
-          },
-          {
-            "id": "a958284d1079d762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/BGP协议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BGP协议"
+              "title": "电子邮件"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FAT",
+                "query": "DHCP",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -312,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FTP.md",
+                "file": "电子邮件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -351,8 +225,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6659ea9ada27a0bb",
+  "active": "344ecc1013cf045f",
   "lastOpenFiles": [
+    "assets/电子邮件/file-20261013033643831.png",
+    "assets/电子邮件",
+    "408/DHCP协议.md",
+    "电子邮件.md",
+    "FTP.md",
+    "408/OSI参考模型.md",
+    "408/计算机网络分层结构.md",
+    "408/移动IP.md",
+    "408/网络层设备.md",
+    "TCP拥塞控制.md",
+    "网络应用模型.md",
+    "408/两级页表.md",
+    "408/数字电路.md",
+    "408/卡特兰数.md",
+    "408/编码和调制.md",
+    "408/传输介质.md",
+    "408/固态硬盘.md",
+    "408/IO核心子系统.md",
     "assets/FTP/file-20261013030613138.png",
     "assets/FTP/file-20261013030431513.png",
     "assets/FTP/file-20261013030056865.png",
@@ -363,15 +255,11 @@
     "assets/FTP/file-20261013024509618.png",
     "assets/FTP",
     "408/文件的物理结构.md",
-    "FTP.md",
     "DNS.md",
     "assets/DNS/file-20261013015400561.png",
     "assets/DNS/file-20261013012807753.png",
-    "assets/DNS/file-20261013012523470.png",
     "assets/DNS",
-    "网络应用模型.md",
     "assets/网络应用模型",
-    "TCP拥塞控制.md",
     "TCP连接管理.md",
     "TCP可靠传输，流量控制.md",
     "TCP报文段.md",
@@ -381,24 +269,10 @@
     "UDP数据报.md",
     "assets/TCP拥塞控制",
     "assets/TCP可靠传输，流量控制",
-    "408/IPv4分组.md",
     "assets/TCP连接管理",
     "assets/TCP报文段",
-    "408/网络地址转换NAT.md",
     "assets/UDP数据报",
-    "408/无连接UDP和面向连接TCP.md",
     "assets/传输层提供的服务",
-    "408/网络层设备.md",
-    "408/assets/网络层设备",
-    "408/IP多播.md",
-    "408/移动IP.md",
-    "408/IP地址.md",
-    "408/RIP协议.md",
-    "408/BGP协议.md",
-    "408/OSPF协议.md",
-    "408/计算机网络的性能指标.md",
-    "408/三种交换方式的性能分析.md",
-    "408/子网划分与子网掩码.md",
     "未命名.canvas"
   ]
 }
