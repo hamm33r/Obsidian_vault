@@ -11,10 +11,56 @@
             "id": "af8d44545b100cf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "顺序表算法题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "顺序表算法题"
+            }
+          },
+          {
+            "id": "c350c27f2c406594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/求导公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "求导公式"
+            }
+          },
+          {
+            "id": "59dc61d98c36a84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/泰勒公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰勒公式"
+            }
+          },
+          {
+            "id": "14b47663f27d9963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/区间再现公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区间再现公式"
             }
           }
         ]
@@ -64,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PPP协议",
+                "query": "区间再",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -167,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/HTTP.md",
+                "file": "顺序表算法题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,8 +252,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2cf70ec487acc201",
+  "active": "af8d44545b100cf3",
   "lastOpenFiles": [
+    "高等数学/基本积分公式.md",
+    "顺序表算法题.md",
+    "高等数学/求导公式.md",
+    "高等数学/区间再现公式.md",
+    "高等数学/泰勒公式.md",
+    "408/HTTP.md",
     "408/assets/HTTP",
     "408/assets/万维网www",
     "408/assets/电子邮件",
@@ -218,18 +270,15 @@
     "408/assets/TCP可靠传输，流量控制",
     "408/assets/TCP连接管理",
     "408/assets/TCP报文段",
-    "408/assets/UDP数据报",
     "408/assets/HTTP/file-20261013064150562.png",
     "408/广域网.md",
     "408/万维网www.md",
     "408/TCP连接管理.md",
-    "408/HTTP.md",
     "408/DNS.md",
     "408/assets/HTTP/file-20261013055726197.png",
     "408/assets/万维网www/file-20261013055500225.png",
     "408/电子邮件.md",
     "408/assets/HTTP/file-20261013054345315.png",
-    "未命名.md",
     "408/FTP.md",
     "408/传输层提供的服务.md",
     "408/计算机网络的概念.md",
@@ -251,9 +300,6 @@
     "408/网络应用模型.md",
     "408/两级页表.md",
     "408/数字电路.md",
-    "408/卡特兰数.md",
-    "408/编码和调制.md",
-    "408/传输介质.md",
     "未命名.canvas"
   ]
 }
