@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "万维网www.md",
+                "file": "408/广域网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "万维网www"
+              "title": "广域网"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "DNS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "协议",
+                "query": "PPP协议",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "万维网www.md",
+                "file": "HTTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,10 +252,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "344ecc1013cf045f",
+  "active": "2cf70ec487acc201",
   "lastOpenFiles": [
-    "TCP连接管理.md",
+    "assets/HTTP/file-20261013064150562.png",
+    "408/广域网.md",
     "万维网www.md",
+    "TCP连接管理.md",
     "HTTP.md",
     "DNS.md",
     "assets/HTTP/file-20261013055726197.png",
@@ -264,7 +265,6 @@
     "电子邮件.md",
     "assets/HTTP/file-20261013054345315.png",
     "未命名.md",
-    "408/广域网.md",
     "FTP.md",
     "传输层提供的服务.md",
     "408/计算机网络的概念.md",
@@ -294,7 +294,6 @@
     "408/卡特兰数.md",
     "408/编码和调制.md",
     "408/传输介质.md",
-    "408/固态硬盘.md",
     "assets/FTP",
     "assets/DNS",
     "assets/网络应用模型",
