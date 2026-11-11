@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性结构.md",
+                "file": "高等数学/三角函数公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性结构"
+              "title": "三角函数公式"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/三角函数公式.md",
+                "file": "高等数学/凹凸函数的定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三角函数公式"
+              "title": "凹凸函数的定义"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "区间再现公式"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "周期",
+                "query": "二阶导",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -269,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性结构.md",
+                "file": "高等数学/基本积分公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,8 +309,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "af8d44545b100cf3",
+  "active": "a5574da5b958a7eb",
   "lastOpenFiles": [
+    "高等数学/凹凸函数的定义.md",
+    "高等数学/三角函数公式.md",
+    "高等数学/基本积分公式.md",
+    "高等数学/两个重要数列极限.md",
+    "线性代数/递推型行列式.md",
+    "高等数学/大观.md",
+    "高等数学/数列极限.md",
+    "高等数学/数列和的极限.md",
+    "线性结构.md",
     "assets/线性结构/file-20261107050606717.png",
     "assets/线性结构/file-20261107050549654.png",
     "assets/线性结构/file-20261107050225439.png",
@@ -317,13 +327,9 @@
     "assets/线性结构/file-20261107045713721.png",
     "assets/线性结构",
     "由二叉树的遍历序列构造二叉树.md",
-    "线性结构.md",
     "顺序表算法题.md",
     "高等数学/泰勒公式.md",
-    "高等数学/大观.md",
     "高等数学/定积分求面积,体积,弧长,平均值.md",
-    "高等数学/基本积分公式.md",
-    "高等数学/三角函数公式.md",
     "高等数学/函数的周期性.md",
     "高等数学/导数定义解题.md",
     "高等数学/导数的性态.md",
@@ -337,10 +343,6 @@
     "高等数学/动区域上的二重积分.md",
     "高等数学/积分等式与积分不等式.md",
     "高等数学/微分不等式.md",
-    "线性代数/两个方程组的公共解与同解方程组的区别.md",
-    "线性代数/化简行阶梯形矩阵何时可以使用列变换.md",
-    "高等数学/变限积分性质.md",
-    "高等数学/多元函数极值,最值.md",
     "assets/由二叉树的遍历序列构造二叉树/file-20261022213124837.png",
     "assets/由二叉树的遍历序列构造二叉树",
     "408/assets/HTTP",
@@ -355,7 +357,6 @@
     "408/assets/HTTP/file-20261013055726197.png",
     "408/assets/万维网www/file-20261013055500225.png",
     "408/assets/HTTP/file-20261013054345315.png",
-    "408/assets/HTTP/file-20261013050511448.png",
     "未命名.canvas"
   ]
 }
